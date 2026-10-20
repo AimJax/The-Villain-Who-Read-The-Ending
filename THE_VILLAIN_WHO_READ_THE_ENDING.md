@@ -567,70 +567,72 @@ He would make sure the assembly happened—and that the story did not happen the
 
 Jiang sent for the eastern courtyard's instructor before the afternoon had passed.
 
-The man arrived with a narrow cushion and folded paper, wearing the guarded expression of someone expecting another demand.
+The man arrived with a narrow cushion and paper, looking guarded.
 
 “You asked for instruction, Young Master?”
 
-“I have three days before the family assembly. Tell me what I can improve safely in that time, and what mistakes would set me back.”
+“I have three days before the family assembly. Tell me what I can improve safely, and what mistakes would set me back.”
 
-“Three days is not enough to advance a cultivation stage through ordinary practice. Forcing a breakthrough would be reckless. You can, however, improve control and correct inefficient habits.”
+“Three days is not enough to advance a cultivation stage through ordinary practice. Forcing a breakthrough would be reckless. You can improve control and correct inefficient habits.”
 
 “Show me how you would measure improvement.”
 
-The instructor paused, then set the cushion on the floor. Jiang's question had changed the lesson before it began.
+The instructor paused, then set the cushion down.
 
-He settled into the posture he had been shown: back straight, shoulders loose, breath steady. When he tried to direct the faint pressure below his navel, it blurred and slipped from his attention.
+Jiang settled into the posture he had been shown: back straight, shoulders loose, breath steady. When he tried to direct the faint pressure below his navel, it blurred and slipped from his attention.
 
 “Do not chase the sensation,” the instructor said. “You must learn patience.”
 
 “That's a warning, not a method. What changes when I make the mistake?”
 
-The instructor studied him, then answered more precisely. “Your breathing becomes uneven. Your muscles tense. You reach for the sensation, and it fades. Observe those changes before trying to correct anything.”
+“Your breathing becomes uneven. Your muscles tense. You reach for the sensation, and it fades. Observe those changes.”
 
-Jiang tried again, tracking his breathing, shoulder tension, and the faint pressure in his lower abdomen without pursuing it. He deliberately tightened his shoulders. The sensation grew harder to distinguish. When he relaxed, his breathing settled and the pressure became perceptible again—not stronger, but clearer.
+Jiang tried again, tracking his breathing, shoulder tension, and the faint pressure in his lower abdomen. He deliberately tightened his shoulders. The sensation grew harder to distinguish. When he relaxed, the pressure became perceptible again—not stronger, but clearer.
 
-He repeated the test. On the third attempt, he reached too eagerly and lost the sensation.
+He repeated the test, then lost the sensation when he reached too eagerly.
 
-He stopped.
+“Your shoulders,” the instructor said, surprised. “You noticed the connection.”
 
-“Your shoulders,” the instructor said, a hint of surprise entering his voice. “You noticed the connection.”
-
-“I noticed a correlation. I don't yet know whether it is the cause, or whether I am mistaking one effect for another.” Jiang opened his eyes. “But I can reproduce the observation. That's enough to begin.”
-
-For the first time, the instructor looked at him without the guarded patience he had brought into the room.
+“I noticed a correlation. I can reproduce the observation. That's enough to begin.”
 
 “Most students want to feel more qi. You are trying to understand why you lose track of it.”
 
 “Wanting a result doesn't tell me how to produce one.”
 
-The instructor gave a small nod. “Then keep the posture and breathing consistent. Change only one thing at a time. Do not attempt to force circulation. If the sensation becomes painful or unstable, stop and call for me.”
+“Keep your posture and breathing consistent. Change only one thing at a time. Do not force circulation. If the sensation becomes painful or unstable, stop and call for me.”
 
-Jiang committed the instructions to memory. In business, he had learned unfamiliar industries by isolating variables, testing assumptions, and discarding explanations that failed to predict results. Cultivation was unfamiliar; disciplined investigation was not.
+In business, Jiang had learned unfamiliar industries by isolating variables and testing assumptions. Cultivation was unfamiliar; disciplined investigation was not.
 
-They continued. Jiang still could not command the qi, but he left with a repeatable posture, a clearer sense of what disrupted his attention, and a safe way to practice. He had not advanced a stage; he had found a way to measure whether tomorrow's practice improved on today's.
+By the end of the session, he still could not command qi, but he had a repeatable posture and a safe way to practice. He had not advanced a stage. He had found a way to measure whether tomorrow's practice improved on today's.
 
-“Write down the exercises I can repeat alone,” he said. “Include the warning signs that mean I should stop.”
+“Write down the exercises I can repeat alone, including the warning signs that mean I should stop.”
 
 “I will, Young Master.”
 
-“One more thing. At the assembly, what am I expected to do?”
+“At the assembly, what am I expected to do?”
 
-The instructor's expression shifted. “That depends on the proceedings. Young masters are sometimes invited to demonstrate their progress or comment on younger disciples. I have heard no specific assignment for you.”
+“That depends on the proceedings. Young masters are sometimes invited to demonstrate their progress or comment on younger disciples. I have heard no specific assignment for you.”
 
 “Who decides?”
 
 “The presiding elder, usually. The household steward should know the order of proceedings.”
 
-Jiang nodded. No role had been assigned, so he would not invent one. But if the assembly allowed a young master to judge or challenge an outsider, the opportunity to humiliate Shen Yan could arise without being formally arranged.
-
-“Have the steward send me the order of proceedings when it is available. And find out who sponsored Shen Yan's attendance. Quietly. I want facts, not gossip.”
+“Get me the order when it's available. And find out who sponsored Shen Yan's attendance. Quietly. I want facts, not gossip.”
 
 “Yes, Young Master.”
 
-After the instructor left, Jiang returned to his notes. Beneath his objective, he added: **Do not create the confrontation. Do not allow others to create it on my behalf.**
+After the instructor left, Jiang returned to his notes. The line he had written earlier—do not create the confrontation—sat beneath Shen Yan's name. He read it once, then drew a line through it.
 
-He could spend three days chasing a breakthrough that was unlikely to come, or use them to make the fatal sequence harder to trigger. Strength mattered. So did timing, position, and the ability to refuse a trap without turning the refusal into a spectacle.
+Avoiding the remembered insult might spare him a grudge. It might also discard one of the few moments in the original story he could anticipate with any confidence. He did not know why the confrontation mattered beyond the chain of events that followed, and he would not mistake memory for certainty. But the story had given him a doorway. He saw no reason to walk past it merely because it led somewhere dangerous.
 
-For now, the assembly was the battlefield he could prepare for.
+The original Gu Tianxing had humiliated Shen Yan out of vanity, with nothing behind the insult but his family name and temper. Jiang would not repeat the act as a fool. If Shen Yan was to become his enemy, Jiang would learn who stood behind him, what rules governed the assembly, and what consequences he could actually enforce. Strength would help. So would evidence, status, and control of the room. A threat that could not be carried out was only noise.
 
-And Shen Yan was a name he would treat with care.
+He would still humiliate Shen Yan—not with a childish sneer or a careless insult, but with something deliberate, public, and difficult to answer. If the original scene was a spark, Jiang intended to choose where it landed, and to know the size of the powder keg before striking it.
+
+He added a new line to his notes: **Follow the story to the confrontation. Prepare so thoroughly that the consequences belong to me, not to chance.**
+
+Three days was enough to gather information, sharpen what he already possessed, and decide how far he was willing to go.
+
+Shen Yan would receive his humiliation.
+
+This time, the man delivering it would know what he was doing.
