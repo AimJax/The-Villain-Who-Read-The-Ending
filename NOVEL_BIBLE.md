@@ -198,6 +198,20 @@ Jiang examines his young body without assuming he knows its cultivation level, s
 - The attendant is not yet named or otherwise characterized. Their answer and any further relationship to Gu Tianxing remain to be established.
 - No exact current date, death countdown, or new cultivation mechanic has been established.
 
+
+### Chapter 1 — Scene 4: The First Answers
+**Status:** Author-approved; binding canon.  
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 1)
+
+The household attendant answers Jiang's questions about the date, recent Gu Clan affairs, and Jiang's own scheduled obligations. The answers are general and do not reveal a major event. Jiang recognizes the limits of the information and does not mistake the date for a reliable timeline anchor. He dismisses the attendant and decides to investigate his body and position within the clan before comparing new evidence with his memories of the novel.
+
+### Canonical implications of Scene 4
+- The attendant says it is “the fourteenth day of the current month.” No month name, year, or calendar system is established.
+- The attendant describes Gu Clan affairs as proceeding normally, with elders occupied by internal matters and no development requiring Jiang's immediate attention.
+- The attendant says there is nothing he has been instructed to tell Jiang about his personal schedule.
+- Jiang's recollection of the novel provides broad progression, future opportunities, and the eventual catastrophe, but no reliable chronological anchor for his present position.
+- Jiang's next intended step is to understand the body he has inherited and Gu Tianxing's position within the clan. His cultivation level and capabilities remain undecided.
+
 ---
 ## 10. Timeline
 
