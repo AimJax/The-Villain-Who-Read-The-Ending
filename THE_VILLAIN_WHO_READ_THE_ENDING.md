@@ -205,9 +205,7 @@ The youth hesitated. “You moved before I expected you to, Young Master. Your s
 
 The youth looked startled by the answer.
 
-Jiang repeated the movement once without the weapon, trying to reconstruct the sensation. It would not come. His body gave him no more than a vague familiarity, as if the movement belonged to a language he had heard often but never learned to speak.
-
-He stopped before frustration made him force it.
+Jiang repeated the movement without the weapon. The sensation would not return; his body offered only the vague familiarity of a language heard but never learned.
 
 The youth lowered the wooden blade. Around them, the courtyard's rhythm slowly resumed, but several trainees still watched. Their attention suggested that Gu Tianxing's behavior had violated some expectation. Jiang could not yet tell whether they were surprised by his skill, his questions, or the fact that he had not erupted after being struck.
 
@@ -219,7 +217,7 @@ The youth lowered the wooden blade. Around them, the courtyard's rhythm slowly r
 
 The boy looked down at the weapon. “You knew the basic movements. You did not like being corrected.”
 
-That answer was more useful than praise. Jiang had a body with a history, a reputation he had not earned, and reflexes he could not reliably command. He would need to learn all three before trusting any of them.
+That was more useful than praise. Jiang had inherited a history, a reputation, and reflexes he could not reliably command.
 
 “That will be enough,” he said. “Tell me your name.”
 
@@ -377,9 +375,9 @@ Jiang repeated the step. On the next attempt, his heel turned too far and his ba
 
 For the first time, the instructor's expression shifted toward approval. “Then you may learn quickly.”
 
-Jiang rose from the platform. His rank had not changed. His command of qi remained uncertain, and his body still resisted deliberate control. But he had identified a process: observe, isolate a variable, repeat, compare, and record. He had used it to learn unfamiliar industries in his first life. Cultivation was a different discipline; the method of disciplined inquiry was not.
+Jiang rose from the platform. His rank had not changed, and his command of qi remained uncertain. But he had a process: observe, isolate a variable, repeat, compare, and record. Cultivation was unfamiliar; disciplined inquiry was not.
 
-He would not become powerful in three days. He could, however, stop wasting those days.
+He would not become powerful in three days. He could stop wasting them.
 
 * * *
 
