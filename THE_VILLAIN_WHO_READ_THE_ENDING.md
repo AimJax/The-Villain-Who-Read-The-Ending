@@ -83,3 +83,51 @@ Jiang returned to the mirror for one last look. The original Gu Tianxing had bee
 He had spent his first moments trying to find a date that would tell him how long he had left. That had been the wrong first question. A deadline was useful only after he understood the situation it governed.
 
 Jiang turned from the mirror and settled on a more immediate objective. Before he made any move against the future he remembered, he would establish the facts of his present life—starting with the capabilities of the body he now possessed and the expectations attached to his name. No grand declaration, no reckless display, and no borrowed confidence. First, he would learn the rules of the board. Then he would decide how to break them.
+
+* * *
+
+He did not leave the room to search for answers at random. If the body belonged to a cultivation clan's young master, then the clan's training grounds were the most direct place to begin learning what that title meant in practice.
+
+Jiang opened the door and stepped into the corridor. A servant passing at the far end stopped at once and bowed. Jiang asked where the clan's training grounds were.
+
+The servant hesitated just long enough to be noticed. “The eastern courtyard, Young Master.”
+
+“Take me there.”
+
+“Yes, Young Master.”
+
+The servant led him through a succession of covered walkways and courtyards. Jiang paid attention to the route, the people they passed, and the way each person reacted when they recognized him. Some bowed quickly and looked away. Others watched him for a moment too long before remembering themselves. No one challenged his presence, but neither did the corridor feel like a place where people were at ease around him.
+
+He filed the reactions away. They might mean respect, apprehension, dislike, or some mixture he could not yet distinguish. A single glance was weak evidence. A pattern, repeated under different circumstances, would be worth more.
+
+The eastern courtyard opened beyond a broad stone threshold. Young men and women were training in scattered groups, their movements sharper and more disciplined than anything Jiang could judge from the room he had awakened in. Some practiced with weapons; others stood in pairs, repeating movements while a few older youths watched. The sounds of footwork and striking wood carried across the courtyard.
+
+Jiang stopped at the edge and observed. He had expected to find a place where the body could be tested, but the sight also gave him something else: a standard against which to measure the identity he had inherited. These people were not merely dressed differently from the world he knew. They were learning a craft whose rules he did not understand, inside a hierarchy where his name apparently mattered before he had done anything to earn it.
+
+Their training began to falter as they noticed him. One pair completed its movement late. A young man lowered his practice weapon and glanced at the others, as if checking whether they had seen the same thing. The courtyard did not fall silent, but its rhythm changed. Jiang had seen the same small fracture in a boardroom when an unexpected executive entered a meeting: everyone kept working, and everyone became aware of the audience.
+
+A youth near the closest practice area stepped forward. He looked Jiang over with open surprise, then gave a shallow salute that was technically respectful and little more.
+
+“Young Master. Are you here to train?”
+
+“I'm here to understand what I can do,” Jiang said.
+
+The youth's expression shifted. Surprise gave way to uncertainty, and then to a cautious interest. “Do you want someone to test you?”
+
+There it was: an immediate opportunity to learn something, with a risk attached. Jiang knew nothing about the body's cultivation, the rules of training, or what this young man might consider a reasonable test. Accepting blindly would be foolish. Refusing merely to avoid looking ignorant would be worse. He needed to control the terms without pretending to know more than he did.
+
+“What would the test involve?” Jiang asked.
+
+The youth seemed even more surprised by the question. Around them, a few conversations had stopped altogether.
+
+“A basic exchange,” he said at last. “Nothing serious. I can show you where you stand.”
+
+Jiang studied him, then glanced across the courtyard. The watching faces offered no reliable answer about whether this was a routine courtesy or an unusual spectacle. He would have to judge the situation as it unfolded.
+
+“Then show me,” Jiang said. “And explain what you're doing as we go.”
+
+The youth's grip tightened slightly around his practice weapon. He had expected something else—mockery, perhaps, or an order—but he stepped into the open space and raised the wooden blade into a ready position.
+
+Jiang walked forward. He had come looking for the first measurable fact about his new life. Now he was about to discover whether the body he had inherited was merely young, or whether it could survive the world that had claimed it.
+
+For the first time since awakening, the next step was no longer an idea. It was standing in front of him, holding a weapon.
