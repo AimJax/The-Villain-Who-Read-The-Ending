@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 1.6
+## Continuous Novel Bible — Version 1.7
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scene 1 is author-approved and binding canon. Chapter 2, Scene 2 has been drafted and committed for author audit; it is not canon until approved.
+**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scene 3 has been drafted and committed for author audit; it is not canon until approved.
 
 ### Core premise
 
@@ -354,7 +354,9 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 | Jiang's first answers | Scene 4: receives only general information; no reliable timeline anchor is established |
 | Jiang's next intended step | Scene 4: investigate his body and position within the Gu Clan before comparing findings against novel memories |
 | Jiang's body examination | Scene 5: basic movement reveals no obvious limitation, but does not establish cultivation ability or rank |
-| Jiang visits the training grounds | Scene 6: he observes clan members training and agrees to a basic exchange intended to help assess his body; exact capabilities and cultivation rank remain unknown |\n| Chapter 2, Scene 1 | Revised draft awaiting author audit: an instinctive evasion reveals embodied familiarity; the youth is deferential and apprehensive toward the Young Master |
+| Jiang visits the training grounds | Scene 6: he observes clan members training and agrees to a basic exchange intended to help assess his body; exact capabilities and cultivation rank remain unknown |\n| Chapter 2, Scene 1 | Author-approved; binding canon; included in manuscript |
+| Chapter 2, Scene 2 | Author-approved; binding canon; included in manuscript |
+| Chapter 2, Scene 3 | Draft committed; awaiting author audit; cultivation foundations and first deliberate body-memory repetition are provisional |
 
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
@@ -368,6 +370,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v1.0:** Recorded the author's approval of Scene 5 as binding canon. Drafted Scene 6 and appended it to Chapter 1 without an internal scene heading; Scene 6 was awaiting author audit.
 - **v1.1:** Recorded the author's approval of Scene 6 as binding canon and marked Chapter 1 complete. Added the author's continuity note that Gu Tianxing's body retains embodied familiarity and muscle memory, and that a young master of a great cultivation clan is expected to be talented; Jiang's practical understanding still lags behind his knowledge of the novel. Updated the progress summary, scene ledger, timeline, and opening-phase status.
 - **v1.2:** Clarified at the top-level project status that Chapter 1, Scene 6 is author-approved, binding canon, and not a draft. The v1.0 entry describes the scene's earlier historical draft state; v1.1 records its subsequent approval. This clarification removes ambiguity without changing any approved story prose.\n- **v1.3:** Added Chapter 2, Scene 1 to the manuscript as a draft for author audit, continuing directly from the raised wooden blade at the end of Chapter 1. Recorded the draft's provisional events and kept them explicitly noncanonical pending approval.\n- **v1.4:** Revised only the Chapter 2, Scene 1 training exchange dialogue and its immediate action beats to make the unnamed youth appropriately deferential and apprehensive toward Gu Tianxing, consistently addressing him as “Young Master.” Recorded this as draft-only characterization pending author audit.\n- **v1.5:** Recorded the author's acceptance of the revised Chapter 2, Scene 1 as binding canon. The youth's deference and apprehension toward Gu Tianxing are now established characterization for this scene.\n- **v1.6:** Added Chapter 2, Scene 2 to the manuscript as a draft for author audit. The scene probes the youth's remark, provides provisional observations about Gu Tianxing's prior training, and introduces a training instructor without establishing formal cultivation mechanics.
+- **v1.7:** Recorded Chapter 2, Scene 2 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 3, provisionally introducing qi, meridians, the dantian, early cultivation stages, Gu Tianxing's current stage, and Jiang's first deliberate repetition of a movement through embodied memory. Scene 3 remains noncanonical pending author audit.
 
 ---
 
@@ -385,20 +388,34 @@ The author has final authority over all canon. For every scene:
 **Current operating principle:** Build the story incrementally. Keep the approved prose intact, keep undecided details open, and let each new scene earn its place in canon.
 
 
-### Chapter 2 — Scene 2: Draft for author audit
+### Chapter 2 — Scene 2: The First Measure
+**Status:** Author-approved; binding canon.  
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 2)
 
+Jiang questions the youth about Gu Tianxing's prior training, learns that the original young master had a basic foundation but trained inconsistently and resisted correction, and is led to the eastern courtyard's instructor. The scene ends with the instructor reacting to Jiang's stated desire to learn what his body can do and what he is expected to know.
+
+**Canonical implications**
+- The unnamed youth consistently addresses Jiang as “Young Master” and behaves deferentially and apprehensively.
+- Gu Tianxing had some prior training and a basic movement foundation, but the youth cannot assess his full potential because his practice was inconsistent.
+- The instructor is assigned to the eastern courtyard. His name and wider background remain undecided.
+- Jiang's knowledge of the novel does not give him practical knowledge of cultivation.
+
+### Chapter 2 — Scene 3: Draft for author audit
 **Status:** Draft committed; awaiting author audit. Not canon until approved.
 
-**Purpose:** Follow directly from the first training exchange, turn the youth's apprehension into useful information, and bring Jiang into contact with a training instructor without granting him instant cultivation knowledge.
+**Purpose:** Give Jiang the first practical bridge between the body's embodied memory and conscious control, introduce the foundational vocabulary of cultivation, and establish an initial cultivation stage without granting instant mastery.
 
-**Draft beats:**
-- Jiang asks the youth to explain his earlier remark and makes clear that he wants an honest answer.
-- The youth reports that Gu Tianxing had a basic training foundation but was impatient with correction and did not train consistently enough for the youth to judge his ceiling. This is provisional scene information pending author approval.
-- The youth recognizes the first evasive movement as resembling something Gu Tianxing had done before, but cannot explain why Jiang's timing surprised him.
-- Jiang distinguishes the youth's limited observations from actual knowledge of cultivation and asks for someone qualified to explain.
-- The youth leads Jiang to the eastern courtyard's instructor.
-- The instructor reacts with restrained surprise when Jiang says he wants to understand his body's capabilities and what he is expected to know. The scene ends on that reaction as a hook.
-- No cultivation level, technique, ranking system, or specific cultivation mechanics are defined in this scene.
+**Draft beats**
+- The instructor explains qi, meridians, the dantian, and the broad early progression of Body Tempering, Qi Gathering, and Foundation Establishment.
+- Jiang is guided through a basic sensing exercise and notices a faint internal sensation, but is warned not to force qi through his meridians without instruction.
+- The instructor identifies Gu Tianxing as being at the third layer of Qi Gathering, with a sound foundation and respectable talent, while noting inconsistent training and a lack of recent progress.
+- Jiang revisits the defensive step from Scene 1. By settling his posture and breath and allowing the body's response to emerge before consciously dissecting it, he reproduces the first evasive movement, then works to repeat it with uneven success.
+- The scene frames this as the start of conscious control, not instant combat competence.
+- Jiang requests the introductory cultivation manual and a review of his training records.
 
-**Continuity guardrails:** Jiang's foreknowledge is not practical cultivation knowledge. The body's embodied familiarity may assist him, but he cannot consciously command it reliably. The youth consistently addresses him as “Young Master” and remains deferential and apprehensive. All new details in this draft remain provisional until author approval.
+**Draft-only continuity notes**
+- The cultivation terminology and early-stage progression introduced here are provisional until the author approves this scene.
+- Gu Tianxing's third layer of Qi Gathering, sound foundation, and the instructor's assessment of his talent are proposed scene facts, not yet binding canon.
+- Jiang's ability to reproduce the defensive step remains inconsistent; he has not gained general combat mastery or a named technique.
+- The instructor's name, the complete cultivation hierarchy, the limits of qi sensing, and the details of meridian circulation remain undecided.
 
