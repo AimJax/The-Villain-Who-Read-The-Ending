@@ -4,9 +4,9 @@
 
 "Tell him he's lucky I'm even acknowledging the request," Jiang Tingyuan said, not looking up from his tablet. "But the answer is no. He can wait in the lobby until his security badge is deactivated."
 
-The boardroom had the smell of expensive roast coffee and the silent, vibrating energy of victory. Around the mahogany table, executives were practically glowing, celebrating the final absorption of a decade-long rival. To them, it was a historic merger; to Jiang, it was simply the logical conclusion of a hostile takeover. He didn't join in the champagne toasts. He didn't feel a surge of pride. He felt the same clinical satisfaction one feels when a complex equation finally balances to zero.
+The boardroom had the smell of expensive roast coffee and the silent, vibrating energy of victory. Around the mahogany table, executives celebrated the absorption of a decade-long rival. They called it a historic merger. Jiang knew the decisive work had happened months earlier: a refinancing deadline brought forward, two lenders quietly turned against the target, and a succession dispute encouraged until the board split itself in half. The takeover had looked inevitable only after he had made every alternative more expensive. He didn't join the champagne toast. The result was not a triumph to savor; it was a problem brought to its conclusion.
 
-He stood by the floor-to-ceiling windows, watching the city sprawl beneath him like a circuit board. He remembered the grit of the streets from twenty years ago, the specific, oppressive weight of poverty that teaches a man that mercy is a luxury for the defeated. He had traded a traditional life—wives, children, the warmth of a home—for the cold precision of an empire. He didn't regret the trade. Influence was a far more reliable companion than affection, and the silence of his penthouse was a reward, not a void.
+He stood by the floor-to-ceiling windows, watching the city sprawl beneath him like a circuit board. Poverty had taught him to count what a person could lose; competition had taught him to identify what they could be made to fear losing. He had turned those lessons into an empire by learning industries faster than rivals expected, buying what he could not build, and breaking what he could not buy. He had traded away the usual architecture of a personal life—wife, children, the warmth of a home—and did not regret it. Influence was measurable. Affection had always seemed a poor substitute for control.
 
 In the back of the town car, Jiang leaned his head against the cool leather and scrolled through the final chapters of a cultivation novel. He scoffed, his thumb flicking aggressively through the pages. The protagonist had just ascended through a series of convenient coincidences and sheer luck, defeating a "mastermind" villain who had suddenly become incompetent for the sake of the plot. "Predictable garbage," Jiang muttered. It was an insult to the concept of strategy. If he had been the one navigating that world, he wouldn't have relied on destiny; he would have acquired the assets, leveraged the weaknesses, and owned the heaven itself before the protagonist even woke up.
 
@@ -80,7 +80,7 @@ He could demand a parade of explanations. He could pretend to remember every cus
 
 Jiang returned to the mirror for one last look. The original Gu Tianxing had been written as an arrogant fool, a convenient obstacle for a protagonist who needed someone to defeat. Jiang had no intention of preserving that role. But he would not escape it merely by deciding he was smarter than the man who had occupied this body before him. He needed evidence: what this body could do, what the clan expected of him, and what people believed they knew about Gu Tianxing.
 
-He had spent his first moments trying to find a date that would tell him how long he had left. That had been the wrong first question. A deadline was useful only after he understood the situation it governed.
+He had spent his first moments looking for a date that would tell him how long he had left. The impulse was understandable and incomplete: a deadline was useful only when he knew which event it measured, and a date meant little without a calendar or a reliable anchor in the remembered plot.
 
 Jiang turned from the mirror and settled on a more immediate objective. Before he made any move against the future he remembered, he would establish the facts of his present life—starting with the capabilities of the body he now possessed and the expectations attached to his name. No grand declaration, no reckless display, and no borrowed confidence. First, he would learn the rules of the board. Then he would decide how to break them.
 
@@ -137,186 +137,171 @@ For the first time since awakening, the next step was no longer an idea. It was 
 
 The youth moved first.
 
-His wooden blade came forward in a clean, uncomplicated line aimed at Jiang's shoulder. It was not fast enough to be frightening, nor slow enough to ignore. Jiang saw the weapon coming and began to consider whether he should step back, turn aside, or raise his arm—three options, none supported by any knowledge of how people fought in this world.
+His wooden blade came toward Jiang's shoulder in a clean, direct line. Jiang saw the attack begin and considered three responses—retreat, turn, block—without knowing which was appropriate.
 
-His body had already chosen.
+His body chose before he did.
 
-Jiang's left foot shifted diagonally. His shoulders turned a fraction, letting the blade pass close enough for him to feel the air it displaced. His right hand came up, not to seize the weapon, but to guide its path away from him. The movement was small and economical. By the time the youth's strike had passed, Jiang stood just outside its line, balanced and facing his opponent.
+One foot slid diagonally. His shoulders turned; his right hand guided the blade aside without catching it. The weapon passed close enough to stir his sleeve. Jiang remained balanced just beyond its path.
 
-For one brief moment, neither of them moved.
+The youth froze. So did several trainees watching from nearby.
 
-Jiang looked at his own hand.
+Jiang looked at his own hand. He had not planned the movement. He had barely understood the attack before his body had answered it.
 
-He had not planned that. He had barely understood what the youth was doing before his body had answered. There had been no conscious sequence of instructions, no calculation of angles or timing. He had seen the blade, and something beneath thought had placed him where he needed to be.
+“Again,” he said.
 
-The youth snatched the blade back and immediately lowered its tip. His surprise lasted only an instant before it gave way to alarm. He bowed his head, suddenly conscious of how close the weapon had come to the Gu Clan's young master.
+The youth's expression tightened. “Young Master?”
 
-“Again,” Jiang said.
-
-The youth looked up sharply. “Young Master?”
-
-“Again.”
-
-“Yes, Young Master.” He reset his stance with visible care, keeping the blade farther away until Jiang gave no sign of objection. “Please watch my shoulders, Young Master, not only the blade. The movement starts before the weapon reaches you.” He demonstrated the shift slowly, then brought the wooden blade across at a controlled pace.
-
-Jiang watched the shoulders. He understood the instruction in principle. In practice, the weapon's path seemed to demand all his attention. He tried to reproduce the shift he had just made, but consciously forcing the movement made him late. The blade tapped his upper arm.
-
-The youth jerked the blade down and took half a step back. “Forgive me, Young Master. I didn't mean to strike you harder than necessary. I only meant that you would have been hit.”
-
-“I understood.” Jiang rolled his shoulder once. The impact was harmless, but the lesson was not. His first response had come naturally; his attempt to repeat it had failed. Whatever had moved him, he could not summon it on command simply by deciding to.
-
-“Why did I avoid the first strike?” he asked.
-
-The youth stared at him, then glanced around the courtyard as if checking whether anyone else had heard the question. “You moved before I finished the attack, Young Master.”
-
-“That describes what happened. It doesn't explain it.”
-
-The youth swallowed. “I don't know how to explain it better, Young Master. Your step was right, and your balance didn't break. Most people who haven't trained would stumble trying to move like that.” His fingers tightened around the hilt. He seemed afraid that any answer might be taken as insolence, but more afraid of giving the Young Master an answer that was plainly wrong.
-
-Jiang absorbed the answer without letting it show on his face. It was an observation, not a verdict. One successful evasion did not make him skilled, and the youth might have been surprised simply because he expected Gu Tianxing to behave differently. Still, the body had produced a result that Jiang's conscious mind could not account for.
-
-“Show me the attack again,” he said. “Slower. Tell me what changes before you move.”
-
-The youth obeyed. He set his feet, shifted his weight, and let Jiang watch each stage before the blade came across. Jiang studied the sequence as he would a machine whose output he could observe but whose internal workings remained hidden. The youth's shoulders turned first; his weight followed; then the weapon moved. There was a pattern. That did not mean Jiang could use it yet.
-
-They tried again.
-
-This time Jiang anticipated the motion and stepped away too early. The youth halted the strike rather than follow through, but the correction left Jiang off balance. He had read the signal and misunderstood the timing. His heel scraped against the stone as he recovered.
-
-“Too soon, Young Master,” the youth said at once. He stopped the blade before it could follow through and lowered it rather than risk another accidental hit. “If you move before I commit, I can change direction.”
-
-“Then the first movement can be a feint.”
-
-“Yes, Young Master.” He bowed his head a fraction. “I should have explained that first. Forgive me.” His eyes flicked toward Jiang's face before he cautiously added, “You understand the principle, then, Young Master?”
-
-“I can reason it out.” Jiang returned to his starting position. “Reasoning and doing are different problems.”
-
-The youth nodded quickly. “Understood, Young Master.” His posture stayed rigid, and he avoided meeting Jiang's eyes for more than a moment. Jiang seemed to have unsettled him simply by asking questions, though whether the youth feared punishment, humiliation, or some other consequence was not yet clear. Jiang noticed, but did not ask. The reactions around the courtyard were becoming harder to dismiss as mere curiosity. Several trainees had stopped their own practice to watch. A few exchanged quiet words, though Jiang could not hear them clearly enough to infer what they meant.
-
-He had wanted a measurement. Instead, the first exchange had given him two contradictory facts: he had moved with an instinctive precision he could not explain, then failed to reproduce it when he tried to understand it. Neither fact canceled the other.
-
-“Once more,” Jiang said. “This time, don't make it easier for me. Just keep it controlled.”
-
-The youth hesitated before speaking, choosing each word with care. “If you permit it, Young Master, I'll aim for your side. Please keep your balance and try to move out of the line. And—please don't grab the blade, Young Master.”
-
-A practical instruction. Jiang appreciated that more than encouragement.
-
-The wooden weapon came toward him again. He watched the shoulders, the shifting weight, the slight turn that preceded the strike. He tried not to think through every joint and muscle. He let the information arrive, held his ground a fraction longer than before, and moved.
-
-Not perfectly. The blade brushed his sleeve and struck his ribs with a dull wooden knock. But his feet stayed beneath him, and he turned with the impact instead of folding around it. He was still in the exchange. He had not won, but he had learned something that the first clean evasion had concealed: the body could help him, yet it would not spare him the work of learning how to use it.
-
-The youth lowered his weapon a little. The surprise on his face had turned into guarded unease. He glanced at the watching trainees, then back at Jiang, and seemed to debate whether to keep silent.
-
-“Forgive me, Young Master. I shouldn't presume to ask, but… do you truly not remember?”
-
-Jiang kept his breathing steady. “Remember what?”
-
-The youth's face tightened. For a moment he looked as though he regretted speaking at all. “Nothing, Young Master. I spoke out of turn. I only thought—given who you are—that you would already know how to move like that. Please forgive my presumption.”
-
-That was more revealing than the strike.
-
-Jiang had come to test his body, but the youth had expected something from Gu Tianxing before they had exchanged more than a few blows. The expectation might have been based on past experience, reputation, or a mistaken assumption. He did not yet know which. He only knew that the body had acted as though it remembered a lesson his mind had never learned—and someone here seemed to think that lesson should already belong to him.
-
-“That will be enough,” Jiang said.
-
-The youth immediately lowered the weapon and stepped back, bowing his head. “Yes, Young Master.”
-
-The youth kept the wooden blade lowered. Around them, the courtyard's ordinary sounds began to return, though not everyone went back to training at once. Jiang flexed the fingers of his right hand, replaying the first movement in his mind. He could describe what had happened. He could not yet make it happen again at will.
-
-That was his first real measurement. Not strength, not rank, and certainly not mastery. A capacity existed here, buried in reflex and unfamiliar habit. Until he could separate what the body knew from what he himself understood, every test would risk confusing luck with ability.
-
-And judging by the youth's unfinished question, Gu Tianxing's body might have a history that its new occupant had not yet learned to read.
-* * *
-
-Jiang let the silence stretch. The youth kept his head lowered, wooden blade held carefully at his side, as if even the way he stood might be judged.
-
-“Look at me,” Jiang said.
-
-The youth obeyed at once, but his eyes rose only briefly before settling just below Jiang's face. “Yes, Young Master.”
-
-“You said you thought I would already know how to move like that. Explain.”
-
-The youth's shoulders stiffened. “I spoke carelessly, Young Master. I shouldn't have—”
-
-“I didn't ask whether you should have spoken. I asked what you meant.”
-
-The boy shut his mouth. Jiang watched him struggle between the urge to answer and the fear of answering incorrectly. That fear was useful, but it also made him a poor source of information. If Jiang wanted facts, he would have to make it clear that an honest answer was safer than a pleasing one.
-
-“You will not be punished for telling me what you saw,” Jiang said. “You will be punished for lying to me. Do you understand the difference?”
-
-“Yes, Young Master.” The answer came quickly. A moment later, the youth seemed to realize that he had agreed to a threat and paled further.
-
-Jiang noted it. The original Gu Tianxing had apparently made fear an ordinary part of conversation. He did not know how often the young master had used it, or what the people around him believed he might do. But the youth had not needed to hear a raised voice to take the warning seriously.
-
-“Now. What did you see?”
-
-The youth adjusted his grip on the wooden blade. “I've seen you train here before, Young Master. Not often. When you did, you already knew the basic movements. You didn't like being corrected, and you usually stopped when the instructor insisted you repeat something.”
-
-Jiang kept his expression still. “Was I good?”
-
-The question seemed to unsettle the youth more than the warning had. “I wouldn't presume to judge you, Young Master.”
-
-“That's not an answer.”
-
-“I—” He swallowed. “You had a good foundation, Young Master. Your movements were better than most beginners'. But you didn't practice long enough for me to know how far you could go.”
-
-A more useful answer. It separated what the youth had actually observed from what he was afraid to conclude.
-
-“And the movement just now?”
-
-“I don't know, Young Master. It looked like the way you used to step aside when someone attacked. But today you did it before I expected you to move.” His gaze flicked up, then dropped again. “I thought perhaps you were testing me.”
-
-Jiang considered that. The body had answered the first strike without conscious direction, and the youth had recognized something familiar in it. That did not prove Gu Tianxing had been skilled. A repeated movement could survive as habit even when its owner had never mastered the reason behind it. Nor did it explain why Jiang had failed when he tried to reproduce the motion deliberately.
-
-“What should someone in my position know about cultivation?” Jiang asked.
-
-The youth went very still.
-
-Jiang could almost see him searching for a safe response. “Young Master, that is something an instructor would be better suited to explain.”
-
-“Then tell me what you know, and tell me what you don't.”
-
-“I only know the basics taught to the outer trainees, Young Master.” He hesitated. “I can explain the exercises, but I can't speak for your cultivation or tell you what you should already have learned.”
-
-“Good. Start with what you can explain.”
-
-The youth looked genuinely unsure how to proceed. Around them, the remaining spectators had begun returning to their own practice, though a few still watched from the corners of their eyes. Jiang had no desire to conduct an interrogation before an audience. He turned slightly, giving the youth a clear indication to walk with him toward the edge of the courtyard.
-
-The youth followed, keeping a respectful distance.
-
-“Who supervises training here?” Jiang asked.
-
-“The instructor assigned to the eastern courtyard, Young Master. He usually observes the senior trainees first, then checks the beginners' forms. I don't know if he's here today.”
-
-“Take me to him if he is.”
+“Repeat the attack. At the same speed.”
 
 “Yes, Young Master.”
 
-They crossed the courtyard. The youth's steps were quick but controlled; he kept glancing toward Jiang as though expecting another question to become a trap. Jiang allowed him that discomfort. He needed to understand the habits surrounding Gu Tianxing as much as he needed to understand the body. A person who feared a question might reveal more through what he avoided than through what he said.
+The boy reset his stance, visibly more careful. “Watch my shoulders, Young Master. The weapon follows the turn.” He demonstrated the movement slowly, then struck again.
 
-Near the far side of the practice area, a broad-shouldered man in dark training robes was correcting the stance of two older trainees. He looked up as Jiang approached. The two trainees straightened immediately, and the instructor's expression shifted—not into surprise, but into the guarded attention Jiang had begun to recognize.
+Jiang watched the shoulders. This time he tried to reproduce his earlier response deliberately. He moved too late. The wooden blade tapped his upper arm.
 
-The youth stopped and bowed. “Instructor. Young Master Gu wishes to speak with you.”
+The youth immediately lowered his weapon and stepped back. “Forgive me, Young Master.”
 
-The instructor studied Jiang for a moment before returning the bow, measured and formal.
+“You followed the instructions I gave you. Continue.”
 
-“Young Master,” he said. “I was told you had come to observe.”
+The answer seemed to unsettle him more than anger would have. He glanced at Jiang's face, searching for a trap, then returned to his stance.
 
-“I came to learn,” Jiang replied. “I want to understand what this body is capable of, and what I am expected to know.”
+Jiang rolled his shoulder. The impact had barely hurt. What mattered was the difference between the two attempts. The first movement had been precise; the second, consciously commanded, had failed.
 
-For the first time, the instructor's composure faltered. It was slight: a pause before his next breath, a fraction of a second in which his eyes searched Jiang's face. Then the expression settled back into place.
+“Show me the attack in stages,” Jiang said. “Don't change anything unless I ask.”
 
-“Of course, Young Master,” he said. “Though I confess, I did not expect that to be your first request.”
+The youth shifted his weight. His shoulders turned. The blade followed. Jiang watched the sequence again, then asked him to repeat it. On the third demonstration, the youth's weight shifted earlier than Jiang expected.
+
+“That's different.”
+
+“I was preparing to strike, Young Master.”
+
+“Then preparation and commitment are separate. If I react to the first, you can still change direction.”
+
+“Yes, Young Master.”
+
+Jiang had identified a principle, not mastered a skill. When they tried again, he moved too early and lost his balance. The youth halted the blade rather than exploit the mistake.
+
+“Too soon,” the boy said, then stiffened. “Forgive me. I should not correct you without permission.”
+
+“You should correct an error when you see one. I asked you to show me what happens, not to flatter me.”
+
+The boy's grip loosened slightly. Jiang filed away the reaction. Fear made people obedient, but it also made their information unreliable. If every correction felt dangerous, they would learn to tell him what he wanted to hear.
+
+“Once more. Keep it controlled, but don't deliberately miss.”
+
+The youth obeyed. Jiang waited longer, watched the shift of the shoulders, and moved. The blade brushed his sleeve and struck his ribs with a dull knock. He stayed on his feet, turning with the impact rather than folding around it.
+
+Not a victory. A better result.
+
+“What did I do differently in the first exchange?” Jiang asked.
+
+The youth hesitated. “You moved before I expected you to, Young Master. Your step was right. It looked like you already knew where the strike would go.”
+
+“Did I?”
+
+“I don't know.”
+
+“Good. Don't turn an observation into an explanation.”
+
+The youth looked startled by the answer.
+
+Jiang repeated the movement once without the weapon, trying to reconstruct the sensation. It would not come. His body gave him no more than a vague familiarity, as if the movement belonged to a language he had heard often but never learned to speak.
+
+He stopped before frustration made him force it.
+
+The youth lowered the wooden blade. Around them, the courtyard's rhythm slowly resumed, but several trainees still watched. Their attention suggested that Gu Tianxing's behavior had violated some expectation. Jiang could not yet tell whether they were surprised by his skill, his questions, or the fact that he had not erupted after being struck.
+
+“Have I trained here before?” Jiang asked.
+
+“Yes, Young Master. But not often.”
+
+“And when I did?”
+
+The boy looked down at the weapon. “You knew the basic movements. You did not like being corrected.”
+
+That answer was more useful than praise. Jiang had a body with a history, a reputation he had not earned, and reflexes he could not reliably command. He would need to learn all three before trusting any of them.
+
+“That will be enough,” he said. “Tell me your name.”
+
+“Lin Wei, Young Master.”
+
+“Lin Wei, take me to the person responsible for instruction here.”
+
+“Yes, Young Master.”
+
+As they crossed the courtyard, Jiang watched the trainees return to their drills. The first exchange had given him no clean measure of strength. It had given him a more interesting problem: the body could do something his conscious mind could not explain, and the people around him expected Gu Tianxing to know more than Jiang did.
+
+He intended to find out why.
 
 * * *
 
-The instructor did not ask Jiang to repeat himself. He gestured to a low stone platform beside the practice yard.
+Jiang let Lin Wei walk half a pace ahead of him, close enough to guide him and far enough to preserve the appearance of deference. The boy kept his shoulders rigid and his eyes lowered.
 
-“Sit, Young Master. If you wish to understand what your body can do, we should begin with what it is doing already.”
+“You said I had trained here before,” Jiang said. “How often?”
 
-Jiang sat. The instructor stood before him, composed and watchful.
+“Not regularly, Young Master. Sometimes several days in a row, then not again for a while.”
 
-“Cultivation is not simply fighting well,” he said. “Combat is one use of what a cultivator develops. The foundation is the body, the breath, the circulation of qi, and the ability to guide it without injuring yourself.”
+“Was I improving?”
+
+Lin Wei's steps faltered. “I cannot judge your potential, Young Master.”
+
+“I didn't ask about my potential. I asked what you observed.”
+
+The distinction seemed to help. “Your foundation was good. You learned the basic forms faster than some of the others. But when the instructor corrected you, you would become annoyed. Sometimes you left early.”
+
+Jiang considered the answer. It matched the body’s instinctive movement without proving mastery. Gu Tianxing had been talented enough to learn, proud enough to resist correction, and inconsistent enough to remain mediocre in practice. That was a plausible explanation, not yet a complete one.
+
+“Did the instructor complain about me?”
+
+“I heard him say that talent is wasted if it is not trained. I don't know if he meant you specifically.”
+
+“Did I punish anyone for correcting me?”
+
+Lin Wei went silent.
+
+Jiang glanced at him. “You may answer.”
+
+“I don't know what you would consider punishment, Young Master.”
+
+That was not an answer, but it was an important boundary. The boy feared the question more than he trusted the promise of safety. Jiang would not learn the truth by demanding confidence he had not earned.
+
+“Then we will leave that question for now. When I ask about something you did not witness, say so. When you did witness it, tell me what happened. Do not guess what I want to hear.”
+
+“Yes, Young Master.”
+
+They reached the far side of the courtyard, where an instructor in dark training robes was correcting two older trainees. He had a broad frame, a still posture, and the patient expression of a man who had repeated the same correction hundreds of times. He looked up as Jiang approached. The trainees straightened immediately.
+
+Lin Wei bowed. “Instructor. Young Master Gu wishes to speak with you.”
+
+The instructor returned the bow, measured and formal. “Young Master. I was told you had come to observe.”
+
+“I came to learn,” Jiang said. “I want to understand what this body can do and what I am expected to know.”
+
+The instructor paused. It was only a fraction of a second, but Jiang noticed the pause and the way the man's gaze searched his face.
+
+“You wish to resume training?”
+
+“I wish to begin properly. First, tell me what I already have. Then tell me what I lack.”
+
+“That is a reasonable request.” The instructor gestured toward a low stone platform beside the yard. “Sit, Young Master. We should begin with your cultivation, not your fighting.”
+
+Jiang sat. Lin Wei remained nearby until the instructor dismissed him with a nod. The boy bowed and withdrew, still glancing back once before returning to the trainees.
+
+“Before we begin,” Jiang said, “one question. Is there a reason I should already know these things?”
+
+The instructor studied him. “Yes. You have received instruction for years.”
+
+“Then either I have forgotten it, or I was never taught it properly. We can determine which later. For now, teach me as you would teach someone who needs the foundation explained.”
+
+The instructor's guarded expression did not disappear, but it became more attentive.
+
+“As you wish, Young Master.”
+
+Jiang had learned something already. People around Gu Tianxing expected him to be arrogant, not curious. He could exploit that expectation, but only if he understood what it concealed. For now, the instructor was the better source.
+
+* * *
+
+“Cultivation begins with the body, the breath, the circulation of qi, and the ability to guide it without injuring yourself,” the instructor said. “Combat is only one use of what a cultivator develops.”
 
 “Define qi.”
 
@@ -324,193 +309,144 @@ Jiang sat. The instructor stood before him, composed and watchful.
 
 “Through the blood?”
 
-“No. Meridians are the channels through which qi circulates. They connect through the body's internal pathways and converge around the dantian, where refined qi is gathered and stored. That is the simple explanation. The details take years to learn.”
+“No. Meridians are the channels through which qi circulates. They connect through internal pathways and converge around the dantian, where refined qi is gathered and stored. That is the simple explanation. The details take years.”
 
-Jiang filed away the terms. He had read them countless times in the novel, where they were labels attached to dramatic breakthroughs. Here, the instructor spoke of them as practical anatomy.
+Jiang set the terms in order: energy, channels, reservoir. The novel had used them as labels attached to dramatic breakthroughs. Here, they described a practical system with failure states and limits. He would need to understand those limits before he could use the system as leverage.
 
 “And the ranks?”
 
-“The Gu Clan teaches the standard progression. Body Tempering conditions the flesh and bones until the body can withstand cultivation. Qi Gathering is when a cultivator senses and draws qi into the body, then learns to circulate and refine it. Foundation Establishment follows when that foundation becomes stable enough to support a complete cultivation cycle. There are higher realms, but you should understand the foundation first.”
+“The Gu Clan teaches the standard progression. Body Tempering conditions the flesh and bones. Qi Gathering begins when a cultivator senses and draws qi into the body, then learns to circulate and refine it. Foundation Establishment follows when the foundation is stable enough to support a complete cultivation cycle. There are higher realms, but you should master the basics first.”
 
-“Then tell me what stage I am in.”
+“Which stage am I in?”
 
 The instructor looked at him. “You should already know that, Young Master.”
 
 “I don't.”
 
-Silence settled between them. Jiang held the instructor's gaze rather than covering the admission with a bluff.
+Silence settled between them. Jiang did not bluff or offer an excuse. If the instructor believed this was a test, he could say so. If Jiang tried to fake knowledge, the deception would eventually be exposed.
 
-“I asked for instruction,” he said. “If you think I am testing you, say so. If I should already know this, explain why.”
+After a moment, the instructor inclined his head. “I will take you at your word.”
 
-After a pause, the instructor inclined his head. “I will take you at your word.”
-
-He guided Jiang through a simple breathing exercise, telling him to relax and pay attention to the space below his navel. At first Jiang felt only his lungs, the pressure of his feet on stone, and the tension in his shoulders. When he tried to force a sensation, nothing came. When he relaxed, a faint pressure surfaced deep in his lower abdomen—not quite heat, not quite touch.
+He guided Jiang through a simple breathing exercise and told him to relax his attention below the navel. At first, Jiang felt only the air in his lungs, the stone beneath his feet, and the tension in his shoulders. When he tried to force a sensation, nothing came. When he relaxed, a faint pressure surfaced in his lower abdomen—not quite heat, not quite touch.
 
 “There,” the instructor said. “You sensed it. Do not force qi through your meridians without guidance. Poorly controlled circulation can injure you.”
 
 “What is my stage?”
 
-“Third layer of Qi Gathering.”
+“Third layer of Qi Gathering. Your foundation is sound, and your meridians respond normally. For someone your age, your talent is respectable.”
 
-Jiang kept his face still. “Explain what that means.”
+“Then why have I not advanced?”
 
-“You have learned to draw in and refine qi. Your control still needs practice, but your foundation is sound. Your meridians respond normally, and your body takes to basic exercises well. For someone your age, your talent is respectable.” The instructor hesitated. “Talent was never the question.”
+“Your training has been inconsistent. You have not advanced recently, as far as I know. Talent does not refine qi on its own.”
 
-The words explained the reactions Jiang had seen. The youth and the instructor had not been dealing with a blank slate. Gu Tianxing already possessed a foundation, and everyone expected him to know it.
+Jiang understood the shape of the problem. The body was not an empty vessel. It had a foundation, some talent, and years of instruction behind it. But the former owner had treated those advantages as guarantees rather than resources.
 
-“Was I incapable of progressing?”
+“Show me the defensive step from the exchange,” Jiang said. “Slowly. Explain the weight shift and the breath.”
 
-“No, Young Master. Your training has been inconsistent. You have not advanced recently, as far as I know. Talent does not refine qi on its own, and it does not correct poor habits.”
+The instructor demonstrated. Jiang copied him and got it wrong: knees locked, shoulders turning too early, weight drifting beyond his base. The instructor corrected each fault. Jiang understood the words but could not make the parts flow together.
 
-Jiang accepted the distinction. The body was capable; its former owner had not made full use of it.
+“Again,” the instructor said. “Do not imitate the shape alone. Feel where your weight rests.”
 
-“Show me the first step from the exchange,” he said. “Posture, weight shift, and breath together.”
+Jiang tried again. He remembered the blade approaching and the body moving without permission. His error had been to treat the response as a sequence he could reconstruct by commanding each joint. He settled his posture, followed the instructor's breathing, and stopped trying to micromanage the movement.
 
-The instructor demonstrated a simple defensive movement: knees relaxed, weight balanced, torso turning only as far as necessary. It looked unimpressive, which made Jiang study it more carefully.
+His left foot shifted. His weight followed. His torso turned just enough to clear an imaginary strike, and his balance held.
 
-His first attempt was clumsy. He stiffened his knees and turned his shoulders too early. The instructor corrected him.
+It was the same evasion, though less clean than the first.
 
-“Again. Feel where your weight rests. Don't imitate the shape alone.”
+“Your body remembers the movement,” the instructor said.
 
-Jiang tried again, still assembling the movement from separate instructions. He understood each correction but could not make the parts flow together.
+“My body produced it. I still don't understand why.”
 
-“Set your intention, then let the movement follow,” the instructor said. “If you hesitate between steps, your body arrives too late.”
+“That understanding comes with practice.”
 
-Jiang remembered the wooden blade coming toward him. His body had shifted before his mind finished considering its options. When he tried to recreate the movement by consciously commanding every joint, he had failed. He had treated the body's response as a puzzle to solve before allowing it to act.
+“Then we'll measure the practice.”
 
-He settled into the stance again. He watched the instructor's balance, followed the rhythm of his breath, and stopped trying to dictate every angle.
+The instructor gave him a long look. “Most students want to feel more qi. You want to know why a movement succeeds.”
 
-His left foot shifted. His weight followed. His torso turned just enough to clear an imaginary strike, and his balance remained beneath him.
+“I want to know what I can reproduce, what I cannot, and what causes the difference.”
 
-It was the same evasion he had made instinctively before.
+“That will serve you better than impatience.”
 
-“I didn't remember doing it,” Jiang said.
+Jiang repeated the step. On the next attempt, his heel turned too far and his balance wavered. The third was better. He did not confuse improvement with mastery; he had found a method for practicing, not proof that he could fight.
 
-“Your body did.”
-
-He repeated the movement. This time it was less clean; his heel turned too far and his balance wavered. On the third attempt, he found the rhythm again. The success was not mastery, but it was a method: settle his posture, control his breath, recognize the body's response, and avoid interrupting it with a chain of conscious corrections.
-
-For the first time since waking, he had begun to bridge the gap between what Gu Tianxing's body knew and what Jiang could consciously direct.
-
-“Review my training records,” Jiang told the instructor. “And bring me the clan's introductory cultivation manual. I want the principles, exercises, and progression written down. No omissions because you think I should already know them.”
+“Review my training records,” he said. “Send me the introductory manual and the exercises I can safely repeat alone. Include the warning signs that mean I should stop.”
 
 “Yes, Young Master.”
 
-The trainees had returned to their exercises, though several still watched him. Their attention no longer felt like an audience waiting for him to embarrass himself. Now it felt like a question.
+“And tell me plainly when I am wrong. I have no use for instruction that protects my pride at the cost of my progress.”
 
-The original Gu Tianxing had possessed talent, instruction, and opportunity. He had wasted at least some of them. Jiang would not make the same mistake. He did not need to become the best fighter in the courtyard today. He needed to learn what this body could do, then make it do so consistently.
+For the first time, the instructor's expression shifted toward approval. “Then you may learn quickly.”
 
-The work ahead finally had a sequence: understand the foundation, learn to control the body, cultivate deliberately, and test every claimed improvement against results.
+Jiang rose from the platform. His rank had not changed. His command of qi remained uncertain, and his body still resisted deliberate control. But he had identified a process: observe, isolate a variable, repeat, compare, and record. He had used it to learn unfamiliar industries in his first life. Cultivation was a different discipline; the method of disciplined inquiry was not.
+
+He would not become powerful in three days. He could, however, stop wasting those days.
 
 * * *
 
-Jiang did not leave the courtyard with a new technique. He left with something more valuable: a list of things he could test, and confirmation that his new body was not starting from nothing.
+Jiang left the courtyard with instructions, not a miracle. That distinction suited him.
 
-“Before I go,” he said to the instructor, “I want three things. My training records, the introductory cultivation manual, and a clear account of what the Gu Clan expects from someone at my position and stage.”
+Back in his quarters, he ordered writing materials, a meal, and the person responsible for his household schedule. The attendant hesitated at the last request.
 
-“I will arrange them, Young Master.”
+“Would you like me to ask the steward for the household register, Young Master?”
 
-“Today.”
-
-The instructor paused. “The records may take some time to retrieve.”
-
-“Then retrieve them now. Have the manual sent to my quarters as soon as it is available. If there are restrictions on what I may read, tell me what they are and who imposed them. Do not make me discover them by accident.”
+“I would like the person who maintains it. If the steward controls it, bring the steward. If someone else does, bring that person.”
 
 “Yes, Young Master.”
 
-Jiang watched him carefully. The instructor's manner was formal, but the pause had been real. The request itself was ordinary; the urgency was not. Gu Tianxing had apparently possessed resources and access without showing much interest in using them. Jiang intended to correct that immediately.
+“And bring any recent messages or invitations. Do not discard anything because it seemed unimportant.”
 
-He turned to the youth who had first exchanged blows with him. The boy straightened.
+When the attendant withdrew, Jiang sat at the desk and divided a sheet into three columns: **remembered**, **observed**, and **unknown**.
 
-“Your name?”
+Under remembered, he wrote the broad facts from the novel. Gu Tianxing died early, perhaps around the fifth to tenth chapter. The protagonist survived and eventually became powerful enough to confront the Azure Dragons. Jiang remembered opportunities and turning points, but not a reliable calendar. He had read the story for entertainment, not as a forensic record.
 
-“Lin Wei, Young Master.”
+Under observed, he recorded the date—the fourteenth day of the current month—his rank at the third layer of Qi Gathering, the instructor's assessment of his foundation, and his history of inconsistent training.
 
-“Lin Wei. You observed my training before. I may ask you to demonstrate basic movements again. When I do, tell me what you actually see, not what you think I want to hear.”
+The unknown column was longer. Which month was this? How far had the protagonist progressed? Had Gu Tianxing already offended him? Which remembered scenes belonged to this point in the timeline? How much of the original sequence remained intact now that someone else occupied this body?
 
-“Yes, Young Master.”
+He did not promote guesses into facts. A wrong date was a correctable error; a plan built around it could be fatal.
 
-“And if you don't know, say you don't know.”
+A knock interrupted him. The attendant returned with a household register and an older clerk carrying a wooden case.
 
-Lin Wei looked as if he had been handed a difficult test. “I will try, Young Master.”
+“Your household records, Young Master,” the clerk said. “The steward sent what could be gathered at short notice.”
 
-“Don't try to please me. Give me accurate information.”
+“Who maintains the schedule of my obligations?”
 
-Jiang left the courtyard with the attendant who had guided him there. The boy's name, Lin Wei, joined the growing list of details Jiang would need to keep straight. A name was useful; a person's habits, competence, loyalties, and incentives would be more useful still. He had built an empire by distinguishing the person who delivered good news from the person who delivered true news. He would need the same distinction here.
+“I do, under the steward's authority.”
 
-Back in his quarters, Jiang ordered the attendant to bring writing materials and a meal, then asked for a list of the people who managed his schedule, household expenses, training, and access to the clan's resources.
+“Then tell me what I am expected to do over the next ten days. Prioritize clan gatherings, public appearances, training, and visitors.”
 
-The attendant hesitated. “Young Master, would you like me to ask the steward for the household register?”
+The clerk opened the register. Most entries were routine. Jiang dismissed what could be delegated and listened closely when the clerk reached a notice bearing the seal of the Gu Clan's inner administration.
 
-“I would like you to bring whoever maintains it. If the steward controls it, bring the steward. If someone else does, bring that person instead.”
-
-“Yes, Young Master.”
-
-“And bring any messages or invitations delivered to me recently. Do not discard anything merely because it seemed unimportant.”
-
-The attendant bowed and withdrew.
-
-Jiang sat at the desk. The room offered no computer, no searchable archive, no reliable way to pull a timeline from a database. He would have to construct one by hand from records, testimony, and memory—and treat every source as fallible.
-
-He divided a sheet into three columns: what he knew from the novel, what he had observed since waking, and what remained uncertain.
-
-Under the first, he wrote the facts that mattered most. The original Gu Tianxing was a disposable young master. His death came early, somewhere around the fifth to tenth chapter. The protagonist survived, grew stronger, and eventually became powerful enough to confront the Azure Dragons. Jiang remembered the broad sequence, but not a precise calendar. He had read the novel as entertainment, not as a forensic record. Names and dramatic turning points remained; the minor transitions between them had blurred together.
-
-Under the second column, he listed the fourteenth day of the current month, his position within the Gu Clan, his third layer of Qi Gathering, his inconsistent training history, and the instructor's assessment that his foundation was sound.
-
-The third column was longer.
-
-Which month was this? How much time remained before the protagonist entered the events that killed Gu Tianxing? Had the original young master already offended him? Were the incidents Jiang remembered tied to a clan gathering, a public contest, or some other encounter? And which details in his memory were reliable enough to act upon?
-
-He did not write down guesses as facts. A mistaken date could be corrected; a plan built around a mistaken date could get him killed.
-
-A knock interrupted him. The attendant returned with a thin bundle of messages and a household register. Behind him stood an older clerk carrying a wooden case.
-
-“Your household records, Young Master,” the clerk said, bowing. “The steward sent what could be gathered at short notice.”
-
-“Set them there. Who maintains the schedule of my obligations?”
-
-“I do, Young Master, under the steward's authority.”
-
-“Then tell me what I have been expected to do over the next ten days. Start with anything involving the clan's young members, public gatherings, training, or visitors.”
-
-The clerk opened the register. He began with routine obligations, most of which Jiang dismissed as noise: meals, household allocations, ordinary appearances that could be delegated. Then the clerk reached a notice marked with the seal of the Gu Clan's inner administration.
-
-“The young masters and young ladies of the clan are expected at the coming family assembly in three days,” he said. “Your attendance is listed as required.”
+“The young masters and young ladies are expected at the family assembly in three days,” the clerk said. “Your attendance is required.”
 
 Jiang's pen stopped.
 
-A family assembly.
+The phrase meant little by itself. The timing did. He remembered a gathering of the Gu Clan's younger generation in the novel, a scene he had skimmed because it seemed to exist chiefly to display a minor villain's arrogance. He could not recall every detail, but Gu Tianxing had been present. Soon afterward, the protagonist's rise had intersected with the clan's affairs.
 
-The phrase itself meant little. The timing was what mattered. Somewhere in the early chapters, the original story had paused over a gathering of the Gu Clan's younger generation—a scene he had skimmed because it seemed to exist chiefly to display the arrogance of a minor villain. He could not yet recall every detail. He did remember that Gu Tianxing had been present, and that the protagonist's rise had intersected with the Gu Clan's affairs soon afterward.
+“Who will attend?”
 
-“Who will attend?” Jiang asked.
+“The younger generation, the elders responsible for their instruction, and invited guests. I can retrieve the full list.”
 
-“The clan's younger generation, the elders responsible for their instruction, and whichever guests have been invited. I can retrieve the full list.”
-
-“Do so. I want the date, the purpose of the assembly, the guest list, and any record of what I am expected to say or do. Find out whether my attendance is ceremonial or whether I have been assigned a role.”
+“Do so. I want the purpose of the assembly, the order of proceedings, and any role assigned to me. Find out whether I am expected to speak, demonstrate my cultivation, or simply attend.”
 
 “Yes, Young Master.”
 
-“Also find out whether anything involving the protagonist—” Jiang stopped himself. That was a thought, not a name he could give the clerk. “Whether any outside disciple, visitor, or recent arrival has been mentioned in connection with the assembly.”
+“Also check whether any outside disciple, visitor, or recent arrival is connected to the assembly. Quietly. I want records, not speculation.”
 
-The clerk bowed, though a flicker of puzzlement crossed his face. “I will check, Young Master.”
+The clerk bowed and withdrew.
 
-When the men had left, Jiang looked down at the three columns. The assembly might be the event he remembered, or it might merely resemble it. He would not let a familiar label trick him into believing he had found his place in the story.
+Jiang looked at his three columns again. The assembly might be the event he remembered, or it might merely resemble it. He would not let a familiar label trick him into believing he had found his place in the story.
 
-But three days was a deadline. A deadline was something he could use.
+Still, three days was a deadline, and deadlines could be used.
 
-He needed the records, the manual, the names of the people who would be present, and a clearer account of what the original Gu Tianxing had done before this point. He needed to know whether the protagonist had already entered the board—or whether the first move was still ahead.
+He needed the guest list, the proceedings, a clearer understanding of his current capabilities, and facts about the people likely to attend. He would compare those facts with his recollection only after he had them. If the assembly matched the novel, the match could be useful. If it did not, the difference would be useful too.
 
-If this was the gathering he remembered, it could be the beginning of the chain that led to his death. If it was not, then the difference itself would tell him something.
+He set his pen down. In his first life, he had built an empire by acquiring information before competitors understood its value. Here, the information was scattered among attendants, clan records, cultivation manuals, and the damaged memory of a story he had never expected to inhabit.
 
-Jiang set the pen down and looked at the blank space beneath his notes.
+He would gather it, sort it, and act only when the evidence justified the risk.
 
-He had once built an empire by acquiring information before his competitors understood its value. In this world, the information he needed was scattered among frightened attendants, clan records, cultivation manuals, and the damaged recollection of a novel he had never expected to live inside.
+The next knock might bring the first fact that mattered.
 
-He would gather it all.
-
-And this time, he would not wait until the story had already decided what happened to him.
 ## Chapter 3 — Three Days to the Assembly
 
 The records arrived before noon.
