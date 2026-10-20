@@ -221,7 +221,7 @@ Jiang had come to test his body, but the youth had expected something from Gu Ti
 
 The youth immediately lowered the weapon and stepped back, bowing his head. “Yes, Young Master.”
 
-The youth lowered the wooden blade fully. Around them, the courtyard's ordinary sounds began to return, though not everyone went back to training at once. Jiang flexed the fingers of his right hand, replaying the first movement in his mind. He could describe what had happened. He could not yet make it happen again at will.
+The youth kept the wooden blade lowered. Around them, the courtyard's ordinary sounds began to return, though not everyone went back to training at once. Jiang flexed the fingers of his right hand, replaying the first movement in his mind. He could describe what had happened. He could not yet make it happen again at will.
 
 That was his first real measurement. Not strength, not rank, and certainly not mastery. A capacity existed here, buried in reflex and unfamiliar habit. Until he could separate what the body knew from what he himself understood, every test would risk confusing luck with ability.
 
