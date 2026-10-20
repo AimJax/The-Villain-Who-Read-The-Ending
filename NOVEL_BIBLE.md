@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 2.4
+## Continuous Novel Bible — Version 2.5
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scenes 1–4 are author-approved and binding canon. Chapter 3, Scene 1 is author-approved and binding canon. Chapter 3, Scene 2 has been revised so Jiang chooses to deliberately follow the remembered confrontation with Shen Yan, while preparing to make the humiliation calculated and enforceable; it remains awaiting author audit and is not canon until approved.
+**Current progress:** A whole-manuscript revision pass has been committed across Chapters 1–3 to sharpen Jiang's demonstrated competence, remove repetitive explanation, and bring scene pacing into closer alignment. This revised manuscript is **awaiting author audit** and does not silently replace previously approved canon. The previously approved versions remain the canon baseline until the author approves the revision pass; Git history preserves the earlier manuscript. Chapter 3, Scene 2's calculated Shen Yan confrontation remains draft-only pending audit.
 
 ### Core premise
 
@@ -41,7 +41,7 @@ Rules:
 4. Distinguish facts Jiang remembers from the novel, facts he observes in his new life, and assumptions he makes.
 5. Drafted details are not canon until the author approves the scene.
 6. Develop the world incrementally, as the story needs it.
-7. Each drafting pass covers one scene only; scene length should serve pacing and reader engagement rather than a fixed paragraph count.
+7. Normally, draft one scene at a time and let scene length serve pacing and reader engagement. If the author explicitly requests a whole-manuscript revision, revise the requested scope as a coherent pass, label it awaiting audit, and preserve prior approved versions in Git history until the author accepts the revision.
 8. Use the requested scene-outline format and make the outline easy to copy as a single block.
 9. Character profiles use this exact format:
 
@@ -381,6 +381,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v2.2:** Drafted Chapter 3, Scene 2 for author audit. Jiang undertakes a supervised, controlled cultivation session and learns to observe qi without forcing it; no sudden breakthrough or cultivation advancement occurs. He asks about his expected role at the assembly and orders quiet fact-finding on the proceedings and Shen Yan's sponsor. His immediate survival plan now includes preventing the confrontation from being initiated by him or engineered by others.
 - **v2.3:** Revised Chapter 3, Scene 2 before author audit to better express Jiang's exceptional analytical intelligence. During supervised cultivation, he independently tests the relationship between posture, tension, breathing, and his perception of qi, distinguishes observation from a proven cause, and leaves with a repeatable practice method rather than a sudden breakthrough. The revision preserves the three-day assembly investigation and remains draft-only pending author approval.
 - **v2.4:** Revised Chapter 3, Scene 2 again at the author's direction. Jiang rejects his earlier plan to avoid the Shen Yan confrontation and decides to follow the remembered plot point deliberately, while preparing to make the humiliation more consequential than the original Gu Tianxing's petty insult. His preparation must establish credible backing—cultivation, evidence, status, leverage, or a combination—rather than empty threats. This is a draft direction, not canon until the scene is approved.
+- **v2.5:** Committed a whole-manuscript revision pass across Chapters 1–3 at the author's request. Chapter 1 now demonstrates Jiang's corporate competence through concrete strategic actions and trims repeated framing. Chapter 2 was rewritten for tighter scene progression, more active analytical behavior, and less repetitive exposition while preserving established cultivation facts and the body-memory limitation. Chapter 3 remains unchanged in substance, including the revised draft in which Jiang chooses to prepare for a deliberate, consequential confrontation with Shen Yan. The revised manuscript is awaiting author audit; prior approved versions remain the canon baseline until the author approves this pass.
 
 ---
 
@@ -438,7 +439,7 @@ Jiang requests his training records, an introductory cultivation manual, informa
 - The introductory cultivation manual and further household records have been requested, but their contents and findings are not yet established.
 
 ### Pacing requirement
-Target approximately five minutes of read-aloud time per scene. As a practical guide, aim for roughly 600–750 words per scene, adjusting for dialogue and sentence cadence. Avoid letting scenes expand merely because the story can accommodate more explanation; each scene should have a clear turn, a consequential discovery or decision, and a strong ending.
+Target approximately five minutes of read-aloud time per scene. As a practical guide, aim for roughly 600–750 words per scene, adjusting for dialogue and sentence cadence. Avoid letting scenes expand merely because the story can accommodate more explanation; each scene should have a clear turn, a consequential discovery or decision, and a strong ending. The current whole-manuscript revision is a pacing and characterization pass, not final canon until audited by the author.
 
 ### Chapter 3 — Scene 2: Controlled Practice
 **Status:** Revised draft committed; awaiting author audit. Not canon until approved.  
