@@ -307,3 +307,97 @@ The instructor studied Jiang for a moment before returning the bow, measured and
 For the first time, the instructor's composure faltered. It was slight: a pause before his next breath, a fraction of a second in which his eyes searched Jiang's face. Then the expression settled back into place.
 
 “Of course, Young Master,” he said. “Though I confess, I did not expect that to be your first request.”
+
+* * *
+
+The instructor did not ask Jiang to repeat himself. He gestured to a low stone platform beside the practice yard.
+
+“Sit, Young Master. If you wish to understand what your body can do, we should begin with what it is doing already.”
+
+Jiang sat. The instructor stood before him, composed and watchful.
+
+“Cultivation is not simply fighting well,” he said. “Combat is one use of what a cultivator develops. The foundation is the body, the breath, the circulation of qi, and the ability to guide it without injuring yourself.”
+
+“Define qi.”
+
+“The vital energy cultivators draw from the world, refine, and circulate through the body. With training, it strengthens the body and supports techniques beyond ordinary physical ability.”
+
+“Through the blood?”
+
+“No. Meridians are the channels through which qi circulates. They connect through the body's internal pathways and converge around the dantian, where refined qi is gathered and stored. That is the simple explanation. The details take years to learn.”
+
+Jiang filed away the terms. He had read them countless times in the novel, where they were labels attached to dramatic breakthroughs. Here, the instructor spoke of them as practical anatomy.
+
+“And the ranks?”
+
+“The Gu Clan teaches the standard progression. Body Tempering conditions the flesh and bones until the body can withstand cultivation. Qi Gathering is when a cultivator senses and draws qi into the body, then learns to circulate and refine it. Foundation Establishment follows when that foundation becomes stable enough to support a complete cultivation cycle. There are higher realms, but you should understand the foundation first.”
+
+“Then tell me what stage I am in.”
+
+The instructor looked at him. “You should already know that, Young Master.”
+
+“I don't.”
+
+Silence settled between them. Jiang held the instructor's gaze rather than covering the admission with a bluff.
+
+“I asked for instruction,” he said. “If you think I am testing you, say so. If I should already know this, explain why.”
+
+After a pause, the instructor inclined his head. “I will take you at your word.”
+
+He guided Jiang through a simple breathing exercise, telling him to relax and pay attention to the space below his navel. At first Jiang felt only his lungs, the pressure of his feet on stone, and the tension in his shoulders. When he tried to force a sensation, nothing came. When he relaxed, a faint pressure surfaced deep in his lower abdomen—not quite heat, not quite touch.
+
+“There,” the instructor said. “You sensed it. Do not force qi through your meridians without guidance. Poorly controlled circulation can injure you.”
+
+“What is my stage?”
+
+“Third layer of Qi Gathering.”
+
+Jiang kept his face still. “Explain what that means.”
+
+“You have learned to draw in and refine qi. Your control still needs practice, but your foundation is sound. Your meridians respond normally, and your body takes to basic exercises well. For someone your age, your talent is respectable.” The instructor hesitated. “Talent was never the question.”
+
+The words explained the reactions Jiang had seen. The youth and the instructor had not been dealing with a blank slate. Gu Tianxing already possessed a foundation, and everyone expected him to know it.
+
+“Was I incapable of progressing?”
+
+“No, Young Master. Your training has been inconsistent. You have not advanced recently, as far as I know. Talent does not refine qi on its own, and it does not correct poor habits.”
+
+Jiang accepted the distinction. The body was capable; its former owner had not made full use of it.
+
+“Show me the first step from the exchange,” he said. “Posture, weight shift, and breath together.”
+
+The instructor demonstrated a simple defensive movement: knees relaxed, weight balanced, torso turning only as far as necessary. It looked unimpressive, which made Jiang study it more carefully.
+
+His first attempt was clumsy. He stiffened his knees and turned his shoulders too early. The instructor corrected him.
+
+“Again. Feel where your weight rests. Don't imitate the shape alone.”
+
+Jiang tried again, still assembling the movement from separate instructions. He understood each correction but could not make the parts flow together.
+
+“Set your intention, then let the movement follow,” the instructor said. “If you hesitate between steps, your body arrives too late.”
+
+Jiang remembered the wooden blade coming toward him. His body had shifted before his mind finished considering its options. When he tried to recreate the movement by consciously commanding every joint, he had failed. He had treated the body's response as a puzzle to solve before allowing it to act.
+
+He settled into the stance again. He watched the instructor's balance, followed the rhythm of his breath, and stopped trying to dictate every angle.
+
+His left foot shifted. His weight followed. His torso turned just enough to clear an imaginary strike, and his balance remained beneath him.
+
+It was the same evasion he had made instinctively before.
+
+“I didn't remember doing it,” Jiang said.
+
+“Your body did.”
+
+He repeated the movement. This time it was less clean; his heel turned too far and his balance wavered. On the third attempt, he found the rhythm again. The success was not mastery, but it was a method: settle his posture, control his breath, recognize the body's response, and avoid interrupting it with a chain of conscious corrections.
+
+For the first time since waking, he had begun to bridge the gap between what Gu Tianxing's body knew and what Jiang could consciously direct.
+
+“Review my training records,” Jiang told the instructor. “And bring me the clan's introductory cultivation manual. I want the principles, exercises, and progression written down. No omissions because you think I should already know them.”
+
+“Yes, Young Master.”
+
+The trainees had returned to their exercises, though several still watched him. Their attention no longer felt like an audience waiting for him to embarrass himself. Now it felt like a question.
+
+The original Gu Tianxing had possessed talent, instruction, and opportunity. He had wasted at least some of them. Jiang would not make the same mistake. He did not need to become the best fighter in the courtyard today. He needed to learn what this body could do, then make it do so consistently.
+
+The work ahead finally had a sequence: understand the foundation, learn to control the body, cultivate deliberately, and test every claimed improvement against results.
