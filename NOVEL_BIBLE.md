@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 1.7
+## Continuous Novel Bible — Version 1.8
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scene 3 has been drafted and committed for author audit; it is not canon until approved.
+**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scene 4 has been drafted and committed for author audit; it is not canon until approved.
 
 ### Core premise
 
@@ -370,7 +370,8 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v1.0:** Recorded the author's approval of Scene 5 as binding canon. Drafted Scene 6 and appended it to Chapter 1 without an internal scene heading; Scene 6 was awaiting author audit.
 - **v1.1:** Recorded the author's approval of Scene 6 as binding canon and marked Chapter 1 complete. Added the author's continuity note that Gu Tianxing's body retains embodied familiarity and muscle memory, and that a young master of a great cultivation clan is expected to be talented; Jiang's practical understanding still lags behind his knowledge of the novel. Updated the progress summary, scene ledger, timeline, and opening-phase status.
 - **v1.2:** Clarified at the top-level project status that Chapter 1, Scene 6 is author-approved, binding canon, and not a draft. The v1.0 entry describes the scene's earlier historical draft state; v1.1 records its subsequent approval. This clarification removes ambiguity without changing any approved story prose.\n- **v1.3:** Added Chapter 2, Scene 1 to the manuscript as a draft for author audit, continuing directly from the raised wooden blade at the end of Chapter 1. Recorded the draft's provisional events and kept them explicitly noncanonical pending approval.\n- **v1.4:** Revised only the Chapter 2, Scene 1 training exchange dialogue and its immediate action beats to make the unnamed youth appropriately deferential and apprehensive toward Gu Tianxing, consistently addressing him as “Young Master.” Recorded this as draft-only characterization pending author audit.\n- **v1.5:** Recorded the author's acceptance of the revised Chapter 2, Scene 1 as binding canon. The youth's deference and apprehension toward Gu Tianxing are now established characterization for this scene.\n- **v1.6:** Added Chapter 2, Scene 2 to the manuscript as a draft for author audit. The scene probes the youth's remark, provides provisional observations about Gu Tianxing's prior training, and introduces a training instructor without establishing formal cultivation mechanics.
-- **v1.7:** Recorded Chapter 2, Scene 2 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 3, provisionally introducing qi, meridians, the dantian, early cultivation stages, Gu Tianxing's current stage, and Jiang's first deliberate repetition of a movement through embodied memory. Scene 3 remains noncanonical pending author audit.
+- **v1.7:** Recorded Chapter 2, Scene 2 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 3, provisionally introducing qi, meridians, the dantian, early cultivation stages, Gu Tianxing's current stage, and Jiang's first deliberate repetition of a movement through embodied memory.
+- **v1.8:** Recorded Chapter 2, Scene 3 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 4, in which Jiang immediately secures training records and household information, begins a three-column timeline reconstruction, and discovers a family assembly scheduled in three days that may be a plot anchor. The scene's new event and details remain provisional pending author audit.
 
 ---
 
@@ -400,22 +401,35 @@ Jiang questions the youth about Gu Tianxing's prior training, learns that the or
 - The instructor is assigned to the eastern courtyard. His name and wider background remain undecided.
 - Jiang's knowledge of the novel does not give him practical knowledge of cultivation.
 
-### Chapter 2 — Scene 3: Draft for author audit
+### Chapter 2 — Scene 3: Author-approved, binding canon
+**Status:** Author-approved; binding canon.  
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 2)
+
+The instructor explains the foundations of cultivation and identifies Gu Tianxing as being at the third layer of Qi Gathering. Jiang senses a faint internal presence and learns not to force qi circulation without guidance. He then practices a defensive step, successfully reproducing the movement his body performed instinctively in Scene 1, though repetition remains inconsistent. He requests his training records and an introductory cultivation manual.
+
+**Canonical implications**
+- The Gu Clan's foundational cultivation vocabulary includes qi, meridians, and the dantian.
+- The early progression introduced is Body Tempering, Qi Gathering, and Foundation Establishment. The full hierarchy and detailed mechanics remain undecided.
+- Gu Tianxing is at the third layer of Qi Gathering, with a sound foundation, normally responsive meridians, and respectable talent for his age and resources.
+- Gu Tianxing's training was inconsistent and he had not advanced recently, as far as the instructor knew.
+- Jiang can begin to reproduce a defensive movement by settling posture and breath and allowing the body's embodied response to emerge. He is not yet consistently skilled in combat.
+- The instructor's name and wider background remain undecided.
+
+### Chapter 2 — Scene 4: Draft for author audit
 **Status:** Draft committed; awaiting author audit. Not canon until approved.
 
-**Purpose:** Give Jiang the first practical bridge between the body's embodied memory and conscious control, introduce the foundational vocabulary of cultivation, and establish an initial cultivation stage without granting instant mastery.
+**Purpose:** Show Jiang acting on his opportunity immediately, using his administrative instincts to gather information and beginning to reconstruct his place in the novel's timeline.
 
 **Draft beats**
-- The instructor explains qi, meridians, the dantian, and the broad early progression of Body Tempering, Qi Gathering, and Foundation Establishment.
-- Jiang is guided through a basic sensing exercise and notices a faint internal sensation, but is warned not to force qi through his meridians without instruction.
-- The instructor identifies Gu Tianxing as being at the third layer of Qi Gathering, with a sound foundation and respectable talent, while noting inconsistent training and a lack of recent progress.
-- Jiang revisits the defensive step from Scene 1. By settling his posture and breath and allowing the body's response to emerge before consciously dissecting it, he reproduces the first evasive movement, then works to repeat it with uneven success.
-- The scene frames this as the start of conscious control, not instant combat competence.
-- Jiang requests the introductory cultivation manual and a review of his training records.
+- Jiang requests training records, the introductory cultivation manual, information about his clan responsibilities, and candid feedback from Lin Wei.
+- He creates a three-column record separating remembered novel facts, current observations, and unknowns.
+- He reasserts the critical timeline constraint: original Gu Tianxing is expected to die around chapters 5–10, but Jiang does not know the current point in the plot or the precise event that triggers the death.
+- A household clerk reports a Gu Clan family assembly scheduled in three days. Jiang has a hazy memory of a younger-generation gathering in the novel and suspects it may be a plot anchor without treating that suspicion as confirmed.
+- Jiang orders the guest list, event purpose, expected role, and any references to new arrivals or outside disciples. He recognizes that three days is a usable deadline and starts collecting intelligence rather than passively waiting.
 
 **Draft-only continuity notes**
-- The cultivation terminology and early-stage progression introduced here are provisional until the author approves this scene.
-- Gu Tianxing's third layer of Qi Gathering, sound foundation, and the instructor's assessment of his talent are proposed scene facts, not yet binding canon.
-- Jiang's ability to reproduce the defensive step remains inconsistent; he has not gained general combat mastery or a named technique.
-- The instructor's name, the complete cultivation hierarchy, the limits of qi sensing, and the details of meridian circulation remain undecided.
+- The family assembly, its three-day timing, the clerk, and Jiang's specific recollection of a gathering in the original novel are provisional until this scene is approved.
+- The assembly is only a possible timeline anchor; it is not yet established that the original protagonist will attend or that this is the exact scene leading to Gu Tianxing's death.
+- Jiang's death window remains approximate: around chapters 5–10 of the original novel. The current in-world date and exact time until the fatal event remain unknown.
+- The cultivation details in Scene 3 are now canon; the manual has been requested but its contents have not yet been established.
 
