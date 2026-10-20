@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 0.9
+## Continuous Novel Bible — Version 1.0
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 contains five author-approved scenes and is stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. The chapter is planned for six scenes.
+**Current progress:** Chapter 1 contains five author-approved scenes and one Scene 6 draft awaiting author audit, all stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scene 5 is now binding canon; Scene 6 is not yet approved.
 
 ### Core premise
 
@@ -213,6 +213,26 @@ The household attendant answers Jiang's questions about the date, recent Gu Clan
 - Jiang's next intended step is to understand the body he has inherited and Gu Tianxing's position within the clan. His cultivation level and capabilities remain undecided.
 
 ---
+### Chapter 1 — Scene 5: A Stranger in His Own Skin
+**Status:** Author-approved; binding canon.  
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 1)
+
+Jiang examines Gu Tianxing's reflection and tests the body's basic movement. He recognizes that youth and a prestigious title do not establish strength, cultivation ability, or social standing. He decides to learn the body's capabilities and the expectations attached to Gu Tianxing's name before acting against the future he remembers.
+
+### Canonical implications of Scene 5
+- Jiang's new body feels young, light, and uninjured during basic movement tests.
+- These tests reveal no obvious physical limitation but establish nothing about cultivation rank, talent, or combat ability.
+- Jiang does not grieve for the loss of his former empire; he is primarily irritated by having lost control and information.
+- Jiang decides to establish the facts of his present life before attempting to change his remembered future.
+
+### Chapter 1 — Scene 6: [Planning title undecided]
+**Status:** Drafted and committed for author audit; not yet canon.  
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 1)
+
+Jiang chooses to visit the Gu Clan's training grounds as a practical first step. He observes the way clan members react to Gu Tianxing, sees young members training, and agrees to a basic exchange with a youth who offers to help him assess his capabilities. The scene ends as Jiang steps into the training space, with his actual abilities and cultivation level still unknown.
+
+**Draft-only details requiring author approval:** The route through the clan grounds, the training courtyard's appearance and activities, the unnamed youth's offer, and the proposed basic exchange are introduced by this scene and are not canon until approved.
+
 ## 10. Timeline
 
 ### First life — Jiang Tingyuan
@@ -309,7 +329,8 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 | Chapter 1, Scene 2 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Chapter 1, Scene 3 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Chapter 1, Scene 4 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
-| Chapter 1, Scene 5 | Drafted and committed for author audit; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
+| Chapter 1, Scene 5 | Author-approved; binding canon; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
+| Chapter 1, Scene 6 | Drafted and committed for author audit; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Jiang's first-life age | Scene 2 describes him as fifty; retain unless revised |
 | Reincarnated identity | Jiang Tingyuan occupies Gu Tianxing's body and retains his own identity and memories |
 | Awakening location | Opulent room; exact location and ownership undecided |
@@ -322,6 +343,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 | Jiang's first answers | Scene 4: receives only general information; no reliable timeline anchor is established |
 | Jiang's next intended step | Scene 4: investigate his body and position within the Gu Clan before comparing findings against novel memories |
 | Jiang's body examination | Scene 5: basic movement reveals no obvious limitation, but does not establish cultivation ability or rank |
+| Jiang visits the training grounds | Scene 6 draft: he observes clan members training and agrees to a basic exchange intended to help assess his body; exact capabilities and cultivation rank remain unknown |
 
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
@@ -332,6 +354,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v0.7:** Added approved Chapter 1, Scene 4, “The First Answers,” to the manuscript. Recorded the attendant's general answers, the absence of a reliable chronological anchor, and Jiang's decision to investigate his body and position within the Gu Clan. Kept the calendar system, cultivation level, and precise timeline undecided.
 - **v0.8:** Drafted Chapter 1, Scene 5, “A Stranger in His Own Skin,” and updated the workflow to reflect direct ChatGPT drafting rather than Perchance.
 - **v0.9:** Removed the internal scene heading “Scene 5 — A Stranger in His Own Skin” from the novel manuscript so the story reads as continuous fiction rather than exposing planning labels. The scene prose remains in place; the scene title is retained only as a planning reference in this Bible.
+- **v1.0:** Recorded the author's approval of Scene 5 as binding canon. Drafted Scene 6 and appended it to Chapter 1 without an internal scene heading; Scene 6 is explicitly awaiting author audit. Updated the progress summary, scene ledger, timeline, and workflow notes.
 
 ---
 
@@ -339,10 +362,10 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 
 The author has final authority over all canon. For every scene:
 1. Prepare one-scene outline using the approved format.
-2. Generate prose in Perchance.
-3. Review for hook, pacing, characterization, continuity, and invented mechanics.
+2. Draft the prose directly in ChatGPT and review it for hook, pacing, characterization, continuity, and invented mechanics.
+3. Commit the draft to the chapter manuscript for author audit, without internal scene headings or planning metadata.
 4. Make no silent edits to approved prose.
-5. Once the author approves a scene, append its exact text to the correct chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`, using a scene break where appropriate. Do not create a separate file for each scene.
+5. Once the author approves a scene, mark it as binding canon in this Bible. Keep the exact prose in `THE_VILLAIN_WHO_READ_THE_ENDING.md`, using a scene break where appropriate. Do not create a separate file for each scene.
 6. Update this Bible and its continuity ledger/change log in the same workflow.
 7. If an approved scene contains a detail that conflicts with earlier canon, flag it and ask whether the author wants a deliberate revision rather than silently choosing one version.
 
