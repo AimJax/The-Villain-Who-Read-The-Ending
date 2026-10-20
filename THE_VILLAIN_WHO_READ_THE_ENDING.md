@@ -563,3 +563,70 @@ The original Gu Tianxing had believed that status meant he could force any situa
 Jiang would use that status for something more valuable.
 
 He would make sure the assembly happened—and that the story did not happen the same way.
+* * *
+
+Jiang sent for the eastern courtyard's instructor before the afternoon had passed.
+
+The man arrived carrying no weapon, only a narrow cushion and a folded sheet of paper. His expression suggested he had expected another demand from the young master, though he kept that judgment to himself.
+
+“You asked for instruction, Young Master?”
+
+“I have three days before the family assembly,” Jiang said. “I am not asking you to make me stronger than I am. I want to know what I can safely improve in that time, and what mistakes would leave me worse off.”
+
+The instructor studied him more carefully. Perhaps it was the question. Perhaps it was the absence of a boast.
+
+“Three days is not enough to advance a cultivation stage through ordinary practice,” he said. “Trying to force a breakthrough would be reckless. But you can improve your control, correct inefficient habits, and learn to recognize when your qi is moving improperly.”
+
+“Then we will start there.”
+
+The instructor placed the cushion on the floor and guided Jiang through the same posture he had shown him earlier. Back straight, shoulders loose, breath steady. Jiang closed his eyes and tried to follow the instructions in the manual. The words were simple until he attempted to make them real. He could control his breathing. He could settle his attention. The moment he tried to direct the faint pressure in his lower abdomen, it became indistinct.
+
+“Do not chase the sensation,” the instructor said. “You are trying to seize something that responds to patience.”
+
+Jiang opened his eyes. “Then explain what I should observe instead of telling me what not to do.”
+
+A pause.
+
+“Notice whether your breathing remains even. Whether your body tenses. Whether the sensation appears naturally and fades when you strain for it. You are learning to distinguish what happens from what you want to happen.”
+
+That, Jiang understood.
+
+He tried again. This time he did not attempt to push the qi anywhere. He held his posture and watched his breathing, the tension in his shoulders, and the small, unfamiliar pressure below his navel. For a few breaths, the sensation became clearer—not stronger, exactly, but easier to notice. Then it vanished when his mind reached for it.
+
+He stopped rather than force it back.
+
+The instructor nodded once. “Better.”
+
+“Because I did less?”
+
+“Because you stopped interfering with the process.”
+
+Jiang filed the answer away. In his former life, the right intervention could turn a failing operation around; the wrong one could destroy something that had been working. He would have to learn which kind of system he was dealing with before applying pressure. Qi was not a quarterly report, and his body was not a machine he could bully into producing results on schedule.
+
+They continued until the instructor ended the session. Jiang had gained no dramatic power, no sudden insight into the full workings of cultivation. He had gained something smaller and more reliable: a way to practice without confusing effort with progress.
+
+“Send me the exercises you consider safe to repeat alone,” Jiang said. “And tell me what I should avoid until you can supervise me.”
+
+“I will prepare a list, Young Master.”
+
+“One more thing. At the assembly, what am I expected to do?”
+
+The instructor's face changed by a fraction. “That depends on the proceedings. Young masters are sometimes invited to demonstrate their progress or comment on the younger disciples. You may be asked to speak, but I have not been informed of a specific assignment.”
+
+“Who decides?”
+
+“The presiding elder, usually, though the household steward will know the order of arrangements.”
+
+Jiang nodded. He had been given no role yet, which meant he should not invent one. But if the assembly's proceedings allowed a young master to publicly judge or challenge an outsider, the opportunity to humiliate Shen Yan could arise without being formally assigned.
+
+“Have the steward send me the order of proceedings as soon as it is available,” Jiang said. “And find out who sponsored Shen Yan's attendance. Quietly. I want facts, not gossip.”
+
+“Yes, Young Master.”
+
+After the instructor left, Jiang returned to his notes. He crossed out nothing. Instead, he added a new line beneath his objective: **Do not create the confrontation. Do not allow others to create it on my behalf.**
+
+He could spend the next three days chasing a breakthrough that was unlikely to come, or use them to make the fatal sequence harder to trigger. Strength mattered. So did timing, position, and the ability to refuse a trap without making the refusal itself a spectacle.
+
+For now, the assembly was the battlefield he could prepare for.
+
+And Shen Yan was a name he would treat with care.
