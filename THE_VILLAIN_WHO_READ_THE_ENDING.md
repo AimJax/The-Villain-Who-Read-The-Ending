@@ -226,3 +226,84 @@ The youth kept the wooden blade lowered. Around them, the courtyard's ordinary s
 That was his first real measurement. Not strength, not rank, and certainly not mastery. A capacity existed here, buried in reflex and unfamiliar habit. Until he could separate what the body knew from what he himself understood, every test would risk confusing luck with ability.
 
 And judging by the youth's unfinished question, Gu Tianxing's body might have a history that its new occupant had not yet learned to read.
+* * *
+
+Jiang let the silence stretch. The youth kept his head lowered, wooden blade held carefully at his side, as if even the way he stood might be judged.
+
+“Look at me,” Jiang said.
+
+The youth obeyed at once, but his eyes rose only briefly before settling just below Jiang's face. “Yes, Young Master.”
+
+“You said you thought I would already know how to move like that. Explain.”
+
+The youth's shoulders stiffened. “I spoke carelessly, Young Master. I shouldn't have—”
+
+“I didn't ask whether you should have spoken. I asked what you meant.”
+
+The boy shut his mouth. Jiang watched him struggle between the urge to answer and the fear of answering incorrectly. That fear was useful, but it also made him a poor source of information. If Jiang wanted facts, he would have to make it clear that an honest answer was safer than a pleasing one.
+
+“You will not be punished for telling me what you saw,” Jiang said. “You will be punished for lying to me. Do you understand the difference?”
+
+“Yes, Young Master.” The answer came quickly. A moment later, the youth seemed to realize that he had agreed to a threat and paled further.
+
+Jiang noted it. The original Gu Tianxing had apparently made fear an ordinary part of conversation. He did not know how often the young master had used it, or what the people around him believed he might do. But the youth had not needed to hear a raised voice to take the warning seriously.
+
+“Now. What did you see?”
+
+The youth adjusted his grip on the wooden blade. “I've seen you train here before, Young Master. Not often. When you did, you already knew the basic movements. You didn't like being corrected, and you usually stopped when the instructor insisted you repeat something.”
+
+Jiang kept his expression still. “Was I good?”
+
+The question seemed to unsettle the youth more than the warning had. “I wouldn't presume to judge you, Young Master.”
+
+“That's not an answer.”
+
+“I—” He swallowed. “You had a good foundation, Young Master. Your movements were better than most beginners'. But you didn't practice long enough for me to know how far you could go.”
+
+A more useful answer. It separated what the youth had actually observed from what he was afraid to conclude.
+
+“And the movement just now?”
+
+“I don't know, Young Master. It looked like the way you used to step aside when someone attacked. But today you did it before I expected you to move.” His gaze flicked up, then dropped again. “I thought perhaps you were testing me.”
+
+Jiang considered that. The body had answered the first strike without conscious direction, and the youth had recognized something familiar in it. That did not prove Gu Tianxing had been skilled. A repeated movement could survive as habit even when its owner had never mastered the reason behind it. Nor did it explain why Jiang had failed when he tried to reproduce the motion deliberately.
+
+“What should someone in my position know about cultivation?” Jiang asked.
+
+The youth went very still.
+
+Jiang could almost see him searching for a safe response. “Young Master, that is something an instructor would be better suited to explain.”
+
+“Then tell me what you know, and tell me what you don't.”
+
+“I only know the basics taught to the outer trainees, Young Master.” He hesitated. “I can explain the exercises, but I can't speak for your cultivation or tell you what you should already have learned.”
+
+“Good. Start with what you can explain.”
+
+The youth looked genuinely unsure how to proceed. Around them, the remaining spectators had begun returning to their own practice, though a few still watched from the corners of their eyes. Jiang had no desire to conduct an interrogation before an audience. He turned slightly, giving the youth a clear indication to walk with him toward the edge of the courtyard.
+
+The youth followed, keeping a respectful distance.
+
+“Who supervises training here?” Jiang asked.
+
+“The instructor assigned to the eastern courtyard, Young Master. He usually observes the senior trainees first, then checks the beginners' forms. I don't know if he's here today.”
+
+“Take me to him if he is.”
+
+“Yes, Young Master.”
+
+They crossed the courtyard. The youth's steps were quick but controlled; he kept glancing toward Jiang as though expecting another question to become a trap. Jiang allowed him that discomfort. He needed to understand the habits surrounding Gu Tianxing as much as he needed to understand the body. A person who feared a question might reveal more through what he avoided than through what he said.
+
+Near the far side of the practice area, a broad-shouldered man in dark training robes was correcting the stance of two older trainees. He looked up as Jiang approached. The two trainees straightened immediately, and the instructor's expression shifted—not into surprise, but into the guarded attention Jiang had begun to recognize.
+
+The youth stopped and bowed. “Instructor. Young Master Gu wishes to speak with you.”
+
+The instructor studied Jiang for a moment before returning the bow, measured and formal.
+
+“Young Master,” he said. “I was told you had come to observe.”
+
+“I came to learn,” Jiang replied. “I want to understand what this body is capable of, and what I am expected to know.”
+
+For the first time, the instructor's composure faltered. It was slight: a pause before his next breath, a fraction of a second in which his eyes searched Jiang's face. Then the expression settled back into place.
+
+“Of course, Young Master,” he said. “Though I confess, I did not expect that to be your first request.”
