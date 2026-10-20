@@ -189,12 +189,13 @@ Jiang awakens in an unfamiliar, opulent room. He remembers the crash and the cul
 **Status:** Author-approved at the author's request; binding canon.  
 **Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 1)
 
-Jiang examines his young body without assuming he knows its cultivation level, searches the room for records that could anchor him in the timeline, and finds no reliable answer. He recognizes that his memories of the novel provide broad events rather than a precise countdown to Gu Tianxing's death. He opens the door, addresses someone approaching, and asks for the date and recent developments within the Gu Clan.
+Jiang examines his young body without assuming he knows its cultivation level, searches the room for records that could anchor him in the timeline, and finds no reliable answer. He recognizes that his memories of the novel provide broad events rather than a precise countdown to Gu Tianxing's death. He opens the door and finds a household attendant waiting in the corridor. He asks the attendant for the date and recent developments within the Gu Clan.
 
 ### Canonical implications of Scene 3
 - Jiang's body feels young and uninjured, but he does not infer a cultivation level or capability from this.
 - He searches the room for useful records but finds nothing that establishes the timeline with confidence.
-- Jiang calls for an unnamed person nearby and asks for the date and recent Gu Clan developments. The person's identity and response remain to be established in the next scene.
+- Jiang finds a household attendant waiting in the corridor and asks for the date and recent Gu Clan developments.
+- The attendant is not yet named or otherwise characterized. Their answer and any further relationship to Gu Tianxing remain to be established.
 - No exact current date, death countdown, or new cultivation mechanic has been established.
 
 ---
@@ -307,7 +308,8 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
 - **v0.3:** Cleaned the Bible to reflect the restarted version of Chapter 1. Replaced the discarded opening scene with the newly approved “The Man Who Owned Everything”; added the approved “A Life Borrowed from a Dead Man”; removed the discarded Spirit-Devouring Pearl, Elder Wei, and Great Hall scenario from canon. Recorded new approved-scene details while keeping unresolved mechanics and timeline specifics open.
 - **v0.4:** Changed the manuscript structure so the novel is maintained in `THE_VILLAIN_WHO_READ_THE_ENDING.md`, with all approved scenes for a chapter combined in that chapter rather than stored in separate scene files. Chapter 1 now contains Scenes 1 and 2, separated by a scene break. The Bible remains a separate planning and continuity document.
-- **v0.5:** Added revised Chapter 1, Scene 3, “Establishing the Board,” to the chapter manuscript. Recorded Jiang's unsuccessful search for a chronological anchor and his request for the date and recent Gu Clan developments. The exact date, the identity of the person he addresses, and their response remain undecided.
+- **v0.5:** Added revised Chapter 1, Scene 3, “Establishing the Board,” to the chapter manuscript. Recorded Jiang's unsuccessful search for a chronological anchor and his request for the date and recent Gu Clan developments.
+- **v0.6:** Revised Scene 3's ending to identify the person Jiang addresses as a household attendant waiting in the corridor, rather than an undefined “someone.” The attendant's name, individual identity, and response remain undecided.
 
 ---
 
