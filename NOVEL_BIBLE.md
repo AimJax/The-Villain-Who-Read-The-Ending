@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 2.0
+## Continuous Novel Bible — Version 2.1
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scenes 1–4 are author-approved and binding canon. Chapter 3, Scene 1 has been drafted and committed for author audit; it is not canon until approved.
+**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scenes 1–4 are author-approved and binding canon. Chapter 3, Scene 1 is author-approved and binding canon. Chapter 3, Scene 2 has been drafted and committed for author audit; it is not canon until approved.
 
 ### Core premise
 
@@ -358,7 +358,8 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 | Chapter 2, Scene 2 | Author-approved; binding canon; included in manuscript |
 | Chapter 2, Scene 3 | Author-approved; binding canon; cultivation foundations and first deliberate body-memory repetition established |
 | Chapter 2, Scene 4 | Author-approved; binding canon; Jiang begins a structured timeline investigation and discovers a Gu Clan family assembly scheduled in three days |
-| Chapter 3, Scene 1 | Draft committed; awaiting author audit; Jiang recognizes Shen Yan's name and recalls the assembly's role in the original Gu Tianxing's downfall |
+| Chapter 3, Scene 1 | Author-approved; binding canon; Jiang recognizes Shen Yan's name and recalls the assembly's role in the original Gu Tianxing's downfall |
+| Chapter 3, Scene 2 | Draft committed; awaiting author audit; Jiang begins a controlled cultivation practice and sets priorities for the three days before the assembly |
 
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
@@ -375,7 +376,8 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v1.7:** Recorded Chapter 2, Scene 2 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 3, provisionally introducing qi, meridians, the dantian, early cultivation stages, Gu Tianxing's current stage, and Jiang's first deliberate repetition of a movement through embodied memory.
 - **v1.8:** Recorded Chapter 2, Scene 3 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 4, in which Jiang immediately secures training records and household information, begins a three-column timeline reconstruction, and discovers a family assembly scheduled in three days that may be a plot anchor. The scene was awaiting audit at this version.
 - **v1.9:** Recorded the author's approval of Chapter 2, Scene 4 with a dedicated manuscript approval commit. The three-day Gu Clan family assembly, Jiang's memory of a possibly corresponding gathering in the novel, and his systematic information-gathering plan are now binding facts. The assembly's connection to the original protagonist and Gu Tianxing's death remains unconfirmed. Added a pacing constraint: target approximately five minutes of read-aloud time per scene, generally around 600–750 words depending on dialogue and cadence, and keep Chapter 3 focused on establishing Jiang's place in the original plot and a usable survival plan.
-- **v2.0:** Drafted Chapter 3, Scene 1 for author audit at approximately 755 words, keeping close to the five-minute read-aloud target. Jiang receives his training records and manual, recognizes Shen Yan's name on the assembly guest list, and recalls that original Gu Tianxing's public humiliation of Shen Yan triggered the chain leading to his death. These plot details and Shen Yan's identity remain provisional until the author approves the scene.
+- **v2.0:** Drafted Chapter 3, Scene 1 for author audit at approximately 755 words, keeping close to the five-minute read-aloud target. Jiang receives his training records and manual, recognizes Shen Yan's name on the assembly guest list, and recalls that original Gu Tianxing's public humiliation of Shen Yan triggered the chain leading to his death. These plot details and Shen Yan's identity remained provisional pending approval.
+- **v2.1:** Recorded the author's approval of Chapter 3, Scene 1 with a dedicated manuscript approval commit. Shen Yan's presence on the assembly guest list and Jiang's incomplete recollection of the confrontation that begins Gu Tianxing's fatal chain are now binding story facts, while the exact details and whether events repeat unchanged remain uncertain. Drafted Chapter 3, Scene 2 for audit, focused on a controlled cultivation session and prioritizing immediate survival over unrealistic short-term power gains.
 
 ---
 
@@ -436,15 +438,15 @@ Jiang requests his training records, an introductory cultivation manual, informa
 Target approximately five minutes of read-aloud time per scene. As a practical guide, aim for roughly 600–750 words per scene, adjusting for dialogue and sentence cadence. Avoid letting scenes expand merely because the story can accommodate more explanation; each scene should have a clear turn, a consequential discovery or decision, and a strong ending.
 
 ### Chapter 3 — Scene 1: Three Days to the Assembly
-**Status:** Draft committed; awaiting author audit. Not canon until approved.  
+**Status:** Author-approved; binding canon.  
 **Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 3)
 
 Jiang receives Gu Tianxing's training records and an introductory cultivation manual. The records confirm a sound foundation at the third layer of Qi Gathering, with inconsistent practice and no recent advancement. The family assembly guest list includes an outer disciple named Shen Yan. Seeing the name triggers Jiang's incomplete memory of the original novel: Gu Tianxing publicly humiliates Shen Yan at the assembly, escalating a petty insult into a grudge that leads to the original young master's fatal confrontation soon afterward. Jiang identifies the assembly as a likely plot anchor and sets his immediate objective as preventing the public confrontation without exposing his foreknowledge.
 
-**Draft-only continuity notes**
-- Shen Yan's identity, his attendance, and the remembered sequence of public humiliation and later fatal confrontation are provisional until Scene 1 is approved.
-- Jiang's recollection is explicitly incomplete. The assembly is a likely, not guaranteed, match to the original novel's events.
-- The fatal encounter does not occur at the assembly itself in Jiang's remembered sequence; the public confrontation begins the chain that leads to it.
-- Jiang's immediate plan is to prevent the confrontation, prepare with the time available, and verify his expectations rather than assume the remembered plot will repeat exactly.
-- Scene length target: approximately five minutes read aloud; this draft is approximately 755 words.
+**Canonical implications**
+- Shen Yan is an outer disciple expected to attend the Gu Clan family assembly in three days.
+- Jiang remembers that original Gu Tianxing publicly humiliates Shen Yan at the assembly, and that the confrontation begins a chain leading to Gu Tianxing's death soon afterward.
+- Jiang's recollection is incomplete. He remembers the broad shape of the event, not every detail, and does not assume the original sequence must repeat unchanged.
+- The fatal encounter is remembered as occurring after the assembly, not at the assembly itself.
+- Jiang's immediate objective is to prevent the public confrontation while preparing for the possibility that the remembered sequence is accurate.
 
