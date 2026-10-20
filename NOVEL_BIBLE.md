@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 2.2
+## Continuous Novel Bible — Version 2.3
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scenes 1–4 are author-approved and binding canon. Chapter 3, Scene 1 is author-approved and binding canon. Chapter 3, Scene 2 has been drafted and committed for author audit; it is not canon until approved.
+**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scenes 1–4 are author-approved and binding canon. Chapter 3, Scene 1 is author-approved and binding canon. Chapter 3, Scene 2 has been revised to better demonstrate Jiang's analytical genius and committed for author audit; it is not canon until approved.
 
 ### Core premise
 
@@ -64,7 +64,7 @@ Notes =
 
 After achieving moderate success, he founded and financed his own company through cunning schemes, questionable dealings, and morally dubious business practices. The company grew into a dominant global technology conglomerate through acquisitions, crushing competitors, and absorbing businesses. Its reach includes semiconductors, microtransistors, chipsets, CPUs, GPUs, computer components, advanced technology, electric vehicles, rocket boosters and aerospace technology, air conditioners, televisions, smartphones, CCTV, and surveillance systems.
 
-He is calculating, cold, composed, opportunistic, manipulative, prideful, and pragmatic. He values competence, leverage, authority, influence, control, and results. He does not prioritize family, friendship, or romance over ambition, and accepts that choice without regret. His methods were learned through experience; he is highly capable but not automatically correct or omniscient.
+He is calculating, cold, composed, opportunistic, manipulative, prideful, and pragmatic. He values competence, leverage, authority, influence, control, and results. He does not prioritize family, friendship, or romance over ambition, and accepts that choice without regret. His methods were learned through experience; he is highly capable but not automatically correct or omniscient. Once he focuses on a problem, he learns unusually quickly: he isolates variables, tests assumptions, notices patterns, and converts instruction into a practical method. This is exceptional reasoning, not preexisting knowledge of unfamiliar disciplines; cultivation rules and embodied skill still have to be learned.
 
 **Notes =** Scene 1 depicts Jiang as a powerful corporate titan after a hostile takeover. Scene 2 describes him as a fifty-year-old corporate titan and refers to three decades of boardroom conflict; this is now part of the approved prose. He dies when a freight truck described in Scene 1 as having lost its brakes crashes into the passenger side of the town car driven by his personal driver. He then awakens as Gu Tianxing.
 
@@ -379,6 +379,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v2.0:** Drafted Chapter 3, Scene 1 for author audit at approximately 755 words, keeping close to the five-minute read-aloud target. Jiang receives his training records and manual, recognizes Shen Yan's name on the assembly guest list, and recalls that original Gu Tianxing's public humiliation of Shen Yan triggered the chain leading to his death. These plot details and Shen Yan's identity remained provisional pending approval.
 - **v2.1:** Recorded the author's approval of Chapter 3, Scene 1 with a dedicated manuscript approval commit. Shen Yan's presence on the assembly guest list and Jiang's incomplete recollection of the confrontation that begins Gu Tianxing's fatal chain are now binding story facts, while the exact details and whether events repeat unchanged remain uncertain.
 - **v2.2:** Drafted Chapter 3, Scene 2 for author audit. Jiang undertakes a supervised, controlled cultivation session and learns to observe qi without forcing it; no sudden breakthrough or cultivation advancement occurs. He asks about his expected role at the assembly and orders quiet fact-finding on the proceedings and Shen Yan's sponsor. His immediate survival plan now includes preventing the confrontation from being initiated by him or engineered by others.
+- **v2.3:** Revised Chapter 3, Scene 2 before author audit to better express Jiang's exceptional analytical intelligence. During supervised cultivation, he independently tests the relationship between posture, tension, breathing, and his perception of qi, distinguishes observation from a proven cause, and leaves with a repeatable practice method rather than a sudden breakthrough. The revision preserves the three-day assembly investigation and remains draft-only pending author approval.
 
 ---
 
@@ -439,17 +440,20 @@ Jiang requests his training records, an introductory cultivation manual, informa
 Target approximately five minutes of read-aloud time per scene. As a practical guide, aim for roughly 600–750 words per scene, adjusting for dialogue and sentence cadence. Avoid letting scenes expand merely because the story can accommodate more explanation; each scene should have a clear turn, a consequential discovery or decision, and a strong ending.
 
 ### Chapter 3 — Scene 2: Controlled Practice
-**Status:** Draft committed; awaiting author audit. Not canon until approved.  
+**Status:** Revised draft committed; awaiting author audit. Not canon until approved.  
 **Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 3)
 
-Jiang summons the eastern courtyard instructor for a supervised cultivation session. He makes clear that he does not expect a breakthrough in three days and wants to know what can safely improve. The instructor guides him through posture, breath, and observing qi without forcing it. Jiang learns a modest but repeatable practice principle, not a new power or advancement. He then asks what role he may have at the family assembly and learns young masters may be asked to demonstrate progress or comment on younger disciples, though no assignment has been confirmed. Jiang asks for the order of proceedings and quiet information about Shen Yan's sponsor. He records a more precise objective: prevent the confrontation himself and avoid allowing others to provoke it on his behalf.
+Jiang summons the eastern courtyard instructor for supervised cultivation practice. Rather than merely accept vague warnings, he asks how improvement can be measured and what changes when he makes a mistake. He tracks his breathing, shoulder tension, and faint perception of qi, deliberately varies one factor, and observes a repeatable difference. He remains cautious about confusing correlation with cause, but quickly turns the instructor's guidance into a practical method. His intelligence is demonstrated through disciplined experimentation and rapid abstraction, not unexplained cultivation mastery. He gains no breakthrough or advancement.
+
+Jiang also asks about his expected role at the family assembly. The instructor says young masters may be asked to demonstrate progress or comment on younger disciples, but Jiang has no confirmed assignment. Jiang requests the order of proceedings and quiet information about Shen Yan's sponsor. He records his objective: prevent the confrontation himself and avoid allowing others to provoke it on his behalf.
 
 **Draft-only continuity notes**
-- The instructor's specific advice about qi observation, the assembly's possible proceedings, and Jiang's new information requests remain provisional pending approval.
-- Jiang does not advance beyond the third layer of Qi Gathering and gains no sudden combat mastery.
+- The instructor's specific guidance and Jiang's repeatable observations remain provisional pending approval.
+- Jiang remains at the third layer of Qi Gathering; he cannot yet command qi at will and gains no sudden combat mastery.
+- Jiang's exceptional intelligence should make him a rapid, systematic learner once focused, while unfamiliar knowledge and practical cultivation skill must still be acquired.
 - No specific role has yet been assigned to Jiang at the assembly.
 - Jiang's plan is to gather facts and avoid the confrontation, while keeping the possibility of manipulation by other participants in mind.
-- Draft length is approximately 787 words including the scene break; continue targeting roughly five minutes of read-aloud time.
+- Revised scene length is approximately 732 words, targeting the established five-minute read-aloud pace.
 
 ### Chapter 3 — Scene 1: Three Days to the Assembly
 **Status:** Author-approved; binding canon.  
