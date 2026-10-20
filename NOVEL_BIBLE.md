@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 0.5
+## Continuous Novel Bible — Version 0.7
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault; Perchance generates prose.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault → one-scene outline → Perchance prose → review → author approval → merge approved prose into the chapter file → update this Bible  
-**Current progress:** Chapter 1 contains three author-approved scenes and is stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`.
+**Current progress:** Chapter 1 contains four author-approved scenes and is stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`.
 
 ### Core premise
 
@@ -293,7 +293,8 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 |---|---|
 | Chapter 1, Scene 1 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Chapter 1, Scene 2 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
-| Chapter 1, Scene 3 | Approved at author's request; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
+| Chapter 1, Scene 3 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
+| Chapter 1, Scene 4 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Jiang's first-life age | Scene 2 describes him as fifty; retain unless revised |
 | Reincarnated identity | Jiang Tingyuan occupies Gu Tianxing's body and retains his own identity and memories |
 | Awakening location | Opulent room; exact location and ownership undecided |
@@ -302,14 +303,17 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 | Cultivation system | Undecided |
 | Hidden treasures | Jiang recalls them in general; identities and details undecided |
 | Azure Dragons | Eventual calamity defeated by the original protagonist; detailed nature undecided |
-| Jiang's first information-gathering move | Scene 3: searches the room and asks an unnamed person for the date and recent Gu Clan developments |
+| Jiang's first information-gathering move | Scene 3: searches the room and asks a household attendant for the date and recent Gu Clan developments |
+| Jiang's first answers | Scene 4: receives only general information; no reliable timeline anchor is established |
+| Jiang's next intended step | Scene 4: investigate his body and position within the Gu Clan before comparing findings against novel memories |
 
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
 - **v0.3:** Cleaned the Bible to reflect the restarted version of Chapter 1. Replaced the discarded opening scene with the newly approved “The Man Who Owned Everything”; added the approved “A Life Borrowed from a Dead Man”; removed the discarded Spirit-Devouring Pearl, Elder Wei, and Great Hall scenario from canon. Recorded new approved-scene details while keeping unresolved mechanics and timeline specifics open.
 - **v0.4:** Changed the manuscript structure so the novel is maintained in `THE_VILLAIN_WHO_READ_THE_ENDING.md`, with all approved scenes for a chapter combined in that chapter rather than stored in separate scene files. Chapter 1 now contains Scenes 1 and 2, separated by a scene break. The Bible remains a separate planning and continuity document.
 - **v0.5:** Added revised Chapter 1, Scene 3, “Establishing the Board,” to the chapter manuscript. Recorded Jiang's unsuccessful search for a chronological anchor and his request for the date and recent Gu Clan developments.
-- **v0.6:** Revised Scene 3's ending to identify the person Jiang addresses as a household attendant waiting in the corridor, rather than an undefined “someone.” The attendant's name, individual identity, and response remain undecided.
+- **v0.6:** Revised Scene 3's ending to identify the person Jiang addresses as a household attendant waiting in the corridor, rather than an undefined “someone.” The attendant's name and individual identity remain undecided.
+- **v0.7:** Added approved Chapter 1, Scene 4, “The First Answers,” to the manuscript. Recorded the attendant's general answers, the absence of a reliable chronological anchor, and Jiang's decision to investigate his body and position within the Gu Clan. Kept the calendar system, cultivation level, and precise timeline undecided.
 
 ---
 
