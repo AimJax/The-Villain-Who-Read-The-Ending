@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 2.3
+## Continuous Novel Bible — Version 2.4
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scenes 1–4 are author-approved and binding canon. Chapter 3, Scene 1 is author-approved and binding canon. Chapter 3, Scene 2 has been revised to better demonstrate Jiang's analytical genius and committed for author audit; it is not canon until approved.
+**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scenes 1–4 are author-approved and binding canon. Chapter 3, Scene 1 is author-approved and binding canon. Chapter 3, Scene 2 has been revised so Jiang chooses to deliberately follow the remembered confrontation with Shen Yan, while preparing to make the humiliation calculated and enforceable; it remains awaiting author audit and is not canon until approved.
 
 ### Core premise
 
@@ -380,6 +380,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v2.1:** Recorded the author's approval of Chapter 3, Scene 1 with a dedicated manuscript approval commit. Shen Yan's presence on the assembly guest list and Jiang's incomplete recollection of the confrontation that begins Gu Tianxing's fatal chain are now binding story facts, while the exact details and whether events repeat unchanged remain uncertain.
 - **v2.2:** Drafted Chapter 3, Scene 2 for author audit. Jiang undertakes a supervised, controlled cultivation session and learns to observe qi without forcing it; no sudden breakthrough or cultivation advancement occurs. He asks about his expected role at the assembly and orders quiet fact-finding on the proceedings and Shen Yan's sponsor. His immediate survival plan now includes preventing the confrontation from being initiated by him or engineered by others.
 - **v2.3:** Revised Chapter 3, Scene 2 before author audit to better express Jiang's exceptional analytical intelligence. During supervised cultivation, he independently tests the relationship between posture, tension, breathing, and his perception of qi, distinguishes observation from a proven cause, and leaves with a repeatable practice method rather than a sudden breakthrough. The revision preserves the three-day assembly investigation and remains draft-only pending author approval.
+- **v2.4:** Revised Chapter 3, Scene 2 again at the author's direction. Jiang rejects his earlier plan to avoid the Shen Yan confrontation and decides to follow the remembered plot point deliberately, while preparing to make the humiliation more consequential than the original Gu Tianxing's petty insult. His preparation must establish credible backing—cultivation, evidence, status, leverage, or a combination—rather than empty threats. This is a draft direction, not canon until the scene is approved.
 
 ---
 
@@ -443,17 +444,18 @@ Target approximately five minutes of read-aloud time per scene. As a practical g
 **Status:** Revised draft committed; awaiting author audit. Not canon until approved.  
 **Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 3)
 
-Jiang summons the eastern courtyard instructor for supervised cultivation practice. Rather than merely accept vague warnings, he asks how improvement can be measured and what changes when he makes a mistake. He tracks his breathing, shoulder tension, and faint perception of qi, deliberately varies one factor, and observes a repeatable difference. He remains cautious about confusing correlation with cause, but quickly turns the instructor's guidance into a practical method. His intelligence is demonstrated through disciplined experimentation and rapid abstraction, not unexplained cultivation mastery. He gains no breakthrough or advancement.
+Jiang undertakes supervised cultivation practice and demonstrates his analytical intelligence by testing the relationship between posture, tension, breathing, and his perception of qi. He gains a repeatable method for practice, but no breakthrough or advancement. He asks about his expected role at the family assembly and requests the order of proceedings and quiet information about Shen Yan's sponsor.
 
-Jiang also asks about his expected role at the family assembly. The instructor says young masters may be asked to demonstrate progress or comment on younger disciples, but Jiang has no confirmed assignment. Jiang requests the order of proceedings and quiet information about Shen Yan's sponsor. He records his objective: prevent the confrontation himself and avoid allowing others to provoke it on his behalf.
+After the instructor leaves, Jiang reconsiders his earlier intention to prevent the confrontation. He decides to follow the remembered plot point deliberately rather than abandon it out of caution. Unlike the original Gu Tianxing, whose humiliation of Shen Yan was petty and impulsive, Jiang intends to make the public humiliation calculated, severe, and backed by something he can enforce. He will investigate Shen Yan's sponsor, the assembly's rules, and his own available strength and leverage before choosing the exact method. He understands that a threat without the means to carry it out is empty noise.
 
 **Draft-only continuity notes**
 - The instructor's specific guidance and Jiang's repeatable observations remain provisional pending approval.
 - Jiang remains at the third layer of Qi Gathering; he cannot yet command qi at will and gains no sudden combat mastery.
 - Jiang's exceptional intelligence should make him a rapid, systematic learner once focused, while unfamiliar knowledge and practical cultivation skill must still be acquired.
 - No specific role has yet been assigned to Jiang at the assembly.
-- Jiang's plan is to gather facts and avoid the confrontation, while keeping the possibility of manipulation by other participants in mind.
-- Revised scene length is approximately 732 words, targeting the established five-minute read-aloud pace.
+- Jiang now intends to preserve and exploit the confrontation rather than avoid it. The exact humiliation, its backing, and its consequences remain undecided.
+- Jiang's memory of the original story is incomplete; he cannot assume that the event will unfold exactly as remembered.
+- Revised scene length is approximately 760 words, near the established five-minute read-aloud target.
 
 ### Chapter 3 — Scene 1: Three Days to the Assembly
 **Status:** Author-approved; binding canon.  
