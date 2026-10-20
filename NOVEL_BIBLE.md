@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 1.5
+## Continuous Novel Bible — Version 1.6
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scene 1 is author-approved and binding canon. Chapter 2, Scene 2 is being prepared as the next draft for author audit.
+**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scene 1 is author-approved and binding canon. Chapter 2, Scene 2 has been drafted and committed for author audit; it is not canon until approved.
 
 ### Core premise
 
@@ -367,7 +367,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v0.9:** Removed the internal scene heading “Scene 5 — A Stranger in His Own Skin” from the novel manuscript so the story reads as continuous fiction rather than exposing planning labels. The scene prose remains in place; the scene title is retained only as a planning reference in this Bible.
 - **v1.0:** Recorded the author's approval of Scene 5 as binding canon. Drafted Scene 6 and appended it to Chapter 1 without an internal scene heading; Scene 6 was awaiting author audit.
 - **v1.1:** Recorded the author's approval of Scene 6 as binding canon and marked Chapter 1 complete. Added the author's continuity note that Gu Tianxing's body retains embodied familiarity and muscle memory, and that a young master of a great cultivation clan is expected to be talented; Jiang's practical understanding still lags behind his knowledge of the novel. Updated the progress summary, scene ledger, timeline, and opening-phase status.
-- **v1.2:** Clarified at the top-level project status that Chapter 1, Scene 6 is author-approved, binding canon, and not a draft. The v1.0 entry describes the scene's earlier historical draft state; v1.1 records its subsequent approval. This clarification removes ambiguity without changing any approved story prose.\n- **v1.3:** Added Chapter 2, Scene 1 to the manuscript as a draft for author audit, continuing directly from the raised wooden blade at the end of Chapter 1. Recorded the draft's provisional events and kept them explicitly noncanonical pending approval.\n- **v1.4:** Revised only the Chapter 2, Scene 1 training exchange dialogue and its immediate action beats to make the unnamed youth appropriately deferential and apprehensive toward Gu Tianxing, consistently addressing him as “Young Master.” Recorded this as draft-only characterization pending author audit.\n- **v1.5:** Recorded the author's acceptance of the revised Chapter 2, Scene 1 as binding canon. The youth's deference and apprehension toward Gu Tianxing are now established characterization for this scene.
+- **v1.2:** Clarified at the top-level project status that Chapter 1, Scene 6 is author-approved, binding canon, and not a draft. The v1.0 entry describes the scene's earlier historical draft state; v1.1 records its subsequent approval. This clarification removes ambiguity without changing any approved story prose.\n- **v1.3:** Added Chapter 2, Scene 1 to the manuscript as a draft for author audit, continuing directly from the raised wooden blade at the end of Chapter 1. Recorded the draft's provisional events and kept them explicitly noncanonical pending approval.\n- **v1.4:** Revised only the Chapter 2, Scene 1 training exchange dialogue and its immediate action beats to make the unnamed youth appropriately deferential and apprehensive toward Gu Tianxing, consistently addressing him as “Young Master.” Recorded this as draft-only characterization pending author audit.\n- **v1.5:** Recorded the author's acceptance of the revised Chapter 2, Scene 1 as binding canon. The youth's deference and apprehension toward Gu Tianxing are now established characterization for this scene.\n- **v1.6:** Added Chapter 2, Scene 2 to the manuscript as a draft for author audit. The scene probes the youth's remark, provides provisional observations about Gu Tianxing's prior training, and introduces a training instructor without establishing formal cultivation mechanics.
 
 ---
 
@@ -383,3 +383,22 @@ The author has final authority over all canon. For every scene:
 7. If an approved scene contains a detail that conflicts with earlier canon, flag it and ask whether the author wants a deliberate revision rather than silently choosing one version.
 
 **Current operating principle:** Build the story incrementally. Keep the approved prose intact, keep undecided details open, and let each new scene earn its place in canon.
+
+
+### Chapter 2 — Scene 2: Draft for author audit
+
+**Status:** Draft committed; awaiting author audit. Not canon until approved.
+
+**Purpose:** Follow directly from the first training exchange, turn the youth's apprehension into useful information, and bring Jiang into contact with a training instructor without granting him instant cultivation knowledge.
+
+**Draft beats:**
+- Jiang asks the youth to explain his earlier remark and makes clear that he wants an honest answer.
+- The youth reports that Gu Tianxing had a basic training foundation but was impatient with correction and did not train consistently enough for the youth to judge his ceiling. This is provisional scene information pending author approval.
+- The youth recognizes the first evasive movement as resembling something Gu Tianxing had done before, but cannot explain why Jiang's timing surprised him.
+- Jiang distinguishes the youth's limited observations from actual knowledge of cultivation and asks for someone qualified to explain.
+- The youth leads Jiang to the eastern courtyard's instructor.
+- The instructor reacts with restrained surprise when Jiang says he wants to understand his body's capabilities and what he is expected to know. The scene ends on that reaction as a hook.
+- No cultivation level, technique, ranking system, or specific cultivation mechanics are defined in this scene.
+
+**Continuity guardrails:** Jiang's foreknowledge is not practical cultivation knowledge. The body's embodied familiarity may assist him, but he cannot consciously command it reliably. The youth consistently addresses him as “Young Master” and remains deferential and apprehensive. All new details in this draft remain provisional until author approval.
+
