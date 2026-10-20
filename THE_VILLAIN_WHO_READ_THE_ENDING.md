@@ -60,8 +60,6 @@ The attendant bowed and withdrew. Jiang closed the door, then stood quietly in t
 
 * * *
 
-## Scene 5 — A Stranger in His Own Skin
-
 The room had given Jiang no answers, and the attendant had given him fewer. Standing alone again, he turned his attention to the one thing he had so far treated as an inconvenient fact: the body itself.
 
 He crossed the room at an unhurried pace, testing each movement without making a performance of it. His balance was different. His steps came more easily, and his limbs answered with a lightness he had not felt in decades. There was no stiffness in his knees, no familiar ache in his back, no lingering exhaustion from long hours spent in meetings and cars. That was useful information, but only the beginning. Feeling young was not the same as being strong. A body could be healthy and still be useless in a fight; it could look impressive and conceal weaknesses that only appeared under pressure.
