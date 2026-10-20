@@ -36,3 +36,24 @@ Jiang crossed to the door and listened. The room beyond remained quiet for a mom
 
 He kept his expression composed. There was no reason to reveal that he was a different man, and no need to imitate the original Gu Tianxing's arrogance before he understood the people around him. He studied the attendant briefly, then spoke in an even voice. "Tell me the date. Then tell me what has happened in the Gu Clan recently."
 
+* * *
+
+“The date, Young Master, is the fourteenth day of the current month.”
+
+Jiang waited for more, but the attendant seemed to consider the question answered. He stood outside the doorway with his hands held neatly before him, neither displaying alarm nor making any effort to fill the silence. Jiang studied him for a moment. The man knew who he was supposed to be attending; whether he knew anything useful was another matter.
+
+“What has happened in the Gu Clan recently?” Jiang asked.
+
+“The clan's affairs have proceeded as usual, Young Master. The elders have been occupied with internal matters, and the household has continued its ordinary business.” The attendant paused, then added, “There have been no developments that would require your immediate attention.”
+
+An answer designed to say very little. Jiang could work with that. He had spent years in boardrooms listening to people bury important information beneath layers of professional courtesy. Sometimes the omissions were more revealing than the words themselves. But he had no reason to assume this attendant was hiding anything. Perhaps the man genuinely knew nothing beyond his duties. Perhaps the original Gu Tianxing rarely bothered asking. Either way, pressing him for secrets would produce little value.
+
+“What about my own affairs? Have I been expected anywhere, or is there anything scheduled for me?”
+
+“Nothing that I have been instructed to inform you of, Young Master.”
+
+Jiang gave a small nod. He had learned three things: the date as this world recorded it, the absence of any immediate matter the attendant considered important, and the limits of what this particular source could tell him. None was enough to establish his place in the novel. He could remember its broad progression, the people who would rise, the opportunities that would appear, and the catastrophe that would eventually threaten the entire world. Yet the more he examined those memories, the more he recognized the gap between knowing the story and knowing the present. He had no reliable chronological anchor, and the date alone meant little without a calendar he understood.
+
+“That will be all for now,” Jiang said.
+
+The attendant bowed and withdrew. Jiang closed the door, then stood quietly in the middle of the room. He had wanted a countdown, something precise enough to turn survival into a schedule. Instead, he had confirmed how little he knew about his immediate circumstances. He would not correct that by guessing. First, he needed to understand the body he had inherited and the position Gu Tianxing occupied within the clan. After that, he could compare what he discovered against his memories of the novel. Jiang turned toward the room again, his expression settling into a cold, deliberate calm. He had lost control once because of a variable he could not predict. He would not make the same mistake by treating an unfamiliar world as if it were already understood.
