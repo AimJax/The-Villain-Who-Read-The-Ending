@@ -511,3 +511,55 @@ He had once built an empire by acquiring information before his competitors unde
 He would gather it all.
 
 And this time, he would not wait until the story had already decided what happened to him.
+## Chapter 3 — Three Days to the Assembly
+
+The records arrived before noon.
+
+Jiang had expected a stack of ledgers thick enough to bury a clerk beneath them. Instead, the steward's representative brought a slim register, a bundle of training notes, and a stitched booklet whose cover read *Foundations of Qi Cultivation*. The selection was either a sign that Gu Tianxing's affairs were simple or that the household had decided he did not need much.
+
+Jiang set the booklet aside and opened the register.
+
+His training record was brief. Several periods of regular instruction, followed by absences, complaints from instructors, and long gaps in practice. His cultivation had reached the third layer of Qi Gathering, then stalled. There were no injuries, no failed breakthroughs, and no alarming irregularities in his meridians. The written assessment matched what the instructor had told him: a good foundation, respectable talent, wasted through neglect.
+
+Useful. Not flattering, but useful.
+
+He turned to the manual. The first pages explained how to sense qi, settle the breath, and avoid disrupting its circulation through the meridians. He read slowly, marking terms he could not yet connect to experience. It was not enough to read instructions and assume he could perform them. Still, the words gave shape to the faint sensation he had felt in his lower abdomen. For the first time, the body's unfamiliar responses had a framework he could test.
+
+The guest list came last.
+
+Jiang scanned the names of the clan's younger generation, the elders overseeing the assembly, and several visitors from affiliated households. Most meant nothing to him. Then he reached a note about a young outer disciple expected to attend under a branch family's sponsorship.
+
+The name was **Shen Yan**.
+
+Jiang's fingers stopped.
+
+Not because the name itself mattered. Because he remembered it.
+
+The novel's opening arc had spent several pages on the Gu Clan assembly. Jiang had nearly forgotten the scene: an outsider with no standing, invited to observe proceedings, treated as an amusing inconvenience by the original Gu Tianxing. The young master had mocked the boy's background and challenged his right to speak. When Shen Yan refused to lower his head, Gu Tianxing had escalated the insult into a public confrontation.
+
+The memory sharpened in fragments. A broken token. Laughter from the younger generation. A challenge that should have ended with a humiliating lesson for a nobody.
+
+Instead, it had been the first time the protagonist made the Gu Clan notice him.
+
+Jiang leaned back, eyes fixed on the page. He could not recover every line of the scene, nor could he swear the details were exact. He did remember what followed: Shen Yan's refusal to accept the humiliation, Gu Tianxing's insistence on forcing the issue, and a confrontation that transformed a petty insult into a grudge. The original young master had not died at the assembly itself. His public cruelty had put him on the protagonist's list, and the fatal encounter came soon afterward.
+
+That was the shape of the trap.
+
+Not fate. Not a mysterious calamity. A chain of decisions, beginning with an insult that Gu Tianxing had been too arrogant to leave unanswered.
+
+Jiang looked again at the date. Three days until the assembly. If Shen Yan was the same person from the novel—and if the story's sequence still held—then the event was not merely a possible landmark. It was the first known point at which Jiang could cut the chain.
+
+He took up his pen and wrote two lines beneath his earlier notes.
+
+**Likely plot anchor: Shen Yan attends the family assembly.**  
+**Primary objective: prevent the public confrontation without revealing foreknowledge.**
+
+He paused, then underlined *likely*. He would not replace one kind of foolishness with another by treating memory as evidence beyond question. The guest list was evidence that Shen Yan was expected to attend. The rest was recollection, incomplete and potentially distorted by whatever had changed when Jiang took over this body.
+
+He closed the register and reached for the manual again. Three days was not enough to become a master, but it was enough to prepare: learn what Gu Tianxing was expected to do, understand the limits of his current cultivation, and ensure that no one could maneuver him into repeating the original young master's worst mistake.
+
+The original Gu Tianxing had believed that status meant he could force any situation to bend around him.
+
+Jiang would use that status for something more valuable.
+
+He would make sure the assembly happened—and that the story did not happen the same way.
