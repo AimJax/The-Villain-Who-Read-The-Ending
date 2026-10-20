@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 2.1
+## Continuous Novel Bible — Version 2.2
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -377,7 +377,8 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v1.8:** Recorded Chapter 2, Scene 3 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 4, in which Jiang immediately secures training records and household information, begins a three-column timeline reconstruction, and discovers a family assembly scheduled in three days that may be a plot anchor. The scene was awaiting audit at this version.
 - **v1.9:** Recorded the author's approval of Chapter 2, Scene 4 with a dedicated manuscript approval commit. The three-day Gu Clan family assembly, Jiang's memory of a possibly corresponding gathering in the novel, and his systematic information-gathering plan are now binding facts. The assembly's connection to the original protagonist and Gu Tianxing's death remains unconfirmed. Added a pacing constraint: target approximately five minutes of read-aloud time per scene, generally around 600–750 words depending on dialogue and cadence, and keep Chapter 3 focused on establishing Jiang's place in the original plot and a usable survival plan.
 - **v2.0:** Drafted Chapter 3, Scene 1 for author audit at approximately 755 words, keeping close to the five-minute read-aloud target. Jiang receives his training records and manual, recognizes Shen Yan's name on the assembly guest list, and recalls that original Gu Tianxing's public humiliation of Shen Yan triggered the chain leading to his death. These plot details and Shen Yan's identity remained provisional pending approval.
-- **v2.1:** Recorded the author's approval of Chapter 3, Scene 1 with a dedicated manuscript approval commit. Shen Yan's presence on the assembly guest list and Jiang's incomplete recollection of the confrontation that begins Gu Tianxing's fatal chain are now binding story facts, while the exact details and whether events repeat unchanged remain uncertain. Drafted Chapter 3, Scene 2 for audit, focused on a controlled cultivation session and prioritizing immediate survival over unrealistic short-term power gains.
+- **v2.1:** Recorded the author's approval of Chapter 3, Scene 1 with a dedicated manuscript approval commit. Shen Yan's presence on the assembly guest list and Jiang's incomplete recollection of the confrontation that begins Gu Tianxing's fatal chain are now binding story facts, while the exact details and whether events repeat unchanged remain uncertain.
+- **v2.2:** Drafted Chapter 3, Scene 2 for author audit. Jiang undertakes a supervised, controlled cultivation session and learns to observe qi without forcing it; no sudden breakthrough or cultivation advancement occurs. He asks about his expected role at the assembly and orders quiet fact-finding on the proceedings and Shen Yan's sponsor. His immediate survival plan now includes preventing the confrontation from being initiated by him or engineered by others.
 
 ---
 
@@ -436,6 +437,19 @@ Jiang requests his training records, an introductory cultivation manual, informa
 
 ### Pacing requirement
 Target approximately five minutes of read-aloud time per scene. As a practical guide, aim for roughly 600–750 words per scene, adjusting for dialogue and sentence cadence. Avoid letting scenes expand merely because the story can accommodate more explanation; each scene should have a clear turn, a consequential discovery or decision, and a strong ending.
+
+### Chapter 3 — Scene 2: Controlled Practice
+**Status:** Draft committed; awaiting author audit. Not canon until approved.  
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 3)
+
+Jiang summons the eastern courtyard instructor for a supervised cultivation session. He makes clear that he does not expect a breakthrough in three days and wants to know what can safely improve. The instructor guides him through posture, breath, and observing qi without forcing it. Jiang learns a modest but repeatable practice principle, not a new power or advancement. He then asks what role he may have at the family assembly and learns young masters may be asked to demonstrate progress or comment on younger disciples, though no assignment has been confirmed. Jiang asks for the order of proceedings and quiet information about Shen Yan's sponsor. He records a more precise objective: prevent the confrontation himself and avoid allowing others to provoke it on his behalf.
+
+**Draft-only continuity notes**
+- The instructor's specific advice about qi observation, the assembly's possible proceedings, and Jiang's new information requests remain provisional pending approval.
+- Jiang does not advance beyond the third layer of Qi Gathering and gains no sudden combat mastery.
+- No specific role has yet been assigned to Jiang at the assembly.
+- Jiang's plan is to gather facts and avoid the confrontation, while keeping the possibility of manipulation by other participants in mind.
+- Draft length is approximately 787 words including the scene break; continue targeting roughly five minutes of read-aloud time.
 
 ### Chapter 3 — Scene 1: Three Days to the Assembly
 **Status:** Author-approved; binding canon.  
