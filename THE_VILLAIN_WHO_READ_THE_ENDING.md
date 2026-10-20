@@ -203,9 +203,7 @@ The youth hesitated. “You moved before I expected you to, Young Master. Your s
 
 “Good. Don't turn an observation into an explanation.”
 
-The youth looked startled by the answer.
-
-Jiang repeated the movement without the weapon. The sensation would not return; his body offered only the vague familiarity of a language heard but never learned.
+The youth looked startled by the answer. Jiang tried the movement without the weapon, but the sensation would not return.
 
 The youth lowered the wooden blade. Around them, the courtyard's rhythm slowly resumed, but several trainees still watched. Their attention suggested that Gu Tianxing's behavior had violated some expectation. Jiang could not yet tell whether they were surprised by his skill, his questions, or the fact that he had not erupted after being struck.
 
@@ -309,7 +307,7 @@ Jiang had learned something already. People around Gu Tianxing expected him to b
 
 “No. Meridians are the channels through which qi circulates. They connect through internal pathways and converge around the dantian, where refined qi is gathered and stored. That is the simple explanation. The details take years.”
 
-Jiang set the terms in order: energy, channels, reservoir. The novel had used them as labels attached to dramatic breakthroughs. Here, they described a practical system with failure states and limits. He would need to understand those limits before he could use the system as leverage.
+Jiang ordered the terms: energy, channels, reservoir. In the novel, they had been labels for dramatic breakthroughs. Here, they described a system with practical limits he would need to understand.
 
 “And the ranks?”
 
@@ -337,7 +335,7 @@ He guided Jiang through a simple breathing exercise and told him to relax his at
 
 “Your training has been inconsistent. You have not advanced recently, as far as I know. Talent does not refine qi on its own.”
 
-Jiang understood the shape of the problem. The body was not an empty vessel. It had a foundation, some talent, and years of instruction behind it. But the former owner had treated those advantages as guarantees rather than resources.
+The body was not an empty vessel. It had a foundation, talent, and years of instruction behind it. The former owner had treated those advantages as guarantees rather than resources.
 
 “Show me the defensive step from the exchange,” Jiang said. “Slowly. Explain the weight shift and the breath.”
 
@@ -345,7 +343,7 @@ The instructor demonstrated. Jiang copied him and got it wrong: knees locked, sh
 
 “Again,” the instructor said. “Do not imitate the shape alone. Feel where your weight rests.”
 
-Jiang tried again. He remembered the blade approaching and the body moving without permission. His error had been to treat the response as a sequence he could reconstruct by commanding each joint. He settled his posture, followed the instructor's breathing, and stopped trying to micromanage the movement.
+Jiang remembered the blade approaching and his body moving without permission. He had tried to reconstruct the response by commanding each joint. This time, he settled his posture, followed the instructor's breathing, and stopped micromanaging the movement.
 
 His left foot shifted. His weight followed. His torso turned just enough to clear an imaginary strike, and his balance held.
 
@@ -361,9 +359,7 @@ It was the same evasion, though less clean than the first.
 
 The instructor gave him a long look. “Most students want to feel more qi. You want to know why a movement succeeds.”
 
-“I want to know what I can reproduce, what I cannot, and what causes the difference.”
-
-“That will serve you better than impatience.”
+“I want to know what I can reproduce and what I cannot.”
 
 Jiang repeated the step. On the next attempt, his heel turned too far and his balance wavered. The third was better. He did not confuse improvement with mastery; he had found a method for practicing, not proof that he could fight.
 
