@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 0.3
+## Continuous Novel Bible — Version 0.4
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault; Perchance generates prose.
 >
@@ -11,8 +11,8 @@
 
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
-**Workflow:** Vault → one-scene outline → Perchance prose → review → author approval → save approved scene to GitHub → update this Bible  
-**Current progress:** Chapter 1, Scenes 1 and 2 are author-approved and stored in this repository.
+**Workflow:** Vault → one-scene outline → Perchance prose → review → author approval → merge approved prose into the chapter file → update this Bible  
+**Current progress:** Chapter 1 contains two author-approved scenes and is stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`.
 
 ### Core premise
 
@@ -166,13 +166,13 @@ Do not introduce these as canon without author approval.
 
 ### Chapter 1 — Scene 1: The Man Who Owned Everything
 **Status:** Author-approved; binding canon.  
-**File:** `CHAPTER_1_SCENE_1.md`
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 1)
 
 Jiang is shown at the top of his global technology empire after a hostile takeover. He rejects a request from the defeated rival's founder, reflects on his rise from poverty and his lack of regret about sacrificing a traditional personal life, then reads and criticizes a clichéd cultivation novel in his town car. A freight truck whose brakes have failed crashes into the passenger side of the car. Jiang dies without a final speech or a chance to regain control.
 
 ### Chapter 1 — Scene 2: A Life Borrowed from a Dead Man
 **Status:** Author-approved; binding canon.  
-**File:** `CHAPTER_1_SCENE_2.md`
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 1)
 
 Jiang awakens in an unfamiliar, opulent room. He remembers the crash and the cultivation novel, observes his unfamiliar body and surroundings, and receives foreign information that identifies him as Gu Tianxing, a young master of the Gu Clan. He recognizes Gu Tianxing as a disposable villain intended to serve as a punching bag and foil for the original protagonist. He recalls the plot, hidden treasures, and the eventual Azure Dragon calamity. He decides to determine his position in the timeline and how long remains before the original Gu Tianxing's scheduled death.
 
@@ -275,8 +275,8 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 
 | Item | Status |
 |---|---|
-| Chapter 1, Scene 1 | Approved; saved as `CHAPTER_1_SCENE_1.md` |
-| Chapter 1, Scene 2 | Approved; saved as `CHAPTER_1_SCENE_2.md` |
+| Chapter 1, Scene 1 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
+| Chapter 1, Scene 2 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Jiang's first-life age | Scene 2 describes him as fifty; retain unless revised |
 | Reincarnated identity | Jiang Tingyuan occupies Gu Tianxing's body and retains his own identity and memories |
 | Awakening location | Opulent room; exact location and ownership undecided |
@@ -290,6 +290,7 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
 - **v0.3:** Cleaned the Bible to reflect the restarted version of Chapter 1. Replaced the discarded opening scene with the newly approved “The Man Who Owned Everything”; added the approved “A Life Borrowed from a Dead Man”; removed the discarded Spirit-Devouring Pearl, Elder Wei, and Great Hall scenario from canon. Recorded new approved-scene details while keeping unresolved mechanics and timeline specifics open.
+- **v0.4:** Changed the manuscript structure so the novel is maintained in `THE_VILLAIN_WHO_READ_THE_ENDING.md`, with all approved scenes for a chapter combined in that chapter rather than stored in separate scene files. Chapter 1 now contains Scenes 1 and 2, separated by a scene break. The Bible remains a separate planning and continuity document.
 
 ---
 
@@ -300,7 +301,7 @@ The author has final authority over all canon. For every scene:
 2. Generate prose in Perchance.
 3. Review for hook, pacing, characterization, continuity, and invented mechanics.
 4. Make no silent edits to approved prose.
-5. Once the author approves the scene, save its exact text as a separate chapter-scene file in GitHub.
+5. Once the author approves a scene, append its exact text to the correct chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`, using a scene break where appropriate. Do not create a separate file for each scene.
 6. Update this Bible and its continuity ledger/change log in the same workflow.
 7. If an approved scene contains a detail that conflicts with earlier canon, flag it and ask whether the author wants a deliberate revision rather than silently choosing one version.
 
