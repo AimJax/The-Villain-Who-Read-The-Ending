@@ -57,3 +57,31 @@ Jiang gave a small nod. He had learned three things: the date as this world reco
 “That will be all for now,” Jiang said.
 
 The attendant bowed and withdrew. Jiang closed the door, then stood quietly in the middle of the room. He had wanted a countdown, something precise enough to turn survival into a schedule. Instead, he had confirmed how little he knew about his immediate circumstances. He would not correct that by guessing. First, he needed to understand the body he had inherited and the position Gu Tianxing occupied within the clan. After that, he could compare what he discovered against his memories of the novel. Jiang turned toward the room again, his expression settling into a cold, deliberate calm. He had lost control once because of a variable he could not predict. He would not make the same mistake by treating an unfamiliar world as if it were already understood.
+
+* * *
+
+## Scene 5 — A Stranger in His Own Skin
+
+The room had given Jiang no answers, and the attendant had given him fewer. Standing alone again, he turned his attention to the one thing he had so far treated as an inconvenient fact: the body itself.
+
+He crossed the room at an unhurried pace, testing each movement without making a performance of it. His balance was different. His steps came more easily, and his limbs answered with a lightness he had not felt in decades. There was no stiffness in his knees, no familiar ache in his back, no lingering exhaustion from long hours spent in meetings and cars. That was useful information, but only the beginning. Feeling young was not the same as being strong. A body could be healthy and still be useless in a fight; it could look impressive and conceal weaknesses that only appeared under pressure.
+
+A tall mirror stood among the furnishings. Jiang stopped before it.
+
+The young man reflected there was unmistakably not Jiang Tingyuan. The face was unfamiliar in the way a stranger's face was unfamiliar, yet the knowledge attached to it was not. Gu Tianxing. Young Master of the Gu Clan. A name with status, a body with unknown capabilities, and a future that—in the novel Jiang had finished reading—ended as an early footnote in someone else's rise.
+
+He studied the reflection without flinching. Youth had returned to him, but not the life he had built. The empire, the offices, the networks of obligation and fear—all of it belonged to a world he could no longer reach. He felt no sudden grief for those losses. He had never mistaken ownership for permanence. What irritated him was the transfer of control: he had been forced into a new position without choosing the terms, and the information available to him was nowhere near sufficient to manage it.
+
+Jiang raised one hand, turned it over, and flexed his fingers. He checked his wrists, shoulders, and range of movement, then took a few careful steps and shifted his weight from one foot to the other. Nothing hurt. Nothing in these simple tests revealed an obvious limitation. They also proved almost nothing about cultivation. The world outside this room might measure strength by principles he had never encountered, and a young body could not be assumed to possess any particular talent merely because its owner carried an important title.
+
+That distinction mattered. In business, a title could open doors, but it could not make a failing company profitable. Reputation was an asset only so long as reality supported it. Here, “Young Master” might grant him privileges, enemies, obligations, or all three. He knew the label; he did not yet know its terms.
+
+He looked away from the mirror and surveyed the room once more, this time not as a bewildered man searching for proof that his situation was real, but as an operator inventorying what lay within reach. The furnishings spoke of wealth. The attendant's manner had suggested familiarity with the role he was expected to perform, not necessarily with the man now inhabiting it. The answers he had received established little beyond the fact that the household was continuing without any urgent matter being brought to his attention.
+
+He could demand a parade of explanations. He could pretend to remember every custom and every face. Either course would create risks before he understood what those risks were. A person who knew nothing could ask questions; a person who pretended to know everything would eventually be tested.
+
+Jiang returned to the mirror for one last look. The original Gu Tianxing had been written as an arrogant fool, a convenient obstacle for a protagonist who needed someone to defeat. Jiang had no intention of preserving that role. But he would not escape it merely by deciding he was smarter than the man who had occupied this body before him. He needed evidence: what this body could do, what the clan expected of him, and what people believed they knew about Gu Tianxing.
+
+He had spent his first moments trying to find a date that would tell him how long he had left. That had been the wrong first question. A deadline was useful only after he understood the situation it governed.
+
+Jiang turned from the mirror and settled on a more immediate objective. Before he made any move against the future he remembered, he would establish the facts of his present life—starting with the capabilities of the body he now possessed and the expectations attached to his name. No grand declaration, no reckless display, and no borrowed confidence. First, he would learn the rules of the board. Then he would decide how to break them.
