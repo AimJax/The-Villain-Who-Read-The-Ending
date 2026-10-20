@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 0.4
+## Continuous Novel Bible — Version 0.5
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault; Perchance generates prose.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault → one-scene outline → Perchance prose → review → author approval → merge approved prose into the chapter file → update this Bible  
-**Current progress:** Chapter 1 contains two author-approved scenes and is stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`.
+**Current progress:** Chapter 1 contains three author-approved scenes and is stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`.
 
 ### Core premise
 
@@ -185,6 +185,19 @@ Jiang awakens in an unfamiliar, opulent room. He remembers the crash and the cul
 
 ---
 
+### Chapter 1 — Scene 3: Establishing the Board
+**Status:** Author-approved at the author's request; binding canon.  
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 1)
+
+Jiang examines his young body without assuming he knows its cultivation level, searches the room for records that could anchor him in the timeline, and finds no reliable answer. He recognizes that his memories of the novel provide broad events rather than a precise countdown to Gu Tianxing's death. He opens the door, addresses someone approaching, and asks for the date and recent developments within the Gu Clan.
+
+### Canonical implications of Scene 3
+- Jiang's body feels young and uninjured, but he does not infer a cultivation level or capability from this.
+- He searches the room for useful records but finds nothing that establishes the timeline with confidence.
+- Jiang calls for an unnamed person nearby and asks for the date and recent Gu Clan developments. The person's identity and response remain to be established in the next scene.
+- No exact current date, death countdown, or new cultivation mechanic has been established.
+
+---
 ## 10. Timeline
 
 ### First life — Jiang Tingyuan
@@ -204,6 +217,8 @@ Jiang awakens in an unfamiliar, opulent room. He remembers the crash and the cul
 4. He recognizes Gu Tianxing's role as a disposable villain and punching bag for the original protagonist.
 5. He recalls the plot, hidden treasures, and eventual Azure Dragon calamity.
 6. He decides to establish his position in the timeline and determine how much time remains before the original Gu Tianxing's death.
+7. He searches the room for dated records but finds no reliable chronological anchor.
+8. He calls for someone nearby and asks for the date and recent developments in the Gu Clan.
 
 ### Original timeline vs. altered timeline
 For major events, track:
@@ -218,7 +233,7 @@ For major events, track:
 ## 11. Plot Direction — Current State
 
 ### Opening phase: Recognition and survival
-Jiang has recognized his reincarnation and the danger inherent in Gu Tianxing's narrative role. His next task is to establish his exact circumstances and timeline before making consequential moves. The immediate death sequence, antagonist, first opportunity, and method of avoiding the original fate remain undecided.
+Jiang has recognized his reincarnation and the danger inherent in Gu Tianxing's narrative role. He has searched his room for dated records without establishing the timeline, then called for someone nearby to tell him the date and recent Gu Clan developments. The immediate death sequence, antagonist, first opportunity, and method of avoiding the original fate remain undecided.
 
 ### Long-term direction
 Jiang's story unfolds alongside the original protagonist's rise and the eventual Azure Dragon calamity. Jiang intends to survive and shape his own destiny rather than remain a disposable character in another person's story. His ultimate ambition, relationship with the original protagonist, and final outcome remain undecided.
@@ -277,6 +292,7 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 |---|---|
 | Chapter 1, Scene 1 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Chapter 1, Scene 2 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
+| Chapter 1, Scene 3 | Approved at author's request; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Jiang's first-life age | Scene 2 describes him as fifty; retain unless revised |
 | Reincarnated identity | Jiang Tingyuan occupies Gu Tianxing's body and retains his own identity and memories |
 | Awakening location | Opulent room; exact location and ownership undecided |
@@ -285,12 +301,13 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 | Cultivation system | Undecided |
 | Hidden treasures | Jiang recalls them in general; identities and details undecided |
 | Azure Dragons | Eventual calamity defeated by the original protagonist; detailed nature undecided |
-| Jiang's first intervention | Not yet written |
+| Jiang's first information-gathering move | Scene 3: searches the room and asks an unnamed person for the date and recent Gu Clan developments |
 
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
 - **v0.3:** Cleaned the Bible to reflect the restarted version of Chapter 1. Replaced the discarded opening scene with the newly approved “The Man Who Owned Everything”; added the approved “A Life Borrowed from a Dead Man”; removed the discarded Spirit-Devouring Pearl, Elder Wei, and Great Hall scenario from canon. Recorded new approved-scene details while keeping unresolved mechanics and timeline specifics open.
 - **v0.4:** Changed the manuscript structure so the novel is maintained in `THE_VILLAIN_WHO_READ_THE_ENDING.md`, with all approved scenes for a chapter combined in that chapter rather than stored in separate scene files. Chapter 1 now contains Scenes 1 and 2, separated by a scene break. The Bible remains a separate planning and continuity document.
+- **v0.5:** Added revised Chapter 1, Scene 3, “Establishing the Board,” to the chapter manuscript. Recorded Jiang's unsuccessful search for a chronological anchor and his request for the date and recent Gu Clan developments. The exact date, the identity of the person he addresses, and their response remain undecided.
 
 ---
 
