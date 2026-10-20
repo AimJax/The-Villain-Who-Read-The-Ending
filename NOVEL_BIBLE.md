@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 1.8
+## Continuous Novel Bible — Version 1.9
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scene 4 has been drafted and committed for author audit; it is not canon until approved.
+**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scenes 1 and 2 are author-approved and binding canon. Chapter 2, Scenes 1–3 are author-approved and binding canon. Chapter 2, Scenes 1–4 are author-approved and binding canon. Chapter 3 has not yet been drafted.
 
 ### Core premise
 
@@ -278,8 +278,8 @@ For major events, track:
 
 ## 11. Plot Direction — Current State
 
-### Opening phase: Recognition and survival
-Jiang has recognized his reincarnation and the danger inherent in Gu Tianxing's narrative role. He has searched his room for dated records without establishing the timeline, asked a household attendant for the date and recent Gu Clan developments, examined his new body, and gone to the eastern courtyard training grounds. Chapter 1 ends with him accepting a basic exchange intended to reveal what his body can do. The result of that exchange, the precise nature of his talent, the immediate death sequence, and the method of avoiding the original fate remain undecided.
+### Opening phase: Recognition, measurement, and survival
+Jiang has recognized his reincarnation and the danger inherent in Gu Tianxing's narrative role. He has tested his body at the eastern courtyard, learned the basics of qi cultivation, and confirmed that Gu Tianxing is at the third layer of Qi Gathering with a sound foundation and respectable talent. He has begun gathering training records, household information, and testimony while separating remembered novel events from observed facts and unknowns. A Gu Clan family assembly is scheduled in three days; Jiang suspects it may correspond to a gathering from the original novel, but that connection is not confirmed. The precise fatal incident and his time remaining are still unresolved, and must be narrowed into an actionable survival plan by the end of Chapter 3.
 
 ### Long-term direction
 Jiang's story unfolds alongside the original protagonist's rise and the eventual Azure Dragon calamity. Jiang intends to survive and shape his own destiny rather than remain a disposable character in another person's story. His ultimate ambition, relationship with the original protagonist, and final outcome remain undecided.
@@ -356,7 +356,8 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 | Jiang's body examination | Scene 5: basic movement reveals no obvious limitation, but does not establish cultivation ability or rank |
 | Jiang visits the training grounds | Scene 6: he observes clan members training and agrees to a basic exchange intended to help assess his body; exact capabilities and cultivation rank remain unknown |\n| Chapter 2, Scene 1 | Author-approved; binding canon; included in manuscript |
 | Chapter 2, Scene 2 | Author-approved; binding canon; included in manuscript |
-| Chapter 2, Scene 3 | Draft committed; awaiting author audit; cultivation foundations and first deliberate body-memory repetition are provisional |
+| Chapter 2, Scene 3 | Author-approved; binding canon; cultivation foundations and first deliberate body-memory repetition established |
+| Chapter 2, Scene 4 | Author-approved; binding canon; Jiang begins a structured timeline investigation and discovers a Gu Clan family assembly scheduled in three days |
 
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
@@ -371,7 +372,8 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v1.1:** Recorded the author's approval of Scene 6 as binding canon and marked Chapter 1 complete. Added the author's continuity note that Gu Tianxing's body retains embodied familiarity and muscle memory, and that a young master of a great cultivation clan is expected to be talented; Jiang's practical understanding still lags behind his knowledge of the novel. Updated the progress summary, scene ledger, timeline, and opening-phase status.
 - **v1.2:** Clarified at the top-level project status that Chapter 1, Scene 6 is author-approved, binding canon, and not a draft. The v1.0 entry describes the scene's earlier historical draft state; v1.1 records its subsequent approval. This clarification removes ambiguity without changing any approved story prose.\n- **v1.3:** Added Chapter 2, Scene 1 to the manuscript as a draft for author audit, continuing directly from the raised wooden blade at the end of Chapter 1. Recorded the draft's provisional events and kept them explicitly noncanonical pending approval.\n- **v1.4:** Revised only the Chapter 2, Scene 1 training exchange dialogue and its immediate action beats to make the unnamed youth appropriately deferential and apprehensive toward Gu Tianxing, consistently addressing him as “Young Master.” Recorded this as draft-only characterization pending author audit.\n- **v1.5:** Recorded the author's acceptance of the revised Chapter 2, Scene 1 as binding canon. The youth's deference and apprehension toward Gu Tianxing are now established characterization for this scene.\n- **v1.6:** Added Chapter 2, Scene 2 to the manuscript as a draft for author audit. The scene probes the youth's remark, provides provisional observations about Gu Tianxing's prior training, and introduces a training instructor without establishing formal cultivation mechanics.
 - **v1.7:** Recorded Chapter 2, Scene 2 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 3, provisionally introducing qi, meridians, the dantian, early cultivation stages, Gu Tianxing's current stage, and Jiang's first deliberate repetition of a movement through embodied memory.
-- **v1.8:** Recorded Chapter 2, Scene 3 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 4, in which Jiang immediately secures training records and household information, begins a three-column timeline reconstruction, and discovers a family assembly scheduled in three days that may be a plot anchor. The scene's new event and details remain provisional pending author audit.
+- **v1.8:** Recorded Chapter 2, Scene 3 as author-approved and binding canon with a dedicated manuscript approval commit. Drafted Chapter 2, Scene 4, in which Jiang immediately secures training records and household information, begins a three-column timeline reconstruction, and discovers a family assembly scheduled in three days that may be a plot anchor. The scene was awaiting audit at this version.
+- **v1.9:** Recorded the author's approval of Chapter 2, Scene 4 with a dedicated manuscript approval commit. The three-day Gu Clan family assembly, Jiang's memory of a possibly corresponding gathering in the novel, and his systematic information-gathering plan are now binding facts. The assembly's connection to the original protagonist and Gu Tianxing's death remains unconfirmed. Added a pacing constraint: target approximately five minutes of read-aloud time per scene, generally around 600–750 words depending on dialogue and cadence, and keep Chapter 3 focused on establishing Jiang's place in the original plot and a usable survival plan.
 
 ---
 
@@ -415,21 +417,19 @@ The instructor explains the foundations of cultivation and identifies Gu Tianxin
 - Jiang can begin to reproduce a defensive movement by settling posture and breath and allowing the body's embodied response to emerge. He is not yet consistently skilled in combat.
 - The instructor's name and wider background remain undecided.
 
-### Chapter 2 — Scene 4: Draft for author audit
-**Status:** Draft committed; awaiting author audit. Not canon until approved.
+### Chapter 2 — Scene 4: The Board Begins to Take Shape
+**Status:** Author-approved; binding canon.  
+**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 2)
 
-**Purpose:** Show Jiang acting on his opportunity immediately, using his administrative instincts to gather information and beginning to reconstruct his place in the novel's timeline.
+Jiang requests his training records, an introductory cultivation manual, information about his obligations, and candid observations from Lin Wei. He creates a three-column record separating what he remembers from the novel, what he has observed in this life, and what remains uncertain. A household clerk reveals that a Gu Clan family assembly is scheduled in three days. Jiang remembers a younger-generation gathering from the novel and suspects a connection, but refuses to treat resemblance as proof. He requests the guest list, event purpose, his expected role, and information about outside disciples or recent arrivals.
 
-**Draft beats**
-- Jiang requests training records, the introductory cultivation manual, information about his clan responsibilities, and candid feedback from Lin Wei.
-- He creates a three-column record separating remembered novel facts, current observations, and unknowns.
-- He reasserts the critical timeline constraint: original Gu Tianxing is expected to die around chapters 5–10, but Jiang does not know the current point in the plot or the precise event that triggers the death.
-- A household clerk reports a Gu Clan family assembly scheduled in three days. Jiang has a hazy memory of a younger-generation gathering in the novel and suspects it may be a plot anchor without treating that suspicion as confirmed.
-- Jiang orders the guest list, event purpose, expected role, and any references to new arrivals or outside disciples. He recognizes that three days is a usable deadline and starts collecting intelligence rather than passively waiting.
+**Canonical implications**
+- The Gu Clan family assembly is scheduled for three days after the events of Scene 4.
+- Jiang has begun a deliberate information-gathering process and keeps remembered plot details, observed facts, and uncertainties separate.
+- Jiang recalls a gathering in the original novel that may correspond to this assembly. The link is a hypothesis, not confirmed fact.
+- Original Gu Tianxing's death is still remembered only as occurring early, approximately around chapters 5–10; its precise trigger and timing remain unresolved.
+- The introductory cultivation manual and further household records have been requested, but their contents and findings are not yet established.
 
-**Draft-only continuity notes**
-- The family assembly, its three-day timing, the clerk, and Jiang's specific recollection of a gathering in the original novel are provisional until this scene is approved.
-- The assembly is only a possible timeline anchor; it is not yet established that the original protagonist will attend or that this is the exact scene leading to Gu Tianxing's death.
-- Jiang's death window remains approximate: around chapters 5–10 of the original novel. The current in-world date and exact time until the fatal event remain unknown.
-- The cultivation details in Scene 3 are now canon; the manual has been requested but its contents have not yet been established.
+### Pacing requirement
+Target approximately five minutes of read-aloud time per scene. As a practical guide, aim for roughly 600–750 words per scene, adjusting for dialogue and sentence cadence. Avoid letting scenes expand merely because the story can accommodate more explanation; each scene should have a clear turn, a consequential discovery or decision, and a strong ending.
 
