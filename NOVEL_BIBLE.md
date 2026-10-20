@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 0.8
+## Continuous Novel Bible — Version 0.9
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -330,7 +330,8 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v0.5:** Added revised Chapter 1, Scene 3, “Establishing the Board,” to the chapter manuscript. Recorded Jiang's unsuccessful search for a chronological anchor and his request for the date and recent Gu Clan developments.
 - **v0.6:** Revised Scene 3's ending to identify the person Jiang addresses as a household attendant waiting in the corridor, rather than an undefined “someone.” The attendant's name and individual identity remain undecided.
 - **v0.7:** Added approved Chapter 1, Scene 4, “The First Answers,” to the manuscript. Recorded the attendant's general answers, the absence of a reliable chronological anchor, and Jiang's decision to investigate his body and position within the Gu Clan. Kept the calendar system, cultivation level, and precise timeline undecided.
-- **v0.8:** Added Chapter 1, Scene 5, “A Stranger in His Own Skin,” to the manuscript for author audit. Jiang examines his new body and recognizes that a young, apparently healthy body does not establish cultivation ability. Updated the workflow to reflect direct ChatGPT drafting rather than Perchance; Scene 5 remains subject to the author's review.
+- **v0.8:** Drafted Chapter 1, Scene 5, “A Stranger in His Own Skin,” and updated the workflow to reflect direct ChatGPT drafting rather than Perchance.
+- **v0.9:** Removed the internal scene heading “Scene 5 — A Stranger in His Own Skin” from the novel manuscript so the story reads as continuous fiction rather than exposing planning labels. The scene prose remains in place; the scene title is retained only as a planning reference in this Bible.
 
 ---
 
