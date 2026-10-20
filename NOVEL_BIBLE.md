@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Format:** Long-form cultivation / reincarnation novel  
 **Workflow:** Vault (canon and planning) → one-scene outline → Perchance prose → review → canon update  
-**Current stage:** Foundational premise and principal character identities established; detailed worldbuilding and the opening incident remain undecided.
+**Current stage:** Foundational premise and principal character identities established; Chapter 1, Scene 1 is author-approved and binding canon. Broader worldbuilding remains open.
 
 ### Core premise
 
@@ -107,7 +107,7 @@ His initial major advantage is his memory of the novel: characters, events, oppo
 
 **Description =** The original Gu Tianxing is a stereotypical young master from a powerful cultivation clan. He is arrogant, cocky, obnoxious, and incompetent, and his narrative purpose in the original novel is to serve as an early disposable villain. He is supposed to die around chapter 5–10, allowing the original male protagonist to appear formidable by defeating or overcoming him.
 
-**Notes =** The exact circumstances of his original death, his cultivation level, his appearance, his family relationships, and the detailed events leading to his death have not been established. Do not import details from sample prose unless the author approves them.
+**Notes =** The original Gu Tianxing attempted to prove his cultivation by trying to absorb a Spirit-Devouring Pearl beyond his current level. The attempt caused a spiritual backlash that effectively lobotomized the original owner of the body. He was left slumped against a mahogany pillar in the Gu Clan Great Hall, injured and publicly humiliated, with Elder Wei overseeing the situation before the final lethal blow was dealt. These details are established by the author-approved opening scene.
 
 ---
 
@@ -128,7 +128,7 @@ His initial major advantage is his memory of the novel: characters, events, oppo
 - The original novel's title, author, exact chapter count, and detailed plot.
 - The original protagonist's name, personality, background, abilities, motivations, and relationship to Jiang.
 - Whether Jiang will treat the original protagonist as a rival, asset, target, or something else.
-- The precise early incident that leads to the original Gu Tianxing's death.
+- What happens immediately after the approved opening scene, including how Gu Tianxing responds to Elder Wei and the Spirit-Devouring Pearl.
 - Which remembered opportunities Jiang chooses to exploit and when.
 - The exact nature, origin, number, and capabilities of the Azure Dragons.
 
@@ -140,13 +140,13 @@ His initial major advantage is his memory of the novel: characters, events, oppo
 
 **Established:** The second life takes place in a cultivation world governed by a setting and power structure different from modern Earth. Powerful cultivation clans exist. The Gu Clan is one such clan and is powerful enough for Gu Tianxing to occupy the position of a young master. Cultivation and its rules are central to the world.
 
-**Undecided:** World name, continents, countries, sects, clan hierarchy, political system, geography, cosmology, cultivation realms, spiritual energy rules, techniques, artifacts, species, religions, economy, and the world's history.
+**Undecided:** World name, continents, countries, sects, wider clan hierarchy, political system, geography, cosmology, cultivation realms, spiritual energy rules, techniques, other artifacts, species, religions, economy, and the world's history. The Spirit-Devouring Pearl is established as an artifact, but its full nature and rules remain unknown.
 
 ### The Gu Clan
 
 **Established:** Gu Tianxing belongs to the Gu Clan, a powerful cultivation clan. He holds the social position of a young master.
 
-**Undecided:** Formal clan name beyond “Gu Clan,” rank among other powers, territory, leadership, internal factions, family tree, resources, enemies, allies, traditions, and the exact authority attached to Gu Tianxing's position.
+**Undecided:** Formal clan name beyond “Gu Clan,” rank among other powers, territory, leadership beyond Elder Wei's established role as the clan's disciplinarian, internal factions, family tree, resources, enemies, allies, traditions, and the exact authority attached to Gu Tianxing's position.
 
 ### The Azure Dragons
 
@@ -164,6 +164,16 @@ His initial major advantage is his memory of the novel: characters, events, oppo
 - Detailed foreknowledge of the original cultivation novel.
 - The body, name, social identity, and position of Gu Tianxing.
 - Potential access to the resources and influence associated with his clan position; the precise extent is undecided.
+
+### Newly established opening-scene facts
+
+- Gu Tianxing is in the Gu Clan Great Hall, slumped against a mahogany pillar, with torn and stained silk robes and a bruise forming on his ribs.
+- Elder Wei is the clan's disciplinarian and is overseeing Gu Tianxing's public humiliation before a final, lethal blow is dealt.
+- A circle of mocking cousins is present in the Great Hall; the room also has a high dais.
+- Gu Tianxing's attempt to absorb a Spirit-Devouring Pearl beyond his current level caused a spiritual backlash that effectively lobotomized the original body-owner.
+- The Spirit-Devouring Pearl is an iridescent violet sphere with a rhythmic, predatory pulse.
+- In the original novel, the male protagonist is a lowly servant in the kitchens, witnesses the failure, feels a flicker of pity, and later uses a hidden technique to reclaim the Pearl.
+- Jiang remembers that the Pearl responds to a void rather than strength; this is knowledge hinted at in the original novel's appendices. The exact meaning and mechanics of “a void” remain undefined.
 
 ### Constraints
 
@@ -203,7 +213,9 @@ Maintain these categories as the story progresses.
 3. He remembers the original storyline and Gu Tianxing's early intended death.
 4. He intends to survive and refuses to passively follow the original plot.
 
-**Important:** The exact opening location, immediate danger, first decision, and first altered event are not yet canonically established.
+**Established opening:** Chapter 1, Scene 1 takes place in the Gu Clan Great Hall. Gu Tianxing is injured and publicly humiliated after the failed attempt to absorb the Spirit-Devouring Pearl. Elder Wei is overseeing the situation before a final lethal blow. Jiang recognizes the scene and recalls that the Pearl responds to a void rather than strength. See `CHAPTER_1_SCENE_1.md` for the approved scene text.
+
+**Still undecided:** What happens immediately after the scene ends, Jiang's first concrete move, and the first altered event.
 
 ### Original Timeline vs. Altered Timeline
 
@@ -308,12 +320,12 @@ Update this section after each approved scene or chapter.
 
 | Item | Current status |
 |---|---|
-| Chapter 1, Scene 1 | Not finalized |
-| Opening location | Undecided |
-| Original Gu Tianxing's death scenario | Undecided |
-| Jiang's first action after awakening | Undecided |
-| First altered event | Undecided |
-| Original protagonist's identity | Undecided |
+| Chapter 1, Scene 1 | Author-approved; binding canon |
+| Opening location | Gu Clan Great Hall |
+| Original Gu Tianxing's death scenario | Failed Spirit-Devouring Pearl absorption; spiritual backlash, public humiliation, and impending lethal blow established; final outcome beyond this scene undecided |
+| Jiang's first action after awakening | Opens his eyes, assesses his injury and surroundings, recognizes Elder Wei and the Pearl; next action undecided |
+| First altered event | Undecided; the approved scene establishes the starting divergence point |
+| Original protagonist's identity | Undecided; in this scene he is a lowly servant in the kitchens |
 | Cultivation system | Undecided |
 | Gu Clan hierarchy and leadership | Undecided |
 | First supporting cast | Undecided |
@@ -321,7 +333,8 @@ Update this section after each approved scene or chapter.
 
 ### Change log
 
-- **v0.1:** Initial evolving Bible compiled from the author's established premise, character details, and workflow preferences. Unapproved details from experimental sample prose have intentionally been excluded.
+- **v0.1:** Initial evolving Bible compiled from the author's established premise, character details, and workflow preferences. Unapproved details from experimental sample prose were excluded.
+- **v0.2:** Added the author-approved Chapter 1, Scene 1 as binding canon; recorded the Gu Clan Great Hall, Elder Wei, the Spirit-Devouring Pearl, the failed absorption and spiritual backlash, the kitchen-servant identity of the original protagonist, and the immediate lethal threat. The complete approved prose is stored in `CHAPTER_1_SCENE_1.md`.
 
 ---
 
