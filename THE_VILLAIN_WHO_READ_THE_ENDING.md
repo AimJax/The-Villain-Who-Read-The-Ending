@@ -567,7 +567,7 @@ He would make sure the assembly happened—and that the story did not happen the
 
 Jiang sent for the eastern courtyard's instructor before the afternoon had passed.
 
-The man arrived with a narrow cushion and a folded sheet of paper. He looked prepared to endure another demand from the young master, though he kept that judgment off his face.
+The man arrived with a narrow cushion and folded paper, wearing the guarded expression of someone expecting another demand.
 
 “You asked for instruction, Young Master?”
 
@@ -579,7 +579,7 @@ The man arrived with a narrow cushion and a folded sheet of paper. He looked pre
 
 The instructor paused, then set the cushion on the floor. Jiang's question had changed the lesson before it began.
 
-He settled into the posture he had been shown earlier: back straight, shoulders loose, breath steady. The manual's instructions sounded straightforward. In practice, the moment he tried to direct the faint pressure below his navel, it blurred and slipped from his attention.
+He settled into the posture he had been shown: back straight, shoulders loose, breath steady. When he tried to direct the faint pressure below his navel, it blurred and slipped from his attention.
 
 “Do not chase the sensation,” the instructor said. “You must learn patience.”
 
@@ -587,9 +587,9 @@ He settled into the posture he had been shown earlier: back straight, shoulders 
 
 The instructor studied him, then answered more precisely. “Your breathing becomes uneven. Your muscles tense. You reach for the sensation, and it fades. Observe those changes before trying to correct anything.”
 
-Jiang tried again. He let the pressure appear or disappear without pursuing it, while tracking three things separately: his breathing, the tension in his shoulders, and the faint sensation in his lower abdomen. After several breaths, he deliberately tightened his shoulders. The sensation grew harder to distinguish. He relaxed them. His breathing settled, and the pressure became perceptible again—not stronger, but clearer.
+Jiang tried again, tracking his breathing, shoulder tension, and the faint pressure in his lower abdomen without pursuing it. He deliberately tightened his shoulders. The sensation grew harder to distinguish. When he relaxed, his breathing settled and the pressure became perceptible again—not stronger, but clearer.
 
-He repeated the test once, then a second time. On the third attempt, he reached for the sensation too eagerly and lost it.
+He repeated the test. On the third attempt, he reached too eagerly and lost the sensation.
 
 He stopped.
 
@@ -605,9 +605,9 @@ For the first time, the instructor looked at him without the guarded patience he
 
 The instructor gave a small nod. “Then keep the posture and breathing consistent. Change only one thing at a time. Do not attempt to force circulation. If the sensation becomes painful or unstable, stop and call for me.”
 
-Jiang committed the instructions to memory. In his former life, he had not mastered every industry by pretending to know its rules in advance. He had learned faster than the people around him because he isolated variables, tested assumptions, and discarded explanations that failed to predict results. Cultivation was unfamiliar; disciplined investigation was not.
+Jiang committed the instructions to memory. In business, he had learned unfamiliar industries by isolating variables, testing assumptions, and discarding explanations that failed to predict results. Cultivation was unfamiliar; disciplined investigation was not.
 
-They continued. Jiang could not command the qi, and the instructor did not pretend otherwise. But by the end of the session, Jiang had a repeatable posture, a clearer sense of what disrupted his attention, and a safe method for practicing observation. He had not advanced a stage. He had found the beginning of a learning process—and a way to tell whether tomorrow's practice was better than today's.
+They continued. Jiang still could not command the qi, but he left with a repeatable posture, a clearer sense of what disrupted his attention, and a safe way to practice. He had not advanced a stage; he had found a way to measure whether tomorrow's practice improved on today's.
 
 “Write down the exercises I can repeat alone,” he said. “Include the warning signs that mean I should stop.”
 
