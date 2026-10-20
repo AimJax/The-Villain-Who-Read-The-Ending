@@ -401,3 +401,113 @@ The trainees had returned to their exercises, though several still watched him. 
 The original Gu Tianxing had possessed talent, instruction, and opportunity. He had wasted at least some of them. Jiang would not make the same mistake. He did not need to become the best fighter in the courtyard today. He needed to learn what this body could do, then make it do so consistently.
 
 The work ahead finally had a sequence: understand the foundation, learn to control the body, cultivate deliberately, and test every claimed improvement against results.
+
+* * *
+
+Jiang did not leave the courtyard with a new technique. He left with something more valuable: a list of things he could test, and confirmation that his new body was not starting from nothing.
+
+“Before I go,” he said to the instructor, “I want three things. My training records, the introductory cultivation manual, and a clear account of what the Gu Clan expects from someone at my position and stage.”
+
+“I will arrange them, Young Master.”
+
+“Today.”
+
+The instructor paused. “The records may take some time to retrieve.”
+
+“Then retrieve them now. Have the manual sent to my quarters as soon as it is available. If there are restrictions on what I may read, tell me what they are and who imposed them. Do not make me discover them by accident.”
+
+“Yes, Young Master.”
+
+Jiang watched him carefully. The instructor's manner was formal, but the pause had been real. The request itself was ordinary; the urgency was not. Gu Tianxing had apparently possessed resources and access without showing much interest in using them. Jiang intended to correct that immediately.
+
+He turned to the youth who had first exchanged blows with him. The boy straightened.
+
+“Your name?”
+
+“Lin Wei, Young Master.”
+
+“Lin Wei. You observed my training before. I may ask you to demonstrate basic movements again. When I do, tell me what you actually see, not what you think I want to hear.”
+
+“Yes, Young Master.”
+
+“And if you don't know, say you don't know.”
+
+Lin Wei looked as if he had been handed a difficult test. “I will try, Young Master.”
+
+“Don't try to please me. Give me accurate information.”
+
+Jiang left the courtyard with the attendant who had guided him there. The boy's name, Lin Wei, joined the growing list of details Jiang would need to keep straight. A name was useful; a person's habits, competence, loyalties, and incentives would be more useful still. He had built an empire by distinguishing the person who delivered good news from the person who delivered true news. He would need the same distinction here.
+
+Back in his quarters, Jiang ordered the attendant to bring writing materials and a meal, then asked for a list of the people who managed his schedule, household expenses, training, and access to the clan's resources.
+
+The attendant hesitated. “Young Master, would you like me to ask the steward for the household register?”
+
+“I would like you to bring whoever maintains it. If the steward controls it, bring the steward. If someone else does, bring that person instead.”
+
+“Yes, Young Master.”
+
+“And bring any messages or invitations delivered to me recently. Do not discard anything merely because it seemed unimportant.”
+
+The attendant bowed and withdrew.
+
+Jiang sat at the desk. The room offered no computer, no searchable archive, no reliable way to pull a timeline from a database. He would have to construct one by hand from records, testimony, and memory—and treat every source as fallible.
+
+He divided a sheet into three columns: what he knew from the novel, what he had observed since waking, and what remained uncertain.
+
+Under the first, he wrote the facts that mattered most. The original Gu Tianxing was a disposable young master. His death came early, somewhere around the fifth to tenth chapter. The protagonist survived, grew stronger, and eventually became powerful enough to confront the Azure Dragons. Jiang remembered the broad sequence, but not a precise calendar. He had read the novel as entertainment, not as a forensic record. Names and dramatic turning points remained; the minor transitions between them had blurred together.
+
+Under the second column, he listed the fourteenth day of the current month, his position within the Gu Clan, his third layer of Qi Gathering, his inconsistent training history, and the instructor's assessment that his foundation was sound.
+
+The third column was longer.
+
+Which month was this? How much time remained before the protagonist entered the events that killed Gu Tianxing? Had the original young master already offended him? Were the incidents Jiang remembered tied to a clan gathering, a public contest, or some other encounter? And which details in his memory were reliable enough to act upon?
+
+He did not write down guesses as facts. A mistaken date could be corrected; a plan built around a mistaken date could get him killed.
+
+A knock interrupted him. The attendant returned with a thin bundle of messages and a household register. Behind him stood an older clerk carrying a wooden case.
+
+“Your household records, Young Master,” the clerk said, bowing. “The steward sent what could be gathered at short notice.”
+
+“Set them there. Who maintains the schedule of my obligations?”
+
+“I do, Young Master, under the steward's authority.”
+
+“Then tell me what I have been expected to do over the next ten days. Start with anything involving the clan's young members, public gatherings, training, or visitors.”
+
+The clerk opened the register. He began with routine obligations, most of which Jiang dismissed as noise: meals, household allocations, ordinary appearances that could be delegated. Then the clerk reached a notice marked with the seal of the Gu Clan's inner administration.
+
+“The young masters and young ladies of the clan are expected at the coming family assembly in three days,” he said. “Your attendance is listed as required.”
+
+Jiang's pen stopped.
+
+A family assembly.
+
+The phrase itself meant little. The timing was what mattered. Somewhere in the early chapters, the original story had paused over a gathering of the Gu Clan's younger generation—a scene he had skimmed because it seemed to exist chiefly to display the arrogance of a minor villain. He could not yet recall every detail. He did remember that Gu Tianxing had been present, and that the protagonist's rise had intersected with the Gu Clan's affairs soon afterward.
+
+“Who will attend?” Jiang asked.
+
+“The clan's younger generation, the elders responsible for their instruction, and whichever guests have been invited. I can retrieve the full list.”
+
+“Do so. I want the date, the purpose of the assembly, the guest list, and any record of what I am expected to say or do. Find out whether my attendance is ceremonial or whether I have been assigned a role.”
+
+“Yes, Young Master.”
+
+“Also find out whether anything involving the protagonist—” Jiang stopped himself. That was a thought, not a name he could give the clerk. “Whether any outside disciple, visitor, or recent arrival has been mentioned in connection with the assembly.”
+
+The clerk bowed, though a flicker of puzzlement crossed his face. “I will check, Young Master.”
+
+When the men had left, Jiang looked down at the three columns. The assembly might be the event he remembered, or it might merely resemble it. He would not let a familiar label trick him into believing he had found his place in the story.
+
+But three days was a deadline. A deadline was something he could use.
+
+He needed the records, the manual, the names of the people who would be present, and a clearer account of what the original Gu Tianxing had done before this point. He needed to know whether the protagonist had already entered the board—or whether the first move was still ahead.
+
+If this was the gathering he remembered, it could be the beginning of the chain that led to his death. If it was not, then the difference itself would tell him something.
+
+Jiang set the pen down and looked at the blank space beneath his notes.
+
+He had once built an empire by acquiring information before his competitors understood its value. In this world, the information he needed was scattered among frightened attendants, clan records, cultivation manuals, and the damaged recollection of a novel he had never expected to live inside.
+
+He would gather it all.
+
+And this time, he would not wait until the story had already decided what happened to him.
