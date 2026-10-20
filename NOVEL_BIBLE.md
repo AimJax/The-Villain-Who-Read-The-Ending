@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 1.2
+## Continuous Novel Bible — Version 1.3
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. **Chapter 1, Scene 6 has been explicitly approved by the author and is not a draft.**
+**Current progress:** Chapter 1 is complete with six author-approved scenes, stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. Scenes 1–6 are binding canon. Chapter 2, Scene 1 has been drafted and committed for author audit; it is not canon until approved.
 
 ### Core premise
 
@@ -244,7 +244,7 @@ Jiang chooses to visit the Gu Clan's training grounds as a practical first step.
 - As a young master of a great cultivation clan, Gu Tianxing's body is expected to be talented. This is part of the explanation for the original Gu Tianxing's arrogance, not proof that Jiang already understands or can consciously control the body's capabilities.
 - Future prose should reveal this through action and Jiang's reaction, not through an unexplained instant download of cultivation knowledge. The exact cultivation level, techniques, limits, and degree of talent remain undecided.
 
-## 10. Timeline
+### Chapter 2 — Scene 1: Draft for author audit\n**Status:** Draft; awaiting author audit. Not binding canon until approved.  \n**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 2)\n\nJiang begins the basic exchange with the unnamed youth. His body instinctively evades the first controlled strike with precise footwork, surprising him because he does not consciously know how he moved. When he tries to repeat the movement deliberately, he is struck; he begins learning from the youth's explanations but remains inconsistent. The exchange establishes a gap between embodied familiarity and conscious understanding. Nearby trainees watch, and the youth's reaction hints that he expected Gu Tianxing to know more than Jiang currently understands. No cultivation rank, named technique, or supernatural mechanic is established.\n\n### Draft-only continuity notes (pending author approval)\n- The youth's first attack is a controlled wooden-blade strike aimed at Jiang's shoulder.\n- Jiang's first evasive response happens instinctively; he cannot immediately reproduce it on command.\n- The youth explains basic observation of shoulders, weight shifts, timing, and balance. These are ordinary training observations, not a formal cultivation system.\n- Jiang takes a few light practice hits and does not win the exchange. The outcome is an initial measurement, not proof of mastery.\n- The youth's remark that he expected Gu Tianxing to know how to move is an in-scene reaction, not yet a definitive account of Gu Tianxing's training history.\n\n## 10. Timeline
 
 ### First life — Jiang Tingyuan
 1. Born into poverty.
@@ -354,7 +354,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 | Jiang's first answers | Scene 4: receives only general information; no reliable timeline anchor is established |
 | Jiang's next intended step | Scene 4: investigate his body and position within the Gu Clan before comparing findings against novel memories |
 | Jiang's body examination | Scene 5: basic movement reveals no obvious limitation, but does not establish cultivation ability or rank |
-| Jiang visits the training grounds | Scene 6: he observes clan members training and agrees to a basic exchange intended to help assess his body; exact capabilities and cultivation rank remain unknown |
+| Jiang visits the training grounds | Scene 6: he observes clan members training and agrees to a basic exchange intended to help assess his body; exact capabilities and cultivation rank remain unknown |\n| Chapter 2, Scene 1 | Draft awaiting author audit: an instinctive evasion reveals embodied familiarity, while repeated attempts show Jiang cannot yet consciously control it |
 
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
@@ -367,7 +367,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v0.9:** Removed the internal scene heading “Scene 5 — A Stranger in His Own Skin” from the novel manuscript so the story reads as continuous fiction rather than exposing planning labels. The scene prose remains in place; the scene title is retained only as a planning reference in this Bible.
 - **v1.0:** Recorded the author's approval of Scene 5 as binding canon. Drafted Scene 6 and appended it to Chapter 1 without an internal scene heading; Scene 6 was awaiting author audit.
 - **v1.1:** Recorded the author's approval of Scene 6 as binding canon and marked Chapter 1 complete. Added the author's continuity note that Gu Tianxing's body retains embodied familiarity and muscle memory, and that a young master of a great cultivation clan is expected to be talented; Jiang's practical understanding still lags behind his knowledge of the novel. Updated the progress summary, scene ledger, timeline, and opening-phase status.
-- **v1.2:** Clarified at the top-level project status that Chapter 1, Scene 6 is author-approved, binding canon, and not a draft. The v1.0 entry describes the scene's earlier historical draft state; v1.1 records its subsequent approval. This clarification removes ambiguity without changing any approved story prose.
+- **v1.2:** Clarified at the top-level project status that Chapter 1, Scene 6 is author-approved, binding canon, and not a draft. The v1.0 entry describes the scene's earlier historical draft state; v1.1 records its subsequent approval. This clarification removes ambiguity without changing any approved story prose.\n- **v1.3:** Added Chapter 2, Scene 1 to the manuscript as a draft for author audit, continuing directly from the raised wooden blade at the end of Chapter 1. Recorded the draft's provisional events and kept them explicitly noncanonical pending approval.
 
 ---
 
