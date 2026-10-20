@@ -1,7 +1,7 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 0.7
+## Continuous Novel Bible — Version 0.8
 
-> **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault; Perchance generates prose.
+> **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
 > **Canon rule:** Author-approved scenes are binding canon unless deliberately revised by the author. Proposed outlines and unapproved generated details are not canon automatically. When prose is approved, preserve its text exactly and update this Bible.
 
@@ -11,8 +11,8 @@
 
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
-**Workflow:** Vault → one-scene outline → Perchance prose → review → author approval → merge approved prose into the chapter file → update this Bible  
-**Current progress:** Chapter 1 contains four author-approved scenes and is stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`.
+**Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
+**Current progress:** Chapter 1 contains five author-approved scenes and is stored as one continuous chapter in `THE_VILLAIN_WHO_READ_THE_ENDING.md`. The chapter is planned for six scenes.
 
 ### Core premise
 
@@ -39,9 +39,9 @@ Rules:
 2. Approved scene prose is preserved exactly unless the author asks for revision.
 3. Do not silently invent major worldbuilding, irreversible plot events, special powers, character relationships, or mechanics.
 4. Distinguish facts Jiang remembers from the novel, facts he observes in his new life, and assumptions he makes.
-5. Perchance-generated details are not canon until the author approves the scene.
+5. Drafted details are not canon until the author approves the scene.
 6. Develop the world incrementally, as the story needs it.
-7. Each Perchance input covers one scene only, designed for approximately five paragraphs.
+7. Each drafting pass covers one scene only; scene length should serve pacing and reader engagement rather than a fixed paragraph count.
 8. Use the requested scene-outline format and make the outline easy to copy as a single block.
 9. Character profiles use this exact format:
 
@@ -270,9 +270,9 @@ Jiang's story unfolds alongside the original protagonist's rise and the eventual
 
 ---
 
-## 13. Perchance Scene Input Format
+## 13. Scene Planning and Drafting Format
 
-Each outline must cover **one scene only**, targeting approximately five paragraphs of generated prose.
+Each outline must cover **one scene only**. Draft prose should be as long as the scene needs, with no fixed paragraph limit.
 
 Use this format:
 
@@ -297,7 +297,7 @@ Use this format:
 - Unresolved questions that must not be silently answered.
 - Any prohibited inventions or premature resolutions.
 
-Do not put multiple scenes in one Perchance input. The outline should be presented in one easy-to-copy block. After generation, review the prose before updating canon.
+Do not combine multiple scenes into one drafting pass. Present outlines in one easy-to-copy block when planning is useful. Draft the prose directly, then review and revise it before canon is updated.
 
 ---
 
@@ -309,6 +309,7 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 | Chapter 1, Scene 2 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Chapter 1, Scene 3 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Chapter 1, Scene 4 | Approved; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
+| Chapter 1, Scene 5 | Drafted and committed for author audit; included in `THE_VILLAIN_WHO_READ_THE_ENDING.md` |
 | Jiang's first-life age | Scene 2 describes him as fifty; retain unless revised |
 | Reincarnated identity | Jiang Tingyuan occupies Gu Tianxing's body and retains his own identity and memories |
 | Awakening location | Opulent room; exact location and ownership undecided |
@@ -320,6 +321,7 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 | Jiang's first information-gathering move | Scene 3: searches the room and asks a household attendant for the date and recent Gu Clan developments |
 | Jiang's first answers | Scene 4: receives only general information; no reliable timeline anchor is established |
 | Jiang's next intended step | Scene 4: investigate his body and position within the Gu Clan before comparing findings against novel memories |
+| Jiang's body examination | Scene 5: basic movement reveals no obvious limitation, but does not establish cultivation ability or rank |
 
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
@@ -328,6 +330,7 @@ Do not put multiple scenes in one Perchance input. The outline should be present
 - **v0.5:** Added revised Chapter 1, Scene 3, “Establishing the Board,” to the chapter manuscript. Recorded Jiang's unsuccessful search for a chronological anchor and his request for the date and recent Gu Clan developments.
 - **v0.6:** Revised Scene 3's ending to identify the person Jiang addresses as a household attendant waiting in the corridor, rather than an undefined “someone.” The attendant's name and individual identity remain undecided.
 - **v0.7:** Added approved Chapter 1, Scene 4, “The First Answers,” to the manuscript. Recorded the attendant's general answers, the absence of a reliable chronological anchor, and Jiang's decision to investigate his body and position within the Gu Clan. Kept the calendar system, cultivation level, and precise timeline undecided.
+- **v0.8:** Added Chapter 1, Scene 5, “A Stranger in His Own Skin,” to the manuscript for author audit. Jiang examines his new body and recognizes that a young, apparently healthy body does not establish cultivation ability. Updated the workflow to reflect direct ChatGPT drafting rather than Perchance; Scene 5 remains subject to the author's review.
 
 ---
 
