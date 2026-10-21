@@ -34,7 +34,9 @@ Then even that thought was gone.
 
 
 
+
 * * *
+
 
 
 
@@ -80,7 +82,9 @@ He pushed the covers aside. The room was lavish. That did not mean he was safe.
 
 
 
+
 * * *
+
 
 
 Jiang crossed the room barefoot. The stone floor was cool beneath him. He flexed his fingers, rolled his shoulders, and tested his balance, then searched the desk for a letter or dated document. The drawers held writing tools and blank paper. The shelves offered ornaments and books he could not yet read with confidence. Nothing gave him a reliable place in the story's chronology.
@@ -126,7 +130,9 @@ Jiang wrote the date at the top of the page, then stopped. Without a known calen
 He would need a better source—and a better understanding of the body he had inherited.
 
 
+
 * * *
+
 
 
 The attendant's footsteps faded down the corridor. Jiang remained by the door for a moment, listening to the ordinary sounds of a household continuing around him: distant conversation, a tray set down somewhere, the soft scrape of a door sliding shut. Nothing in it suggested that the young master had died and been replaced.
@@ -162,7 +168,9 @@ The servant stopped and bowed. “At once, Young Master.”
 Jiang followed without asking the way twice.
 
 
+
 * * *
+
 
 The eastern courtyard opened beyond a broad stone threshold. Young men and women trained in scattered groups, their footwork raising a fine dust from the paving. Wooden weapons cracked against one another. At the far end, a pair of students repeated the same movement until an older instructor corrected the angle of a wrist.
 
@@ -334,7 +342,9 @@ As they crossed the courtyard, Jiang watched the trainees return to their drills
 
 He intended to find out why.
 
+
 * * *
+
 
 
 
@@ -406,7 +416,9 @@ Jiang had learned something already. People around Gu Tianxing expected him to b
 
 
 
+
 * * *
+
 
 
 
@@ -492,7 +504,9 @@ He would not become powerful in three days. He could stop wasting them.
 
 
 
+
 * * *
+
 
 
 
@@ -616,81 +630,77 @@ He would make sure the assembly happened—and that the story did not happen the
 
 
 
+
 * * *
 
-Jiang sent for the eastern courtyard’s instructor before the afternoon had passed. The man arrived carrying a practice blade and a narrow bundle of notes, his expression guarded.
+Jiang sent for the eastern courtyard’s instructor before the afternoon had passed. The man arrived with a practice blade and a guarded expression.
 
 “You asked for further instruction, Young Master?”
 
 “Not another lesson in sensing qi. I know the basics you showed me. I want to understand what I can safely rely on in front of an audience.”
 
-The instructor set the notes down. “At the assembly?”
+“At the assembly?”
 
-“Possibly. I don’t know whether I’ll be asked to demonstrate, challenged, or left alone. I won’t prepare for one possibility and call it certainty.”
+“I don’t know whether I’ll be asked to demonstrate, challenged, or left alone. I won’t prepare for one possibility and call it certainty.”
 
-“Three days is not enough to advance a cultivation stage through ordinary practice,” the instructor said. “Trying to force one would be reckless. You can improve your control and make your movements less wasteful.”
+“Three days is not enough to advance a cultivation stage through ordinary practice,” the instructor said. “Forcing one would be reckless. You can improve control and correct wasteful movement.”
 
 “Then test me.”
 
-The instructor’s brows rose, but he raised the practice blade and asked Jiang to repeat the defensive step from the morning. Jiang settled his feet, watched the weapon, and tried to move as his body had moved before. He turned too soon. The blade stopped against his shoulder.
+The instructor raised the practice blade and asked Jiang to repeat the defensive step from the morning. Jiang watched the weapon and turned too soon. The blade stopped against his shoulder.
 
-“Again,” Jiang said.
+“Again.”
 
 On the next attempt, he waited too long. The instructor tapped his ribs.
 
-“You are watching the weapon,” the older man said. “By then, the attack is already underway. Watch the body that commits to it.”
+“You’re watching the weapon. By then, the attack is already underway. Watch the body that commits to it.”
 
 Jiang asked him to repeat the motion at half speed. He tracked the shift of the instructor’s hips, the turn of his shoulder, and the moment the weapon followed. On the third attempt, Jiang moved late but kept his balance.
 
 “Better,” the instructor said. “Still slow.”
 
-“I’m not asking whether I look skilled. I’m asking what changed.”
+“What changed?”
 
 “You stopped trying to copy the blade. You moved when the weight shifted.”
 
-Jiang repeated the step. This time he cleared the line of attack without crossing his feet. It was a small improvement, and it vanished when the instructor changed the angle. Jiang accepted the next tap without complaint.
+Jiang tried again. He cleared the line of attack without crossing his feet, then lost the movement when the instructor changed the angle. He accepted the next tap without complaint.
 
 “Can I reproduce it under pressure?”
 
-“Not reliably.”
+“Not reliably. Your stance is improving, and your body responds well to correction. But you have no dependable combat rhythm yet. Against a trained opponent, your first instinct may save you once. You cannot build a plan around it.”
 
-“Then that is the answer. What can I reproduce?”
+It was the first assessment Jiang had received that included a limit he could use. He asked for three drills in writing: the defensive step, the breathing posture, and a basic movement to recover his balance. No advanced circulation and no attempt to force more qi through his meridians.
 
-The instructor considered him before replying. “Your stance is improving. You can sense qi when you stop forcing it, and your body responds well to correction. But you have no dependable combat rhythm yet. Against a trained opponent, your first instinct may save you once. You cannot build a plan around it.”
+“Practice them separately,” the instructor said. “Stop if you feel pain, dizziness, or an irregular pulse of qi. Repetition is not readiness.”
 
-It was the first assessment Jiang had received that included a limit he could use. He asked the instructor to write down three drills: the defensive step, the breathing posture, and a basic movement to recover his balance. No advanced circulation, no risky attempt to force more qi through the meridians.
+“I won’t mistake it for readiness.”
 
-“Practice them separately,” the instructor said. “Stop if you feel pain, dizziness, or an irregular pulse of qi. And do not mistake repetition for readiness.”
-
-“I won’t.”
-
-When the instructor began packing his notes, Jiang turned to the matter that concerned him more than a clean stance.
-
-“At the assembly, who can call for a demonstration?”
+Jiang turned to the assembly. “Who can call for a demonstration?”
 
 “The presiding elder controls the proceedings. An elder overseeing a junior can request one. A junior may ask, but has no right to demand that another person perform.”
 
 “Can a refusal be treated as an insult?”
 
-“That depends on how it is presented—and on who is listening.”
+“That depends on how it is presented—and who is listening.”
 
 “Then etiquette is part of the contest.”
 
 “It often is.”
 
-Jiang asked for the expected order of proceedings and whether his own name appeared beside any assigned demonstration. The instructor had heard of no assignment, but agreed to check with the steward. Jiang also asked him to keep the session private. The courtyard had already supplied enough witnesses to his inexperience.
+Jiang asked whether his name appeared beside any assigned demonstration. The instructor had heard of no assignment, but agreed to check with the steward. Jiang also asked him to keep the session private. The courtyard had already supplied enough witnesses to his inexperience.
 
-After the instructor left, Jiang returned to the notes he had made about Shen Yan. At first he had written that he should prevent the remembered confrontation. He drew a line through the sentence.
+After the instructor left, Jiang returned to his notes about Shen Yan. At first he had written that he should prevent the remembered confrontation. He drew a line through the sentence.
 
 Avoiding the insult might spare him a grudge. It might also throw away one of the few events he could anticipate with any confidence. He would follow the story to the confrontation, but he would not repeat the original Gu Tianxing’s mistake: provoking a person without knowing what stood behind him or what the room would permit him to do.
 
-Shen Yan would still be humiliated. Jiang would make certain he had something to support the act—cultivation he could demonstrate, rules he could invoke, or facts that left the other boy with no clean answer. If none of those could be secured, he would know the limits before he opened his mouth.
+Shen Yan would still be humiliated. Jiang would make certain he had something to support the act—cultivation he could demonstrate, rules he could invoke, or facts that left the other boy with no clean answer. If he could secure none of those, he would know the limits before he opened his mouth.
 
-He wrote a new instruction beneath the name: **Prepare for the confrontation. Do not bluff about what I can do.**
+He wrote beneath Shen Yan’s name: **Prepare for the confrontation. Do not bluff about what I can do.**
 
 Three days would not make him a master. They could make him harder to surprise.
 
 * * *
+
 
 
 
