@@ -36,7 +36,9 @@ Then even that thought was gone.
 
 
 
+
 * * *
+
 
 
 
@@ -86,7 +88,9 @@ He pushed the covers aside. The room was lavish. That did not mean he was safe.
 
 
 
+
 * * *
+
 
 
 
@@ -136,7 +140,9 @@ He would need a better source—and a better understanding of the body he had in
 
 
 
+
 * * *
+
 
 
 
@@ -176,7 +182,9 @@ Jiang followed without asking the way twice.
 
 
 
+
 * * *
+
 
 The eastern courtyard opened beyond a broad stone threshold. Young men and women trained in scattered groups, their footwork raising fine dust from the paving. Wooden weapons cracked against one another. At the far end, two students repeated the same movement while an older instructor corrected the angle of a wrist.
 
@@ -226,7 +234,79 @@ Jiang watched the small corrections. The boy was nervous, but not so nervous tha
 
 The wooden blade began to move.
 
+
 * * *
+
+## Chapter 2 — The First Measure
+
+The wooden blade came toward Jiang’s shoulder in a clean, direct line. He saw the strike begin and considered retreating, turning, or blocking. Before he chose, one foot slid diagonally. His shoulders turned; his right hand guided the blade aside without catching it. The weapon passed close enough to stir his sleeve.
+
+The youth froze. So did several trainees watching nearby.
+
+Jiang looked at his own hand. He had not planned the movement. He had barely understood the attack before his body answered it.
+
+“Again,” he said. “Same speed.”
+
+The boy reset his stance, more carefully now. “Watch my shoulders, Young Master. The weapon follows the turn.” He demonstrated the movement slowly, then struck again.
+
+Jiang watched the shoulder and tried to repeat his earlier response deliberately. He moved too late. The blade tapped his upper arm.
+
+The youth immediately lowered his weapon. “Forgive me, Young Master.”
+
+“You followed the instructions I gave you. Continue.”
+
+The answer seemed to unsettle him more than anger would have. He glanced at Jiang’s face, searching for a trap, then returned to his stance.
+
+“Show me the attack in stages,” Jiang said. “Don’t change anything unless I ask.”
+
+The youth shifted his weight, turned his shoulders, and brought the blade around. Jiang asked him to repeat it. On the third demonstration, the boy’s weight shifted earlier than Jiang expected.
+
+“That was different.”
+
+“I was preparing to strike, Young Master.”
+
+“Then preparation and commitment are separate. If I react to the first, you can still change direction.”
+
+“Yes, Young Master.”
+
+Jiang had identified a principle, not mastered a skill. He tried again, moved too early, and lost his balance. The youth halted the blade rather than exploit the mistake.
+
+“Too soon,” the boy said, then stiffened. “Forgive me. I should not correct you without permission.”
+
+“Correct an error when you see one. I asked you to show me what happens, not flatter me.”
+
+The boy’s expression changed. He had expected Gu Tianxing to be arrogant, not curious. Around them, the other trainees had stopped pretending not to watch.
+
+Jiang rolled his shoulder. The tap had barely hurt. What mattered was the difference between the two attempts. The first movement had been precise; the second, consciously commanded, had failed. Whatever had guided the first response was part of the body’s history, not a skill Jiang could yet summon at will.
+
+“Again. This time, tell me when you shift your weight.”
+
+The youth demonstrated the attack in a slower rhythm. Jiang watched his feet, then his hips, then the turn of his shoulders. He tried to coordinate his own movement with the change in balance. The first attempt was clumsy. The second kept him upright. On the third, he cleared the blade’s path but turned too far and exposed his side.
+
+“Would that count as a successful evasion?” Jiang asked.
+
+“Only if the other person stops after the first strike.”
+
+“Then it isn’t one.”
+
+The boy gave a small, involuntary smile before remembering himself. “No, Young Master.”
+
+“Good. We agree on something.”
+
+Jiang ended the exchange before curiosity turned into a contest. He had no reason to prove himself to the watching trainees, and no basis for claiming he had learned to fight. He had learned that the body could respond faster than his conscious mind, that he could not reliably reproduce the response, and that careful repetition made a small difference.
+
+“What is your name?”
+
+“Lin Wei, Young Master.”
+
+“Take me to the instructor responsible for this courtyard. I want an honest assessment of my cultivation and training. Don’t tell him what answer I expect.”
+
+Lin Wei bowed. His earlier caution remained, but the fear in it had loosened into uncertainty. “As you wish.”
+
+Jiang followed him out of the practice space. Behind them, the courtyard gradually resumed its rhythm. He had gained no new rank and no dependable combat skill. He had, however, found the first discrepancy between what Gu Tianxing’s body knew and what Jiang could consciously command. That was worth investigating.
+
+* * *
+
 
 
 
@@ -302,7 +382,9 @@ Jiang had learned something already. People around Gu Tianxing expected him to b
 
 
 
+
 * * *
+
 
 
 
@@ -392,7 +474,9 @@ He would not become powerful in three days. He could stop wasting them.
 
 
 
+
 * * *
+
 
 
 
@@ -520,7 +604,9 @@ He would make sure the assembly happened—and that the story did not happen the
 
 
 
+
 * * *
+
 
 
 Jiang sent for the eastern courtyard’s instructor before the afternoon had passed. The man arrived with a practice blade and a guarded expression.
@@ -590,7 +676,9 @@ He wrote beneath Shen Yan’s name: **Prepare for the confrontation. Do not bluf
 Three days would not make him a master. They could make him harder to surprise.
 
 
+
 * * *
+
 
 
 
