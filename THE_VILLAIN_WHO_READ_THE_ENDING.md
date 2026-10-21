@@ -566,3 +566,86 @@ Three days was enough to gather information, sharpen what he already possessed, 
 Shen Yan would receive his humiliation.
 
 This time, the man delivering it would know what he was doing.
+
+* * *
+
+The household clerk returned near the end of the afternoon with a revised schedule, three copied notices, and the cautious look of a man who had been told to answer questions without creating new ones.
+
+Jiang set aside his cultivation manual. “Start with the assembly. What is decided, and what is still customary?”
+
+“The assembly is called to review the younger generation's progress and receive the invited guests, Young Master. The presiding elder will open the proceedings. After that, several juniors may be asked to report on their training. Demonstrations are possible, but they are not listed as compulsory.”
+
+“Possible by whose decision?”
+
+“The presiding elder's, or at the request of an elder overseeing a participant.”
+
+“So the schedule does not guarantee that I will be asked to demonstrate.”
+
+“No, Young Master.”
+
+“Nor does it guarantee that I won't.”
+
+The clerk lowered his eyes. “That is correct.”
+
+Jiang read the copied notice. Its language was formal and deliberately broad. The assembly was a family occasion, but also a public arrangement of rank: elders watched, juniors performed, and invited guests were reminded of who possessed the authority to judge them. A careless scene could become a spectacle simply because the room was built to reward one.
+
+“Who selected the invited guests?”
+
+“The steward's office received the names from the branches and the elders responsible for external relations. I can tell you what the register records, but I was not involved in selecting them.”
+
+“Then tell me what it records about Shen Yan.”
+
+The clerk hesitated. Not long enough to be theatrical; just long enough to show he understood that the name had weight.
+
+“Shen Yan is listed as an outer disciple attending under a branch family's sponsorship. The entry confirms his invitation, but it does not explain the sponsor's reasons. I have requested the original submission.”
+
+“Good. Do not fill the gap with what people say about him.”
+
+“Yes, Young Master.”
+
+“What do we know about his standing at the assembly?”
+
+“Less than we know about the clan's own juniors. He has no listed speaking role. His attendance is permitted; it does not give him a formal place in the proceedings.”
+
+Jiang tapped the edge of the notice once. “That is a distinction worth keeping.”
+
+He could already see the shape of the original scene more clearly—not its dialogue, which remained blurred, but its machinery. Gu Tianxing had apparently treated Shen Yan's presence as an insult to his own rank. He had converted a guest list into a personal challenge, then escalated when the other boy refused to behave as expected. The remembered details might be wrong. The underlying mistake was plain enough: he had confused the power to make a scene with the power to control its consequences.
+
+“Find the original sponsorship request,” Jiang said. “I want the stated purpose of the invitation, who submitted it, and whether any elder has assigned Shen Yan a role. If the record says nothing, report that it says nothing.”
+
+“I will.”
+
+“And the order of proceedings?”
+
+“I have brought the latest copy.”
+
+“Who can amend it?”
+
+“The presiding elder.”
+
+“Can a junior demand a demonstration?”
+
+“Not as a right, Young Master. A junior could ask, but whether the request is entertained depends on the elder.”
+
+Jiang nodded. The room had rules, even if they were flexible. That made it less dangerous than a room with no rules—and more dangerous than one where everyone followed them. If he wanted the humiliation to land, he needed an audience and a defensible position. If he wanted the consequences to remain manageable, he needed to know which authority could stop him.
+
+He had no intention of inventing a grievance, making a threat he could not enforce, or relying on a breakthrough that three days of practice could not provide. His cultivation was still the third layer of Qi Gathering. He could improve his control, perhaps make his movements less clumsy, but pretending he had become a different fighter would invite a test he might fail.
+
+That left the assets he actually possessed: Gu Tianxing's name, the formal structure of the assembly, and whatever the records could establish about Shen Yan's invitation. Status was not strength, but it could determine who was allowed to speak, who had to answer, and whose conduct would be judged in public.
+
+“Bring me the sponsorship record when it arrives,” Jiang said. “Until then, no one is to be questioned on my behalf outside the proper channels. I want information, not a rumor that I have taken an interest in him.”
+
+The clerk bowed and withdrew with the notices.
+
+Jiang returned to the sheet divided into remembered, observed, and unknown. Under observed, he added the assembly's discretionary proceedings and Shen Yan's lack of a listed speaking role. Under unknown, he wrote the sponsor's identity, the reason for the invitation, and the presiding elder's likely response to a public challenge. He did not move any of them into the first column.
+
+Then he drew a line beneath the three entries and wrote a fourth note in the margin:
+
+**Do not confuse the opening move with control of the outcome.**
+
+He could follow the story without surrendering himself to it. The humiliation would be deliberate; the preparation would be real. Before the assembly, he would know what the records could tell him, practice what his body could actually reproduce, and decide how much risk the available leverage could support.
+
+For now, the most valuable fact was not what Shen Yan had done.
+
+It was what Jiang still did not know.
+
