@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** A whole-manuscript revision pass has been committed across Chapters 1–3 to sharpen Jiang's demonstrated competence, remove repetitive explanation, and bring scene pacing into closer alignment. This revised manuscript is **awaiting author audit** and does not silently replace previously approved canon. The previously approved versions remain the canon baseline until the author approves the revision pass; Git history preserves the earlier manuscript. Chapter 3, Scene 2 remains draft-only pending audit. Chapter 3, Scene 3 has been author-approved as binding canon with a dedicated manuscript approval commit. Scene 3 continues Jiang's preparation for a deliberate, consequential humiliation of Shen Yan by gathering assembly rules and sponsorship information, without resolving the sponsor's identity or inventing a grievance.
+**Current progress:** The author has requested a full literary-style revision of the manuscript and this Bible. The revision must preserve established continuity while reducing formulaic, over-explained prose and giving the novel a more distinctive narrative voice. The revised manuscript will be marked **awaiting author audit**; it is a deliberate revision candidate, not a silent alteration of previously approved canon. Git history preserves earlier versions. Chapter 3, Scene 2 remains draft-only as a canon-status matter; Chapter 3, Scene 3 was previously approved, but its prose may be revised under the author's explicit whole-manuscript revision request. Target each scene at approximately 600–700 words, calibrated to about five minutes in ElevenReader at the user's chosen playback speed; treat the word count as a consistency target, not permission to pad a scene or split a coherent beat unnaturally.
 
 ### Core premise
 
@@ -286,7 +286,57 @@ Jiang's story unfolds alongside the original protagonist's rise and the eventual
 
 ---
 
-## 12. Themes and Writing Principles
+## 12. Literary Style Standard
+
+**Purpose:** The prose should feel authored rather than assembled: distinctive, psychologically convincing, specific to this novel, and confident enough to leave implications unstated. Clean grammar and logical continuity are necessary but insufficient.
+
+### Narrative voice
+- Use close third-person narration anchored in Jiang's immediate perceptions, judgments, blind spots, and emotional evasions.
+- Let Jiang's corporate experience shape what he notices— incentives, hierarchy, bargaining power, exposure, and risk—without making every paragraph sound like a strategy memo.
+- Keep the narrative voice distinct from Jiang's conscious analysis. The narration may convey texture, atmosphere, physical sensation, and subtext he does not stop to formulate.
+- Do not imitate a named author. Build a voice appropriate to this novel: controlled, sharp, observant, occasionally dry, and capable of becoming visceral when the scene demands it.
+
+### Scene construction
+- Each scene should have a concrete immediate objective, resistance or uncertainty, a meaningful change, and an ending beat that creates forward pull.
+- Prefer action, dialogue, physical behavior, and consequences over summaries of what a character has learned.
+- Give supporting characters independent motives, social instincts, and limits. They are not merely information dispensers for Jiang.
+- Make dialogue carry subtext. Characters may evade, flatter, misunderstand, resent, test boundaries, or speak from incomplete knowledge.
+- Use specific sensory details that matter to the viewpoint and situation. Avoid generic ornamental inventories or repeated descriptions of silence, gazes, pauses, and expressions.
+- Vary sentence length, syntax, paragraph rhythm, and scene tempo. Avoid making every observation resolve into a polished maxim or balanced contrast.
+- Let some moments remain unresolved. Do not explain an implication that the action or dialogue has already made clear.
+
+### Jiang's characterization
+- Demonstrate intelligence through decisions, tests, leverage, adaptation, prediction, and consequences—not repeated declarations that he is intelligent or strategic.
+- Let him be wrong, impatient, vindictive, and occasionally emotionally compromised. Competence is not omniscience, and ruthlessness is not emotional emptiness.
+- His revenge should have motive and cost. When he decides to humiliate Shen Yan, show the concrete preparation and risks rather than presenting a string of abstract intentions.
+- Preserve the difference between Jiang's first-life expertise, the memories he recalls from the novel, the body's embodied habits, and knowledge he has not yet acquired.
+- Do not repeat the same inference in several neighboring paragraphs. Once the scene has demonstrated a point, revisit it only if new evidence changes its meaning.
+
+### Patterns to avoid
+- Repetitive constructions such as “not X, but Y,” “not a victory, but…,” or tidy two-part maxims used as routine paragraph endings.
+- Repeated triads and lists of abstractions (control, leverage, evidence, risk, position) when one concrete detail would do more work.
+- Overuse of “he filed it away,” “he considered,” “that was useful,” “the distinction mattered,” “he had learned,” “he intended to find out,” and similar explanatory tags.
+- Explaining a character's reaction immediately before or after describing the reaction, unless the interpretation is genuinely uncertain.
+- Rephrasing a scene's central lesson in its opening, middle, and closing paragraphs.
+- Generic atmosphere, melodramatic metaphors, and manufactured profundity inserted to make prose sound literary.
+- Dialogue where every line is a perfectly efficient question or answer and no one has a voice beyond the scene's informational needs.
+
+### Scene length and read-aloud cadence
+- Aim for **600–700 words per scene**, usually about five minutes in ElevenReader depending on voice and playback speed.
+- Count the prose of each scene, excluding chapter titles and metadata. Use scene breaks consistently and keep the manuscript free of internal scene headings.
+- Do not pad a scene to hit a number. If a coherent scene falls outside the range, revise its scope or cadence; if splitting would damage the dramatic unit, flag the exception in the audit notes.
+- At the end of a whole-manuscript pass, check every scene's boundaries and word count, then check chapter transitions and continuity across the full text.
+
+### Revision protocol
+1. Preserve established events, characterization, names, cultivation facts, chronology, and unresolved questions unless the author explicitly revises them.
+2. Revise at the level of scene structure, paragraph logic, sentence rhythm, dialogue, and point of view—not merely by swapping synonyms.
+3. Keep earlier approved text recoverable in Git history. A whole-manuscript revision requested by the author is permitted, but the new version remains pending audit until the author accepts it.
+4. Update the continuity ledger and change log when a revision changes wording, scene scope, status, or a previously established fact.
+5. Before presenting a revision as complete, report scene-by-scene word counts and flag any scene that falls outside the target.
+
+---
+
+## 13. Themes and Writing Principles
 
 - Jiang values competence, control, leverage, strategic advantage, and results.
 - His ruthlessness should not be reduced to empty cruelty or theatrical villainy.
@@ -301,7 +351,7 @@ Jiang's story unfolds alongside the original protagonist's rise and the eventual
 
 ---
 
-## 13. Scene Planning and Drafting Format
+## 14. Scene Planning and Drafting Format
 
 Each outline must cover **one scene only**. Draft prose should be as long as the scene needs, with no fixed paragraph limit.
 
@@ -332,7 +382,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 
 ---
 
-## 14. Continuity Ledger and Change Log
+## 15. Continuity Ledger and Change Log
 
 | Item | Status |
 |---|---|
@@ -390,7 +440,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 
 ---
 
-## 15. Author Approval Policy
+## 16. Author Approval Policy
 
 The author has final authority over all canon. For every scene:
 1. Prepare one-scene outline using the approved format.
@@ -476,3 +526,6 @@ Jiang receives Gu Tianxing's training records and an introductory cultivation ma
 - The fatal encounter is remembered as occurring after the assembly, not at the assembly itself.
 - Jiang's immediate objective is to prevent the public confrontation while preparing for the possibility that the remembered sequence is accurate.
 
+
+
+- **v2.8 (in progress):** The author requested a full literary-style revision of the complete manuscript and Bible. Added a prose standard covering narrative voice, scene construction, dialogue, characterization, repetitive AI-like patterns, and a 600–700-word / approximately five-minute ElevenReader target. The manuscript revision is still pending; this Bible update defines the standard and does not claim the prose pass is complete.
