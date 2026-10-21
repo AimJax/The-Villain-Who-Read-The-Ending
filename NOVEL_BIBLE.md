@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 2.6
+## Continuous Novel Bible — Version 2.7
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -12,7 +12,7 @@
 **Title:** The Villain Who Read the Ending  
 **Genre:** Cultivation, reincarnation, villain protagonist, strategic progression  
 **Workflow:** Vault plans and writes one scene → author audits prose → author approves or requests revisions → commit approved prose to the chapter manuscript → update this Bible  
-**Current progress:** A whole-manuscript revision pass has been committed across Chapters 1–3 to sharpen Jiang's demonstrated competence, remove repetitive explanation, and bring scene pacing into closer alignment. This revised manuscript is **awaiting author audit** and does not silently replace previously approved canon. The previously approved versions remain the canon baseline until the author approves the revision pass; Git history preserves the earlier manuscript. Chapter 3, Scenes 2–3 remain draft-only pending audit. Scene 3 continues Jiang's preparation for a deliberate, consequential humiliation of Shen Yan by gathering assembly rules and sponsorship information, without resolving the sponsor's identity or inventing a grievance.
+**Current progress:** A whole-manuscript revision pass has been committed across Chapters 1–3 to sharpen Jiang's demonstrated competence, remove repetitive explanation, and bring scene pacing into closer alignment. This revised manuscript is **awaiting author audit** and does not silently replace previously approved canon. The previously approved versions remain the canon baseline until the author approves the revision pass; Git history preserves the earlier manuscript. Chapter 3, Scene 2 remains draft-only pending audit. Chapter 3, Scene 3 has been author-approved as binding canon with a dedicated manuscript approval commit. Scene 3 continues Jiang's preparation for a deliberate, consequential humiliation of Shen Yan by gathering assembly rules and sponsorship information, without resolving the sponsor's identity or inventing a grievance.
 
 ### Core premise
 
@@ -360,7 +360,7 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 | Chapter 2, Scene 4 | Author-approved; binding canon; Jiang begins a structured timeline investigation and discovers a Gu Clan family assembly scheduled in three days |
 | Chapter 3, Scene 1 | Author-approved; binding canon; Jiang recognizes Shen Yan's name and recalls the assembly's role in the original Gu Tianxing's downfall |
 | Chapter 3, Scene 2 | Draft committed; awaiting author audit; Jiang begins a controlled cultivation practice and sets priorities for the three days before the assembly |
-| Chapter 3, Scene 3 | Draft committed; awaiting author audit; Jiang investigates assembly procedure and Shen Yan's sponsorship, distinguishes known facts from gaps, and prepares to use status and procedural leverage rather than bluffing about cultivation |
+| Chapter 3, Scene 3 | Author-approved; binding canon; dedicated manuscript approval commit recorded; Jiang investigates assembly procedure and Shen Yan's sponsorship, distinguishes known facts from gaps, and prepares to use status and procedural leverage rather than bluffing about cultivation |
 
 ### Change log
 - **v0.1:** Initial Bible existed but contained details from an earlier, discarded opening draft.
