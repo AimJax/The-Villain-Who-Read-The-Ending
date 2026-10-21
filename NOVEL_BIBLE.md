@@ -1,5 +1,5 @@
 # The Villain Who Read the Ending
-## Continuous Novel Bible — Version 2.7
+## Continuous Novel Bible — Version 2.8
 
 > **Purpose:** The evolving master reference for canon, continuity, character profiles, and scene planning. ChatGPT acts as the Vault and writes the prose; the author audits drafts and has final authority over canon.
 >
@@ -213,23 +213,18 @@ The household attendant answers Jiang's questions about the date, recent Gu Clan
 - Jiang's next intended step is to understand the body he has inherited and Gu Tianxing's position within the clan. His cultivation level and capabilities remain undecided.
 
 ---
-### Chapter 1 — Scene 5: A Stranger in His Own Skin
-**Status:** Author-approved; binding canon.  
+### Chapter 1 — Scene 5: The Courtyard Threshold
+**Status:** Revised draft committed; awaiting author audit. Not canon until approved.  
 **Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 1)
 
-Jiang examines Gu Tianxing's reflection and tests the body's basic movement. He recognizes that youth and a prestigious title do not establish strength, cultivation ability, or social standing. He decides to learn the body's capabilities and the expectations attached to Gu Tianxing's name before acting against the future he remembers.
+Jiang arrives at the eastern training courtyard and observes how the trainees react to Gu Tianxing. An unnamed youth offers a basic exchange. Jiang asks what the exercise involves, sets conditions for a controlled test, and watches the boy settle into his stance. The scene ends as the first strike begins; the actual exchange continues in Chapter 2.
 
-### Canonical implications of Scene 5
-- Jiang's new body feels young, light, and uninjured during basic movement tests.
-- These tests reveal no obvious physical limitation but establish nothing about cultivation rank, talent, or combat ability.
-- Jiang does not grieve for the loss of his former empire; he is primarily irritated by having lost control and information.
-- Jiang decides to establish the facts of his present life before attempting to change his remembered future.
-
-### Chapter 1 — Scene 6: [Planning title undecided]
-**Status:** Author-approved; binding canon.  
-**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 1)
-
-Jiang chooses to visit the Gu Clan's training grounds as a practical first step. He observes how clan members react to Gu Tianxing, sees young members training, and agrees to a basic exchange with an unnamed youth who offers to help him assess his capabilities. The scene ends as Jiang steps into the training space, with his actual abilities and cultivation level still unknown.
+**Draft-only continuity notes**
+- The eastern courtyard contains young clan members training with wooden weapons and practicing in pairs.
+- Several people react to Gu Tianxing's arrival with visible attention. Jiang does not yet know whether this reflects respect, apprehension, dislike, or a mixture.
+- The unnamed youth is cautious but trained, and may be curious about how Gu Tianxing will behave.
+- Jiang asks for a slow, explained exchange rather than pretending to understand the exercise.
+- The scene ends at the start of the first strike. The first instinctive evasion belongs to Chapter 2, Scene 1, and must not be repeated in this scene.
 
 ### Canonical implications of Scene 6
 - Jiang chooses practical investigation over further speculation and goes to the Gu Clan's eastern courtyard training grounds.
@@ -244,7 +239,7 @@ Jiang chooses to visit the Gu Clan's training grounds as a practical first step.
 - As a young master of a great cultivation clan, Gu Tianxing's body is expected to be talented. This is part of the explanation for the original Gu Tianxing's arrogance, not proof that Jiang already understands or can consciously control the body's capabilities.
 - Future prose should reveal this through action and Jiang's reaction, not through an unexplained instant download of cultivation knowledge. The exact cultivation level, techniques, limits, and degree of talent remain undecided.
 
-### Chapter 2 — Scene 1: Author-approved, binding canon\n**Status:** Draft; awaiting author audit. Not binding canon until approved.  \n**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 2)\n\nJiang begins the basic exchange with the unnamed youth. His body instinctively evades the first controlled strike with precise footwork, surprising him because he does not consciously know how he moved. When he tries to repeat the movement deliberately, he is struck; he begins learning from the youth's explanations but remains inconsistent. The exchange establishes a gap between embodied familiarity and conscious understanding. Nearby trainees watch, and the youth's reaction hints that he expected Gu Tianxing to know more than Jiang currently understands. No cultivation rank, named technique, or supernatural mechanic is established.\n\n### Draft-only continuity notes (pending author approval)\n- The youth's first attack is a controlled wooden-blade strike aimed at Jiang's shoulder.\n- Jiang's first evasive response happens instinctively; he cannot immediately reproduce it on command.\n- The youth explains basic observation of shoulders, weight shifts, timing, and balance. These are ordinary training observations, not a formal cultivation system.\n- Jiang takes a few light practice hits and does not win the exchange. The outcome is an initial measurement, not proof of mastery.\n- The youth addresses Gu Tianxing as “Young Master” and behaves cautiously and deferentially, visibly worried about offending him. This reflects Gu Tianxing's established status and rough, arrogant reputation; it remains draft characterization pending author approval.\n- The youth's remark that he expected Gu Tianxing to know how to move is an in-scene reaction, not yet a definitive account of Gu Tianxing's training history.\n\n## 10. Timeline
+### Chapter 2 — Scene 1: The First Measure\n**Status:** Revised draft committed; awaiting author audit. Not binding canon until approved.  \n**Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 2)\n\nJiang begins the basic exchange with the unnamed youth. His body instinctively evades the first controlled strike with precise footwork, surprising him because he does not consciously know how he moved. When he tries to repeat the movement deliberately, he is struck; he begins learning from the youth's explanations but remains inconsistent. The exchange establishes a gap between embodied familiarity and conscious understanding. Nearby trainees watch, and the youth's reaction hints that he expected Gu Tianxing to know more than Jiang currently understands. No cultivation rank, named technique, or supernatural mechanic is established.\n\n### Draft-only continuity notes (pending author approval)\n- The youth's first attack is a controlled wooden-blade strike aimed at Jiang's shoulder.\n- Jiang's first evasive response happens instinctively; he cannot immediately reproduce it on command.\n- The youth explains basic observation of shoulders, weight shifts, timing, and balance. These are ordinary training observations, not a formal cultivation system.\n- Jiang takes a few light practice hits and does not win the exchange. The outcome is an initial measurement, not proof of mastery.\n- The youth addresses Gu Tianxing as “Young Master” and behaves cautiously and deferentially, visibly worried about offending him. This reflects Gu Tianxing's established status and rough, arrogant reputation; it remains draft characterization pending author approval.\n- The youth's remark that he expected Gu Tianxing to know how to move is an in-scene reaction, not yet a definitive account of Gu Tianxing's training history.\n\n## 10. Timeline
 
 ### First life — Jiang Tingyuan
 1. Born into poverty.
@@ -500,7 +495,7 @@ Target approximately five minutes of read-aloud time per scene. As a practical g
 **Status:** Revised draft committed; awaiting author audit. Not canon until approved.  
 **Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 3)
 
-Jiang undertakes supervised cultivation practice and demonstrates his analytical intelligence by testing the relationship between posture, tension, breathing, and his perception of qi. He gains a repeatable method for practice, but no breakthrough or advancement. He asks about his expected role at the family assembly and requests the order of proceedings and quiet information about Shen Yan's sponsor.
+Jiang asks the courtyard instructor to assess what he can safely rely on during the coming assembly. He practices the defensive step and learns that his stance is improving but his combat rhythm is not dependable under pressure. He asks who can call for a demonstration and whether he has been assigned one. Afterward, he rejects his earlier plan to avoid Shen Yan and decides to prepare for a deliberate public humiliation.
 
 After the instructor leaves, Jiang reconsiders his earlier intention to prevent the confrontation. He decides to follow the remembered plot point deliberately rather than abandon it out of caution. Unlike the original Gu Tianxing, whose humiliation of Shen Yan was petty and impulsive, Jiang intends to make the public humiliation calculated, severe, and backed by something he can enforce. He will investigate Shen Yan's sponsor, the assembly's rules, and his own available strength and leverage before choosing the exact method. He understands that a threat without the means to carry it out is empty noise.
 
@@ -509,7 +504,7 @@ After the instructor leaves, Jiang reconsiders his earlier intention to prevent 
 - Jiang remains at the third layer of Qi Gathering; he cannot yet command qi at will and gains no sudden combat mastery.
 - Jiang's exceptional intelligence should make him a rapid, systematic learner once focused, while unfamiliar knowledge and practical cultivation skill must still be acquired.
 - No specific role has yet been assigned to Jiang at the assembly.
-- Jiang now intends to preserve and exploit the confrontation rather than avoid it. The exact humiliation, its backing, and its consequences remain undecided.
+- Jiang now intends to follow the story to the confrontation and humiliate Shen Yan deliberately. He will not bluff about his ability; the exact method, backing, and consequences remain undecided.
 - Jiang's memory of the original story is incomplete; he cannot assume that the event will unfold exactly as remembered.
 - Revised scene length is approximately 760 words, near the established five-minute read-aloud target.
 
@@ -517,15 +512,15 @@ After the instructor leaves, Jiang reconsiders his earlier intention to prevent 
 **Status:** Author-approved; binding canon.  
 **Novel file:** `THE_VILLAIN_WHO_READ_THE_ENDING.md` (Chapter 3)
 
-Jiang receives Gu Tianxing's training records and an introductory cultivation manual. The records confirm a sound foundation at the third layer of Qi Gathering, with inconsistent practice and no recent advancement. The family assembly guest list includes an outer disciple named Shen Yan. Seeing the name triggers Jiang's incomplete memory of the original novel: Gu Tianxing publicly humiliates Shen Yan at the assembly, escalating a petty insult into a grudge that leads to the original young master's fatal confrontation soon afterward. Jiang identifies the assembly as a likely plot anchor and sets his immediate objective as preventing the public confrontation without exposing his foreknowledge.
+Jiang receives Gu Tianxing's training records and an introductory cultivation manual. The records confirm a sound foundation at the third layer of Qi Gathering, with inconsistent practice and no recent advancement. The family assembly guest list includes an outer disciple named Shen Yan. Seeing the name triggers Jiang's incomplete memory of the original novel: Gu Tianxing publicly humiliates Shen Yan at the assembly, escalating a petty insult into a grudge that leads to the original young master's fatal confrontation soon afterward. Jiang identifies the assembly as a likely plot anchor. His initial impulse is to prevent the public confrontation, but he later rejects simple avoidance and decides to follow the plot point deliberately, preparing to humiliate Shen Yan with strength, procedure, or evidence to support the act.
 
 **Canonical implications**
 - Shen Yan is an outer disciple expected to attend the Gu Clan family assembly in three days.
 - Jiang remembers that original Gu Tianxing publicly humiliates Shen Yan at the assembly, and that the confrontation begins a chain leading to Gu Tianxing's death soon afterward.
 - Jiang's recollection is incomplete. He remembers the broad shape of the event, not every detail, and does not assume the original sequence must repeat unchanged.
 - The fatal encounter is remembered as occurring after the assembly, not at the assembly itself.
-- Jiang's immediate objective is to prevent the public confrontation while preparing for the possibility that the remembered sequence is accurate.
+- Jiang ultimately intends to follow the remembered confrontation rather than avoid it. He will not repeat original Gu Tianxing's impulsive method; he intends to prepare enough strength or procedural leverage to support the humiliation.
 
 
 
-- **v2.8 (in progress):** The author requested a full literary-style revision of the complete manuscript and Bible. Added a prose standard covering narrative voice, scene construction, dialogue, characterization, repetitive AI-like patterns, and a 600–700-word / approximately five-minute ElevenReader target. The manuscript revision is still pending; this Bible update defines the standard and does not claim the prose pass is complete.
+- **v2.8:** Added a prose standard for narrative voice, scene construction, dialogue, characterization, repetitive AI-like patterns, and a 600–700-word / approximately five-minute ElevenReader target. A duplication audit found repeated body-inspection passages and repeated versions of the first sparring exchange; these were removed or consolidated. The repeated qi-practice session in Chapter 3 was rewritten around practical assembly preparation. The manuscript remains a revision candidate awaiting author audit; Git history preserves earlier versions.
