@@ -385,6 +385,9 @@ Do not combine multiple scenes into one drafting pass. Present outlines in one e
 - **v2.5:** Committed a whole-manuscript revision pass across Chapters 1–3 at the author's request. Chapter 1 now demonstrates Jiang's corporate competence through concrete strategic actions and trims repeated framing. Chapter 2 was rewritten for tighter scene progression, more active analytical behavior, and less repetitive exposition while preserving established cultivation facts and the body-memory limitation. Chapter 3 remains unchanged in substance, including the revised draft in which Jiang chooses to prepare for a deliberate, consequential confrontation with Shen Yan. The revised manuscript is awaiting author audit; prior approved versions remain the canon baseline until the author approves this pass.
 - **v2.6:** Drafted Chapter 3, Scene 3 for author audit. Jiang questions the household clerk about the assembly's procedure, learns that Shen Yan is listed as an outer disciple attending under a branch family's sponsorship but that the record does not yet explain the sponsor's reasons, and identifies the presiding elder's authority over proceedings. Jiang records known facts and unresolved questions separately and relies on status and procedure rather than pretending his cultivation has advanced. The sponsor's identity and motivation remain unresolved; all new scene details remain draft-only pending author audit.
 
+
+- **v2.7:** Recorded the author's approval of Chapter 3, Scene 3 as binding canon with a dedicated manuscript approval commit (`aad74b4`). The scene's assembly procedures, Shen Yan's listed status as an outer disciple attending under branch-family sponsorship, the presiding elder's procedural authority, and Jiang's distinction between documented facts and unknowns are now binding. Shen Yan's sponsor identity and motives remain unresolved. Chapter 3, Scene 2 remains draft-only pending audit.
+
 ---
 
 ## 15. Author Approval Policy
