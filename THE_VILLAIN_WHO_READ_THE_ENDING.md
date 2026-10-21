@@ -32,7 +32,9 @@ There was no final insight, no dignified last thought. Only the absurdity of a l
 
 Then even that thought was gone.
 
+
 * * *
+
 
 The first thing Jiang noticed was the smell.
 
@@ -74,45 +76,87 @@ He had been given a body, a name, and a place in a story that expected him to di
 
 He pushed the covers aside. The room was lavish. That did not mean he was safe.
 
-* * *
-
-
-Jiang swung his legs over the side of the bed and stood. The floor was cool beneath his bare feet. He took in the room once more: the canopy, the embroidered silks, the lacquerware, the sandalwood incense drifting from its floating burner. The place was lavish, but its furnishings told him little about the danger waiting beyond its walls. He checked his hands, flexed his fingers, then rolled his shoulders and tested his balance. The body felt young and uninjured. That was all he could conclude. He had no intention of mistaking a healthy body for a powerful one.
-
-He searched the room without rushing. The desk held no immediately useful record; the shelves and cabinets offered no clear answer to when he had awakened in the original story. He looked for correspondence, a dated document, anything that might anchor his memories to the present. Nothing he found could establish the timeline with confidence. He resisted the temptation to fill the gap with a guess. A wrong assumption made early could be more dangerous than admitting he knew nothing.
-
-The broad strokes of the novel remained in his mind: the original protagonist's rise, Gu Tianxing's brief role as a disposable obstacle, the opportunities Jiang remembered, and the calamity that would eventually come with the Azure Dragons. But he could not place himself precisely within that sequence. The story had given him an ending for the original Gu Tianxing, not a reliable clock counting down to it. Until he knew where he stood, even a seemingly harmless decision might carry consequences he could not foresee.
-
-Jiang crossed to the door and listened. The room beyond remained quiet for a moment, then he heard footsteps stop outside. He opened the door. A household attendant stood in the corridor, waiting nearby, dressed for service rather than cultivation or combat. Jiang did not recognize the person, but that hardly mattered; someone assigned to attend the Gu Clan's young master was a more useful starting point than a guess made in solitude.
-
-He kept his expression composed. There was no reason to reveal that he was a different man, and no need to imitate the original Gu Tianxing's arrogance before he understood the people around him. He studied the attendant briefly, then spoke in an even voice. "Tell me the date. Then tell me what has happened in the Gu Clan recently."
-
 
 * * *
 
+Jiang crossed the room barefoot. The stone floor was cool beneath him. He flexed his fingers, rolled his shoulders, and tested his balance, then searched the desk for a letter or dated document. The drawers held writing tools and blank paper. The shelves offered ornaments and books he could not yet read with confidence. Nothing gave him a reliable place in the story's chronology.
 
-“The date, Young Master, is the fourteenth day of the current month.”
+He was tempted to work backward from the events he remembered. That was how mistakes began: a vague recollection became an assumption, the assumption became a deadline, and every later decision inherited its error. He had read the novel for amusement, not to build a survival plan. The protagonist's rise, Gu Tianxing's short-lived role, the hidden treasures, the Azure Dragon calamity—he could recall the broad outline. The order of smaller events was blurred.
 
-Jiang waited for more, but the attendant seemed to consider the question answered. He stood outside the doorway with his hands held neatly before him, neither displaying alarm nor making any effort to fill the silence. Jiang studied him for a moment. The man knew who he was supposed to be attending; whether he knew anything useful was another matter.
+Footsteps stopped outside the door.
 
-“What has happened in the Gu Clan recently?” Jiang asked.
+Jiang waited. A light knock followed, cautious and formal. He opened the door to find a household attendant in plain service robes, hands folded in front of him. The man bowed without looking directly into Jiang's face.
 
-“The clan's affairs have proceeded as usual, Young Master. The elders have been occupied with internal matters, and the household has continued its ordinary business.” The attendant paused, then added, “There have been no developments that would require your immediate attention.”
+“Young Master.”
 
-An answer designed to say very little. Jiang could work with that. He had spent years in boardrooms listening to people bury important information beneath layers of professional courtesy. Sometimes the omissions were more revealing than the words themselves. But he had no reason to assume this attendant was hiding anything. Perhaps the man genuinely knew nothing beyond his duties. Perhaps the original Gu Tianxing rarely bothered asking. Either way, pressing him for secrets would produce little value.
+The title confirmed what the borrowed memories had suggested. Jiang kept his expression neutral. He had no reason to announce that he was a stranger wearing the young master's face, and even less reason to imitate an arrogance he did not understand.
 
-“What about my own affairs? Have I been expected anywhere, or is there anything scheduled for me?”
+“What is today's date?”
 
-“Nothing that I have been instructed to inform you of, Young Master.”
+“The fourteenth day of the current month, Young Master.”
 
-Jiang gave a small nod. He had learned three things: the date as this world recorded it, the absence of any immediate matter the attendant considered important, and the limits of what this particular source could tell him. None was enough to establish his place in the novel. He could remember its broad progression, the people who would rise, the opportunities that would appear, and the catastrophe that would eventually threaten the entire world. Yet the more he examined those memories, the more he recognized the gap between knowing the story and knowing the present. He had no reliable chronological anchor, and the date alone meant little without a calendar he understood.
+“Which month? Which year?”
 
-“That will be all for now,” Jiang said.
+The attendant's eyes flicked up, then down again. “The fourth month of the Gu calendar, in the current year.”
 
-The attendant bowed and withdrew. Jiang closed the door, then stood quietly in the middle of the room. He had wanted a countdown, something precise enough to turn survival into a schedule. Instead, he had confirmed how little he knew about his immediate circumstances. He would not correct that by guessing. First, he needed to understand the body he had inherited and the position Gu Tianxing occupied within the clan. After that, he could compare what he discovered against his memories of the novel. Jiang turned toward the room again, his expression settling into a cold, deliberate calm. He had lost control once because of a variable he could not predict. He would not make the same mistake by treating an unfamiliar world as if it were already understood.
+It was an answer, though not a useful one yet. Jiang would need a reference point before those words could anchor anything. He could ask for the calendar, the clan's records, or a list of recent events. Better to start with what the attendant might know without having to speculate.
 
+“What has happened in the Gu Clan recently?”
+
+The man took a moment to consider. “The elders have been occupied with internal matters. The household has continued its ordinary business. Nothing has been announced that requires your immediate attention.”
+
+A careful answer. Perhaps the attendant knew little; perhaps he had learned that young masters disliked being burdened with details. Jiang had spent enough years listening to executives conceal uncertainty behind polite phrases to recognize the habit, but he had no evidence that this man was concealing anything.
+
+“What am I expected to do today?”
+
+“Nothing has been given to me to report, Young Master.”
+
+Jiang nodded. The attendant could tell him the date and repeat the limits of his own instructions. He could not explain the clan's politics or identify the point in the novel's timeline. Pressing him would only encourage guesses.
+
+“That will be all.”
+
+The attendant bowed and left. Jiang closed the door and looked at the blank paper on his desk. He had wanted a countdown; instead, he had learned how little the household expected him to ask. That, too, was information. A young master who had been properly engaged with his duties would presumably have a schedule, appointments, or people demanding his attention. Either Gu Tianxing's affairs were unusually quiet, or he had neglected them badly enough that no one expected anything.
+
+Jiang wrote the date at the top of the page, then stopped. Without a known calendar or a confirmed event from the novel, the entry was a record, not an anchor.
+
+He would need a better source—and a better understanding of the body he had inherited.
 
 * * *
+
+The attendant's footsteps faded down the corridor. Jiang remained by the door for a moment, listening to the ordinary sounds of a household continuing around him: distant conversation, a tray set down somewhere, the soft scrape of a door sliding shut. Nothing in it suggested that the young master had died and been replaced.
+
+He returned to the mirror.
+
+The face looking back at him was young, clean-skinned, and unfamiliar. Jiang raised a hand; the reflection did the same. The eyes were Gu Tianxing's, but the person studying them was not. He searched for some sign that the borrowed memories had changed him, that he had become a mixture of two people. There was no such sensation. His own life remained intact. The other man's knowledge sat alongside it, unevenly accessible.
+
+He examined his shoulders and wrists, bent his knees, and shifted his weight. The body moved easily. No stiffness in the joints, no obvious injury. He took a few steps across the room and turned sharply. His balance held, though the movement felt different from what he expected. Youth had returned to him; ability had not been proven.
+
+In business, a title could open a meeting, but it could not make a failing company profitable. “Young Master” might grant him authority over servants, access to resources, or protection from ordinary consequences. It might also make him a target for people who resented the family. He knew the label. He did not yet know its terms.
+
+He looked around the room again. The silk canopy and lacquered furniture spoke of wealth. The floating incense burner spoke of a world whose rules he did not understand. The attendant's manner suggested that Gu Tianxing was accustomed to being obeyed, but not necessarily that he was respected. Jiang could not tell whether the household's quiet was deference or indifference.
+
+He could demand a parade of explanations. He could also pretend to remember every custom and every face, then wait for someone to expose him. Neither option appealed. He had survived his first life by learning what he did not know before committing resources. The same discipline would have to serve him here, though the cost of a mistake might be much more immediate than a lost acquisition.
+
+Jiang sat at the desk and wrote three headings: **remembered**, **observed**, **unknown**.
+
+Under remembered, he noted the broad shape of the novel and the fact that Gu Tianxing died early. He left the timing blank. Under observed, he wrote the date he had been given, the unfamiliar body, the opulent room, and the attendant's limited answers. Under unknown, he listed the current point in the plot, the body's cultivation level, the household's expectations, and the people who might be dangerous.
+
+The last column filled fastest.
+
+He set down the brush. It would be easy to mistake the ability to name a problem for progress toward solving it. He needed sources, tests, and a way to compare results. The room could tell him nothing more. The attendant had reached the limits of his usefulness.
+
+If this body belonged to a young master of a cultivation clan, the training grounds would be the place to begin. There, he could observe what other people considered normal, learn which abilities the body might possess, and find out whether Gu Tianxing's title rested on more than family connections.
+
+Jiang rose, opened the door, and called to a servant passing the far end of the corridor.
+
+“Take me to the eastern training courtyard.”
+
+The servant stopped and bowed. “At once, Young Master.”
+
+Jiang followed without asking the way twice.
+
+* * *
+
 
 
 The room had given Jiang no answers, and the attendant had given him fewer. Standing alone again, he turned his attention to the one thing he had so far treated as an inconvenient fact: the body itself.
@@ -140,7 +184,9 @@ He had spent his first moments looking for a date that would tell him how long h
 Jiang turned from the mirror and settled on a more immediate objective. Before he made any move against the future he remembered, he would establish the facts of his present life—starting with the capabilities of the body he now possessed and the expectations attached to his name. No grand declaration, no reckless display, and no borrowed confidence. First, he would learn the rules of the board. Then he would decide how to break them.
 
 
+
 * * *
+
 
 
 He did not leave the room to search for answers at random. If the body belonged to a cultivation clan's young master, then the clan's training grounds were the most direct place to begin learning what that title meant in practice.
@@ -287,7 +333,9 @@ As they crossed the courtyard, Jiang watched the trainees return to their drills
 He intended to find out why.
 
 
+
 * * *
+
 
 
 Jiang let Lin Wei walk half a pace ahead of him, close enough to guide him and far enough to preserve the appearance of deference. The boy kept his shoulders rigid and his eyes lowered.
@@ -355,7 +403,9 @@ The instructor's guarded expression did not disappear, but it became more attent
 Jiang had learned something already. People around Gu Tianxing expected him to be arrogant, not curious. He could exploit that expectation, but only if he understood what it concealed. For now, the instructor was the better source.
 
 
+
 * * *
+
 
 
 “Cultivation begins with the body, the breath, the circulation of qi, and the ability to guide it without injuring yourself,” the instructor said. “Combat is only one use of what a cultivator develops.”
@@ -437,7 +487,9 @@ Jiang rose from the platform. His rank had not changed, and his command of qi re
 He would not become powerful in three days. He could stop wasting them.
 
 
+
 * * *
+
 
 
 Jiang left the courtyard with instructions, not a miracle. That distinction suited him.
@@ -557,7 +609,9 @@ Jiang would use that status for something more valuable.
 
 He would make sure the assembly happened—and that the story did not happen the same way.
 
+
 * * *
+
 
 
 Jiang sent for the eastern courtyard's instructor before the afternoon had passed.
@@ -633,7 +687,9 @@ Shen Yan would receive his humiliation.
 This time, the man delivering it would know what he was doing.
 
 
+
 * * *
+
 
 
 The household clerk returned near the end of the afternoon with a revised schedule, three copied notices, and the cautious look of a man who had been told to answer questions without creating new ones.
