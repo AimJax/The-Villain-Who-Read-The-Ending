@@ -2,29 +2,80 @@
 
 ## Chapter 1 — The Man Who Owned Everything
 
-"Tell him he's lucky I'm even acknowledging the request," Jiang Tingyuan said, not looking up from his tablet. "But the answer is no. He can wait in the lobby until his security badge is deactivated."
+“Tell him he’s lucky I’m acknowledging the request,” Jiang Tingyuan said. He kept his eyes on the tablet. “The answer is no. He can wait in the lobby until security deactivates his badge.”
 
-The boardroom had the smell of expensive roast coffee and the silent, vibrating energy of victory. Around the mahogany table, executives celebrated the absorption of a decade-long rival. They called it a historic merger. Jiang knew the decisive work had happened months earlier: a refinancing deadline brought forward, two lenders quietly turned against the target, and a succession dispute encouraged until the board split itself in half. The takeover had looked inevitable only after he had made every alternative more expensive. He didn't join the champagne toast. The result was not a triumph to savor; it was a problem brought to its conclusion.
+No one around the boardroom table challenged him. The executives had spent the morning congratulating one another on a historic merger. Jiang let them enjoy the word. The company they had swallowed had been weakened months earlier: a refinancing deadline moved forward, two lenders persuaded to reconsider their exposure, and a succession dispute given just enough encouragement to become a war. By the time the board voted, every alternative cost more than surrender.
 
-He stood by the floor-to-ceiling windows, watching the city sprawl beneath him like a circuit board. Poverty had taught him to count what a person could lose; competition had taught him to identify what they could be made to fear losing. He had turned those lessons into an empire by learning industries faster than rivals expected, buying what he could not build, and breaking what he could not buy. He had traded away the usual architecture of a personal life—wife, children, the warmth of a home—and did not regret it. Influence was measurable. Affection had always seemed a poor substitute for control.
+The champagne arrived. Jiang left it untouched.
 
-In the back of the town car, Jiang leaned his head against the cool leather and scrolled through the final chapters of a cultivation novel. He scoffed, his thumb flicking aggressively through the pages. The protagonist had just ascended through a series of convenient coincidences and sheer luck, defeating a "mastermind" villain who had suddenly become incompetent for the sake of the plot. "Predictable garbage," Jiang muttered. It was an insult to the concept of strategy. If he had been the one navigating that world, he wouldn't have relied on destiny; he would have acquired the assets, leveraged the weaknesses, and owned the heaven itself before the protagonist even woke up.
+He had learned young that people called a victory inevitable only after they could no longer see the work that made it so. Poverty had taught him to count what could be lost. Business had taught him to discover which loss a person feared most, then arrange the negotiation around it. He had built his empire by learning industries faster than his rivals expected, buying what he could not build, and dismantling what refused to be bought. He had no wife waiting at home, no children whose future softened his decisions. He had made that trade deliberately. He did not regret it.
 
-The thought was interrupted by a scream of rending metal. A freight truck, having lost its brakes, tore through the intersection and slammed into the passenger side of the car with a violence that defied physics. There was no slow-motion realization, no final word of wisdom. Just a sudden, jarring transition from the absolute control of a global empire to the crushing weight of steel and glass. For the first time in his life, Jiang Tingyuan had encountered a variable he couldn't calculate.
+On the ride back, he opened the cultivation novel he had been reading between meetings. The protagonist had just defeated a supposed mastermind whose plans collapsed the moment the hero needed a triumphant scene. Coincidence had become insight; luck had become destiny; every opponent had grown stupid on schedule.
+
+“Predictable garbage,” Jiang muttered.
+
+His driver glanced at him in the mirror and looked back at the road.
+
+Jiang scrolled to the next chapter. The villain had supposedly spent decades preparing, yet had failed to account for a single obvious weakness. It was not even a clever trap. The plot had simply declared that the man must lose.
+
+If Jiang had been placed in that world, he thought, he would have bought the mines before the hero found the ore, secured the sect's creditors before the elders noticed their debts, and made every rival pay for the privilege of underestimating him. He would not wait for destiny to hand him a weapon. He would acquire the people who made weapons, the roads that carried them, and the authority that decided who could use them.
+
+The car entered an intersection.
+
+Metal screamed.
+
+A freight truck lurched across the lanes, its brakes gone. The driver swore and jerked the wheel, but there was nowhere to go. The truck struck the passenger side with a force that folded the door inward. Glass burst across Jiang's lap. The tablet flew from his hand. Something heavy crushed his chest, and the world narrowed to a pressure he could not bargain with.
+
+He tried to draw breath. Nothing came.
+
+There was no final insight, no dignified last thought. Only the absurdity of a life spent eliminating variables ending because one had slipped beyond his control.
+
+Then even that thought was gone.
 
 * * *
 
-The first thing Jiang noticed was that he was breathing through a nose that didn't smell like burning rubber and ozone. There was no scream of twisting metal, no sudden weight of a collapsing roof—only a profound, oppressive silence and the scent of sandalwood. He didn't panic; he simply opened his eyes and conducted a rapid inventory. He was lying on a canopy bed draped in heavy, gold-embroidered silks. His hands, resting atop a duvet of unnatural softness, were not the hands of a fifty-year-old corporate titan. They were smooth, pale, and lacked the slight tremor of a man who had spent three decades drinking espresso and fighting board wars.
+The first thing Jiang noticed was the smell.
 
-He sat up slowly, his mind clicking through a checklist of facts. He remembered the freight truck. He remembered the sensation of his ribs snapping like dry kindling. Most importantly, he remembered the novel he had been reading in the backseat of the car. As he looked around the room—at the ornate lacquerware, the floating incense burners, and the sheer opulence of the architecture—the pieces of a puzzle he hadn't known he was solving began to lock into place. He wasn't in a hospital, and he certainly wasn't in the afterlife he had vaguely anticipated.
+Not burning rubber, hot metal, or the sharp chemical tang that had filled the car. This was sandalwood, faint and sweet. Beneath it lay the stillness of a room where nothing had recently been broken.
 
-A flood of foreign information surged forward, though it didn't overwrite his own. It was like reading a briefing file on a new acquisition: names, faces, and a complex web of clan politics. He was Gu Tianxing. He was a "Young Master" of the Gu Clan, a title that, in this world, carried as much weight as a nepotism hire in a Fortune 500 company. The realization hit him with a cold, clinical precision: he had been dropped into the world of the cultivation novel, inhabiting the body of a character designed specifically to be a punching bag for the protagonist.
+He opened his eyes.
 
-In the text, Gu Tianxing was a footnote of arrogance—a loud-mouthed foil whose only purpose was to provide the hero with a reason to exercise a newfound technique. He was a disposable villain, a stepping stone whose inevitable downfall was written into the very structure of the plot. For a man like Jiang, who had built an empire from nothing by identifying the weakest link in every chain, the irony was palpable. He had been cast in the role of the loser, a man destined to be crushed by a narrative that demanded his failure.
+A canopy hung above him, its fabric embroidered with gold thread. Lacquered furniture stood along the walls; a bronze incense burner floated a short distance above a carved stand. He stared at it, waiting for the trick to reveal itself. It did not. The scent drifted from the burner all the same.
 
-Jiang leaned back against the silk pillows, his gaze drifting to the ornate ceiling. He didn't feel the urge to scream or the impulse to celebrate; instead, he felt the familiar spark of a challenge. He knew the plot, the hidden treasures, and the eventual arrival of the Azure Dragons, but he also knew that the "script" only worked if the characters acted according to their tropes. He was no longer a reader; he was a stakeholder with a vested interest in survival. Before he could rewrite the ending, however, he needed to determine exactly where he was in the timeline—and how many days he had left before the original Gu Tianxing was scheduled to die.
+Jiang sat up. Pain did not follow. His chest expanded without resistance. He looked at his hands and turned them over. Smooth skin, unmarked knuckles, no age spots. These were not the hands of the man who had built a technology empire across three decades of boardroom battles.
+
+He remembered the truck. He remembered the crush of steel. He remembered dying.
+
+His pulse quickened once, then settled. Panic would not make the room more comprehensible.
+
+When he tried to understand where he was, another set of memories stirred—names, faces, fragments of family relationships, the weight of a title he had never held. They came without displacing his own life. Jiang remained Jiang Tingyuan; the information belonged to someone else, and yet it sat inside his mind with the unsettling familiarity of facts learned long ago.
+
+Gu Tianxing. Young Master of the Gu Clan.
+
+The name pulled another memory into focus: the cultivation novel he had been reading. Its world, its clans, its cultivation stages. Gu Tianxing had been one of its early villains, an arrogant young master who existed largely to be humiliated by the protagonist. He was loud enough to provoke a fight and foolish enough to believe his family name would protect him from the consequences. The protagonist needed a demonstration of a new technique. Gu Tianxing supplied the target.
+
+Jiang looked toward the window. Beyond its lattice, he could see a slice of unfamiliar courtyard and roofline. No traffic. No electric hum. No city skyline.
+
+He had not survived the crash in any ordinary sense. He had awakened in the world of a story he had finished reading.
+
+The absurdity should have been enough to make him laugh. Instead, he found himself remembering the book's failures: the convenient discoveries, the rivals who forgot their own advantages, the supposedly brilliant villains who never prepared for obvious outcomes. He had read it as entertainment and dismissed it as nonsense. Now the nonsense had become his environment.
+
+He knew the broad shape of the plot. The original protagonist would rise, find opportunities, and eventually confront the Azure Dragons, a calamity that threatened the world. Jiang remembered hidden treasures and turning points, but the details had never mattered enough to memorize. He had read quickly, irritated by the writing, confident that he would have done better.
+
+The memory of Gu Tianxing was less complete than the novel's main arc. A disposable villain. A public humiliation. A death that arrived early enough for the protagonist's rise to feel satisfying.
+
+How early?
+
+He could not place the scene on a calendar. He could not even be sure which chapter he had reached when Gu Tianxing's part ended. The plot remained in his mind as a sequence of events without reliable dates, more like a report remembered after a long meeting than a document he could consult.
+
+Jiang leaned back against the pillows and looked again at his unfamiliar hands.
+
+He had been given a body, a name, and a place in a story that expected him to die. None of those facts told him what to do next. First he needed to establish where he was in the timeline, what this household expected from Gu Tianxing, and what the body could actually manage. Until then, any plan built on remembered plot would be guesswork dressed up as certainty.
+
+He pushed the covers aside. The room was lavish. That did not mean he was safe.
 
 * * *
+
 
 Jiang swung his legs over the side of the bed and stood. The floor was cool beneath his bare feet. He took in the room once more: the canopy, the embroidered silks, the lacquerware, the sandalwood incense drifting from its floating burner. The place was lavish, but its furnishings told him little about the danger waiting beyond its walls. He checked his hands, flexed his fingers, then rolled his shoulders and tested his balance. The body felt young and uninjured. That was all he could conclude. He had no intention of mistaking a healthy body for a powerful one.
 
@@ -36,7 +87,9 @@ Jiang crossed to the door and listened. The room beyond remained quiet for a mom
 
 He kept his expression composed. There was no reason to reveal that he was a different man, and no need to imitate the original Gu Tianxing's arrogance before he understood the people around him. He studied the attendant briefly, then spoke in an even voice. "Tell me the date. Then tell me what has happened in the Gu Clan recently."
 
+
 * * *
+
 
 “The date, Young Master, is the fourteenth day of the current month.”
 
@@ -58,7 +111,9 @@ Jiang gave a small nod. He had learned three things: the date as this world reco
 
 The attendant bowed and withdrew. Jiang closed the door, then stood quietly in the middle of the room. He had wanted a countdown, something precise enough to turn survival into a schedule. Instead, he had confirmed how little he knew about his immediate circumstances. He would not correct that by guessing. First, he needed to understand the body he had inherited and the position Gu Tianxing occupied within the clan. After that, he could compare what he discovered against his memories of the novel. Jiang turned toward the room again, his expression settling into a cold, deliberate calm. He had lost control once because of a variable he could not predict. He would not make the same mistake by treating an unfamiliar world as if it were already understood.
 
+
 * * *
+
 
 The room had given Jiang no answers, and the attendant had given him fewer. Standing alone again, he turned his attention to the one thing he had so far treated as an inconvenient fact: the body itself.
 
@@ -84,7 +139,9 @@ He had spent his first moments looking for a date that would tell him how long h
 
 Jiang turned from the mirror and settled on a more immediate objective. Before he made any move against the future he remembered, he would establish the facts of his present life—starting with the capabilities of the body he now possessed and the expectations attached to his name. No grand declaration, no reckless display, and no borrowed confidence. First, he would learn the rules of the board. Then he would decide how to break them.
 
+
 * * *
+
 
 He did not leave the room to search for answers at random. If the body belonged to a cultivation clan's young master, then the clan's training grounds were the most direct place to begin learning what that title meant in practice.
 
@@ -229,7 +286,9 @@ As they crossed the courtyard, Jiang watched the trainees return to their drills
 
 He intended to find out why.
 
+
 * * *
+
 
 Jiang let Lin Wei walk half a pace ahead of him, close enough to guide him and far enough to preserve the appearance of deference. The boy kept his shoulders rigid and his eyes lowered.
 
@@ -295,7 +354,9 @@ The instructor's guarded expression did not disappear, but it became more attent
 
 Jiang had learned something already. People around Gu Tianxing expected him to be arrogant, not curious. He could exploit that expectation, but only if he understood what it concealed. For now, the instructor was the better source.
 
+
 * * *
+
 
 “Cultivation begins with the body, the breath, the circulation of qi, and the ability to guide it without injuring yourself,” the instructor said. “Combat is only one use of what a cultivator develops.”
 
@@ -375,7 +436,9 @@ Jiang rose from the platform. His rank had not changed, and his command of qi re
 
 He would not become powerful in three days. He could stop wasting them.
 
+
 * * *
+
 
 Jiang left the courtyard with instructions, not a miracle. That distinction suited him.
 
@@ -493,7 +556,9 @@ The original Gu Tianxing had believed that status meant he could force any situa
 Jiang would use that status for something more valuable.
 
 He would make sure the assembly happened—and that the story did not happen the same way.
+
 * * *
+
 
 Jiang sent for the eastern courtyard's instructor before the afternoon had passed.
 
@@ -567,7 +632,9 @@ Shen Yan would receive his humiliation.
 
 This time, the man delivering it would know what he was doing.
 
+
 * * *
+
 
 The household clerk returned near the end of the afternoon with a revised schedule, three copied notices, and the cautious look of a man who had been told to answer questions without creating new ones.
 
